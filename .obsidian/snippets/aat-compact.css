@@ -1,0 +1,13 @@
+h2.aat-card-title {
+    font-size: 16px;
+}
+
+.aat-card-body p {
+    margin-top: 0;
+    margin-bottom: 0px;
+    font-size: 12px;
+}
+
+div.aat-card-text-wraper {
+    gap: 4px;
+}

@@ -1,0 +1,19 @@
+{
+  "accentColor": "",
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "FantasyFonts",
+    "GenesysDice",
+    "statblocks-genesys-essentials",
+    "statblocks-vehicle-essentials",
+    "CleanEmbeds",
+    "timelinethumbnail",
+    "aat-compact",
+    "DataviewTableFix",
+    "DatabaseFolderFix",
+    "MetaHider"
+  ],
+  "baseFontSize": 18,
+  "theme": "obsidian"
+}

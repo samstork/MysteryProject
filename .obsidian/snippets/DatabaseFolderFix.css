@@ -1,0 +1,15 @@
+/*
+    tables-auto-left.css snippet
+
+    Adjust tables for auto-width columns & not using full width.
+
+    2021-06-07 Matthias C. Hormann (Moonbase59)
+*/
+
+.database-plugin__row-extend-decorator .node-insert-event {
+    float:none;
+    width: unset;
+    max-width: 90%;
+}
+
+/*     background-color: #2e4d3c !important;  */

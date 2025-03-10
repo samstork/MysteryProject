@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "66e6085601d6e880",
+    "type": "split",
+    "children": [
+      {
+        "id": "50399f121cc426e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4435164641d7612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Secret Mystery Project/Primer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Primer"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "549dfc48e092767d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b8f486616ce89de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "946cbe34a4d14e3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4488cfe31a1f76bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4a2e6493fbe6790e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.50499725341797
+  },
+  "right": {
+    "id": "805d8365d9c3bd0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fbe7c8851c2435b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a88febe8757afbc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "54e1176bebfe3e75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Secret Mystery Project/Primer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Primer"
+            }
+          },
+          {
+            "id": "10ff7be4f5fe9f37",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Secret Mystery Project/Primer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Primer"
+            }
+          },
+          {
+            "id": "52aff559f4a5bc5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2-World/History/Modern History/Barion/Cradle War.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cradle War"
+            }
+          },
+          {
+            "id": "bcd549eb5d9d455d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0d9381e651bcff1e",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_baab6a69999b",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 10,
+                    "month": 5,
+                    "year": 424
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 10,
+                    "month": 5,
+                    "year": 424
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true
+                },
+                "id": "ID_28892baab8e8"
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "a601ec903bd3ff03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77a2211b394bbb01",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "93ce33934444e08a",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_baab6a69999b",
+                "id": "ID_7bba2a5bc8e8",
+                "parent": "ID_28892baab8e8"
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-importer:Open Importer": false,
+      "dbfolder:Create a new database table": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "system3-relay:Relay": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "946cbe34a4d14e3c",
+  "lastOpenFiles": [
+    "Secret Mystery Project/Rough Notes/Brainstorming Session (2025-03-10).md",
+    "Secret Mystery Project/Rough Notes",
+    "Secret Mystery Project/Primer.md",
+    "Secret Mystery Project/Idea Brainstorming/Character Ideas.md",
+    "Secret Mystery Project/Idea Brainstorming",
+    "Secret Mystery Project/Idea Brainstorming/Touch Ideas.md",
+    "Secret Mystery Project/Idea Brainstorming/Faction Ideas.md",
+    "Secret Mystery Project/Mystery Project Brainstorming Private.md",
+    "Thesis Meeting 3.md",
+    "Social Robotics Practical/Social Robotics Practical.md",
+    "Secret Mystery Project/Trapper.md",
+    "Bayesian Delegation.md",
+    "Bachelor's Project.md",
+    "Untitled.md",
+    "Social Robotics Practical/SRP Lecture 1 Scratch.md",
+    "Secret Mystery Project",
+    "Pasted image 20250306121239.webp",
+    "z-Assets",
+    "Thesis Meeting.md",
+    "Card Differences Tabletop vs Bodleian.md",
+    "Social Robotics Practical/Gemini LLM.md",
+    "Social Robotics Practical/Alpha Mini.md",
+    "Mirror of Myth/Footnotes.md",
+    "Mirror of Myth/Virgil. Georgics I.20-1.md",
+    "Mirror of Myth",
+    "Social Robotics Practical",
+    "Mirror of Myth/Gods Essay Draft.md",
+    "Mirror of Myth/Theories Stuff.md",
+    "Mirror of Myth/Monster with Divine Affiliation.md",
+    "Mirror of Myth/GE Body Structure A.md",
+    "Mirror of Myth/Pan and Silvanus.md",
+    "Mirror of Myth/God Essay Brainstorming.md",
+    "2-World/Characters/Deity",
+    "2-World/Characters/Minion",
+    "2-World/Characters/Rival",
+    "2-World/Characters/Nemesis",
+    "z-Assets/Images/Pasted image 20240829163745.webp",
+    "z-Assets/Images/tumblr_25bb1866e16250051b3d584c191ff521_35d4d453_540.webp",
+    "z-Assets/Images/Balcony.webp",
+    "z-Assets/Images/14274.webp",
+    "z-Assets/Images/Cradle.webp",
+    "z-Assets/Images/TempleConstruction.webp",
+    "z-Assets/Images/GailenKingdom.webp",
+    "z-Assets/Images/cabane-our-guide-to-winter-flowers-the-delicate-beauty-of-anemones.webp",
+    "z-Assets/Images/Equisetopsida.webp",
+    "0-Toolkit/0-Toolkit.canvas"
+  ]
+}

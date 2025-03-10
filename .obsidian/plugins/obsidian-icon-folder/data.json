@@ -1,0 +1,828 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasHatWizard",
+      "FasUserLarge",
+      "FasUsers",
+      "FasCrown",
+      "FasFlag"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": false,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": true,
+    "useInternalPlugins": false
+  },
+  "z-Templates/2-Articles/Article - Organisation.md": {
+    "iconName": "FasUserGroup"
+  },
+  "z-Templates/2-Articles/Article - NPC.md": {
+    "iconName": "FasUserLarge"
+  },
+  "z-Templates/2-Articles/Article - Location S.md": {
+    "iconName": "FasMap"
+  },
+  "z-Templates/2-Articles/Article - Settlement.md": {
+    "iconName": "FasHouse"
+  },
+  "z-Templates/2-Articles/Article - Monster.md": {
+    "iconName": "RaSkull"
+  },
+  "z-Templates/Template - Player.md": {
+    "iconName": "OcSparkleFill16"
+  },
+  "2-World": "FasGlobe",
+  "2-World/Characters": "FasPeopleGroup",
+  "2-World/History": "FasBook",
+  "2-World/Locations": "FasMap",
+  "2-World/Organisations": "FasUsers",
+  "z-Templates/Session Notes.md": {
+    "iconName": "FasNoteSticky"
+  },
+  "2-Campaign/z-Bestiary": "FasDragon",
+  "2-Campaign/Plans": "FasRoute",
+  "1-Session Notes": "FasScroll",
+  "1-Party": "FasSailboat",
+  "0-Toolkit": "FasToolbox",
+  "z-Templates/3-Leaflet/Insert Regional Map.md": "FasCompass",
+  "z-Templates/2-Articles/Article - NPC Minion.md": {
+    "iconName": "FasUserLarge"
+  },
+  "z-Templates/1-Markdown/April's Timeline/Timeline - Add Event.md": {
+    "iconName": "OcDotFill16"
+  },
+  "0-Toolkit/DM Sideboard.md": "FasToolbox",
+  "z-Assets/Images": "FasImage",
+  "2-Campaign/z-Bestiary/Bonedrinker.md": {
+    "iconName": "RaSkull"
+  },
+  "z-Templates/2-Articles/Article - Event.md": {
+    "iconName": "OcDotFill16"
+  },
+  "1-Party/Enaris/Enaris.md": {
+    "iconName": "FasCat"
+  },
+  "1-Party/Enaris": "FasCat",
+  "z-Templates/1-Markdown/Aprils Timeline/Timeline - Add Event.md": {
+    "iconName": "OcDotFill16"
+  },
+  "1-Party/Enaris/Enaris' Timeline": "FasHourglassEnd",
+  "1-Party/Enaris/Enaris' Timeline/Hylo.md": {
+    "iconName": "OcDotFill16"
+  },
+  "1-Party/Enaris/Enaris' Timeline/Roxie Flynn.md": {
+    "iconName": "OcDotFill16"
+  },
+  "1-Party/Enaris/Enaris' Timeline/Scoria.md": {
+    "iconName": "OcDotFill16"
+  },
+  "1-Party/Enaris/Enaris' Timeline/Enaris' Timeline.md": {
+    "iconName": "OcDotFill16"
+  },
+  "1-Party/Enaris/Enaris' Timeline/Arameia.md": {
+    "iconName": "OcDotFill16"
+  },
+  "1-Party/Apostle.md": {
+    "iconName": "RaOctopus"
+  },
+  "1-Party/Pina.md": {
+    "iconName": "RaPineTree"
+  },
+  "1-Party/Tuft.md": {
+    "iconName": "RaFlowers"
+  },
+  "z-Templates/2-Articles/Article - Other.md": {
+    "iconName": "FasFile"
+  },
+  "2-World/Organisations/Briarbloods.md": {
+    "iconName": "FasUserGroup"
+  },
+  "2-Campaign/z-Bestiary/Idenite.md": {
+    "iconName": "RaSkull"
+  },
+  "2-Campaign/z-Bestiary/Tanglebeast.md": {
+    "iconName": "RaSkull"
+  },
+  "2-Campaign/z-Bestiary/Garanharo.md": {
+    "iconName": "RaSkull"
+  },
+  "2-World/Other/Anoran Gift of Iden.md": {
+    "iconName": "FasFile"
+  },
+  "2-Campaign/z-Bestiary/Glumbug.md": {
+    "iconName": "RaSkull"
+  },
+  "2-Campaign/z-Bestiary/Anoran-Idenite Monstrosity.md": {
+    "iconName": "RaSkull"
+  },
+  "1-Party/Onu/Onu.md": {
+    "iconName": "OcSparkleFill16"
+  },
+  "1-Party/Onu": "FasHandLizard",
+  "1-Party/Onu/Onus Timeline": "FarHourglassHalf",
+  "1-Party/Onu/Onus Timeline/Onu's Boat to Mailnaira.md": {
+    "iconName": "OcDotFill16"
+  },
+  "z-Assets/Books": "LiBook",
+  "2-World/History/Place Timelines/Koulatana Timeline/Koulatana founded.md": {
+    "iconName": "OcDotFill16"
+  },
+  "2-World/History/Place Timelines/Koulatana Timeline/Koulatana Timeline.md": {
+    "iconName": "OcDotFill16"
+  },
+  "2-World/History/Births and Deaths.md": "LiHourglass",
+  "2-World/History/Modern History/Bailmao Schism.md": {
+    "iconName": "OcDotFill16"
+  },
+  "2-World/History/Modern History/Halanairan Civil War.md": {
+    "iconName": "OcDotFill16"
+  },
+  "2-World/History/Modern History/Secession of Mahae.md": {
+    "iconName": "OcDotFill16"
+  },
+  "z-Templates/2-Articles/Article - Item.md": {
+    "iconName": "FasSackXmark"
+  },
+  "1-Session Notes/Session 3.md": {
+    "iconName": "FasNoteSticky"
+  },
+  "1-Session Notes/Session 4.md": {
+    "iconName": "FasNoteSticky"
+  },
+  "1-Session Notes/Session 5.md": {
+    "iconName": "FasNoteSticky"
+  },
+  "1-Session Notes/Session 6.md": {
+    "iconName": "FasNoteSticky"
+  },
+  "1-Session Notes/Session 7.md": {
+    "iconName": "FasNoteSticky"
+  },
+  "1-Session Notes/Session 8.md": {
+    "iconName": "FasNoteSticky"
+  },
+  "2-Campaign/Items/Idenite Lantern.md": {
+    "iconName": "FasSackXmark"
+  },
+  "1-Session Notes/Session 9.md": {
+    "iconName": "FasNoteSticky"
+  },
+  "2-World/Other/Languages": "LiLanguages",
+  "2-World/Other/Metaphysics": "OcNorthStar16",
+  "2-World/History/Recent Events/Kaporan Revolt.md": {
+    "iconName": "OcDotFill16"
+  },
+  "2-Campaign/Items/Spirit Cage.md": {
+    "iconName": "FasSackXmark"
+  },
+  "2-Campaign/Items/Specific Items/Bow of Koulata.md": {
+    "iconName": "FasSackXmark"
+  },
+  "z-Templates/2-Articles/Article - Weapon.md": {
+    "iconName": "FasSackXmark"
+  },
+  "2-World/Locations/Sea of Cinders/Sea of Cinders.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Sea of Cinders/Black Wall.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/History/Recent Events/Barkfoot Massacre.md": {
+    "iconName": "OcDotFill16"
+  },
+  "2-Campaign/z-Bestiary/Nariax.md": {
+    "iconName": "RaSkull"
+  },
+  "2-Campaign/Items/Generic Recipes/Affinity Oil.md": {
+    "iconName": "FasFlask"
+  },
+  "2-Campaign/Items/Generic Recipes/Resisting Salve.md": {
+    "iconName": "FasFlask"
+  },
+  "2-World/History/Modern History/Barion/Battle of Brull.md": {
+    "iconName": "OcDotFill16"
+  },
+  "2-World/History/Modern History/Barion/Cradle War.md": {
+    "iconName": "OcDotFill16"
+  },
+  "2-World/Organisations/Religions/High Temple.md": {
+    "iconName": "FasAnkh"
+  },
+  "2-World/Organisations/Religions/Bailmao Church of Anora.md": {
+    "iconName": "FasAnkh"
+  },
+  "2-World/Organisations/Religions/Orthodox Bailmao.md": {
+    "iconName": "FasUserGroup"
+  },
+  "2-World/Organisations/Koulatana Militia.md": {
+    "iconName": "FasUserGroup"
+  },
+  "2-World/Organisations/Religions/Neo-Laikolianism.md": {
+    "iconName": "FasUserGroup"
+  },
+  "2-Campaign/Items/Gilded Lockbox.md": "FasSquare",
+  "2-World/Organisations/Darkwatch.md": {
+    "iconName": "FasUserGroup"
+  },
+  "2-World/Locations/Rising Lands/Rising Lands.md": {
+    "iconName": "FasMap"
+  },
+  "2-Campaign/Items/Vault Keys.md": {
+    "iconName": "RaCrystalCluster"
+  },
+  "2-Campaign/Items/Hope of Malinora.md": {
+    "iconName": "FasSackXmark"
+  },
+  "2-World/Organisations/Party.md": {
+    "iconName": "FasUserGroup"
+  },
+  "2-World/History/An-Dyea's Creation.md": {
+    "iconName": "OcDotFill16"
+  },
+  "2-Campaign/Items/Gladius.md": {
+    "iconName": "FasSackXmark"
+  },
+  "2-Campaign/z-Bestiary/Crakes.md": {
+    "iconName": "RaSkull"
+  },
+  "2-World/Locations/Verdant Seas/Verdant Seas.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Verdant Seas Map.md": "FasMap",
+  "2-World/Locations/Skylar/Gailen.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Skylar/Sc. Dedication Military Academy.md": {
+    "iconName": "FasSchool"
+  },
+  "2-World/Locations/Verdant Seas/Vault of Malinora.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Mero/Mero.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Mero/Merama.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Organisations/Verdant Seas Nations/Hekao Empire.md": {
+    "iconName": "FasFlag"
+  },
+  "2-World/Organisations/Verdant Seas Nations/Gohae Federation.md": {
+    "iconName": "FasFlag"
+  },
+  "2-World/Organisations/Verdant Seas Nations/Historical/Halanaira.md": {
+    "iconName": "FasFlag"
+  },
+  "2-World/Organisations/Skylar Nations/Barion/Barion Navy.md": {
+    "iconName": "LiSwords"
+  },
+  "2-World/Organisations/Skylar Nations/Barion/Barion.md": {
+    "iconName": "RaHeavyShield"
+  },
+  "2-World/Organisations/Skylar Nations/Barion/Kingdom of Gailen.md": {
+    "iconName": "FasUserGroup"
+  },
+  "2-World/Organisations/Skylar Nations/Barion/Barion Noble Houses/Barion Noble Houses.md": {
+    "iconName": "FasFile"
+  },
+  "2-World/Organisations/Skylar Nations/Barion/Barion Noble Houses/House Limlass.md": {
+    "iconName": "FasUserGroup"
+  },
+  "2-World/Organisations/Skylar Nations/Barion/Barion Noble Houses/House Antrus.md": {
+    "iconName": "FasUserGroup"
+  },
+  "2-World/Organisations/Skylar Nations/Barion/Barion Noble Houses/House Lanoreto.md": {
+    "iconName": "FasUserGroup"
+  },
+  "2-World/Organisations/Skylar Nations/Barion/Barion Noble Houses/Royal House of Crais.md": {
+    "iconName": "FasUserGroup"
+  },
+  "2-World/Organisations/Religions/Laikolaian Pantheon.md": {
+    "iconName": "FasUserGroup"
+  },
+  "2-World/Locations/Verdant Seas/Marwe": "RaHeavyShield",
+  "2-World/Locations/Verdant Seas/Marwe/Koulatana": "FasHouse",
+  "2-World/Locations/Verdant Seas/Marwe/Koulatana/Dewdrop Inn.md": {
+    "iconName": "RaBeer"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Koulatana/Koulatana.md": {
+    "iconName": "FasHouse"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Koulatana/Koulatana Lockbox.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Koulatana/Map of Koulatana.md": "FasMapLocation",
+  "2-World/Locations/Verdant Seas/Marwe/Koulatana/Koulatana Town Hall.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Koulatana/Koulata Temple/Koulata Temple.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Yohame.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Lourinde.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Pohibo.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Prageme.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Saorla/Saorla.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Saorla/City of Mahae.md": {
+    "iconName": "FasHouse"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Marwe.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/East Marwe/Osedih.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/East Marwe/Deshuhih.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/East Marwe/Pustep.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Saorla/Port Victorious.md": {
+    "iconName": "FasHouse"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Saorla/Noble Prosperity.md": {
+    "iconName": "FasHouse"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/East Marwe/Fanhih.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/East Marwe/Chasme.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Saorla/Habrih.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Saorla/Great Saorla.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/West Marwe/Mombo.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Saorla/Epaola/Epaola.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Saorla/Epaola/Sareia.md": {
+    "iconName": "FasHouse"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/West Marwe/Hanalor/Hanalor.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/West Marwe/Hanalor/Port Alacrity.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/East Marwe/Ajea.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/East Marwe/Timme.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/East Marwe/Kastih.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Saorla/Gukaisho.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Saorla/Peho.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/West Marwe/Himebo.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/West Marwe/Tairi.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/West Marwe/Outae.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/West Marwe/Ohaime.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Saorla/Terkshih.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Marwe/Saorla/Tsundhi.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Kaokana": "RaHeavyShield",
+  "2-World/Locations/Verdant Seas/Kaokana/Erainame.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Kaokana/Hozedaw.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Kaokana/Kaora.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Kaokana/Hebate.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Kaokana/Kaokana.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Kaokana/Mainde.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Kaokana/Laikana.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Nairame/Gohae": "RaHeavyShield",
+  "2-World/Locations/Verdant Seas/Nairame/Gohae/Gohae.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Organisations/Verdant Seas Nations/Republic of Kaolao.md": {
+    "iconName": "FasFlag"
+  },
+  "2-World/Organisations/Verdant Seas Nations/Mahae.md": {
+    "iconName": "FasFlag"
+  },
+  "2-World/Organisations/Verdant Seas Nations/Kapor.md": {
+    "iconName": "FasFlag"
+  },
+  "2-World/Organisations/Verdant Seas Nations/Hulnaira.md": {
+    "iconName": "FasFlag"
+  },
+  "2-World/Organisations/Verdant Seas Nations/Mailnaira.md": {
+    "iconName": "FasFlag"
+  },
+  "2-World/Locations/Verdant Seas/Nairame/East Nairame": "RaHeavyShield",
+  "2-World/Locations/Verdant Seas/Nairame/East Nairame/Haimere/Haimere.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Nairame/East Nairame/Haimere/Iaxatara.md": {
+    "iconName": "FasHouse"
+  },
+  "2-World/Locations/Verdant Seas/Nairame/East Nairame/East Nairame.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Nairame/Malanairame/Oruke/Oruke.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Nairame/Malanairame/Oruke/Maikrya.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Nairame/Malanairame/Oruke/Laidwyke.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Verdant Seas/Morau.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Nara-Kaila's Island.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Kapor/Port Victorious.md": {
+    "iconName": "FasHouse"
+  },
+  "2-World/Locations/Sc. Dedication Military Academy.md": {
+    "iconName": "FasSchool"
+  },
+  "2-World/Locations/Mahae/Koulatana/Dewdrop Inn.md": {
+    "iconName": "RaBeer"
+  },
+  "2-World/Organisations/Barion/House Antrus.md": {
+    "iconName": "FasUserGroup"
+  },
+  "2-World/Organisations/Barion/House Lanoreto.md": {
+    "iconName": "FasUserGroup"
+  },
+  "2-World/Organisations/Barion/House Limlass.md": {
+    "iconName": "FasUserGroup"
+  },
+  "2-World/Locations/Mahae/Koulatana/Koulatana Lockbox.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mahae/Koulatana/Koulatana Town Hall.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mahae/Koulatana/Koulatana.md": {
+    "iconName": "FasHouse"
+  },
+  "2-World/Locations/Kapor/Noble Prosperity.md": {
+    "iconName": "FasHouse"
+  },
+  "2-World/Locations/Iaxatara.md": {
+    "iconName": "FasHouse"
+  },
+  "2-World/Locations/Mahae/Epaola/Epaola.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mahae/Epaola/Sareia.md": {
+    "iconName": "FasHouse"
+  },
+  "2-World/Locations/Hulnaira/Hulnaira.md": {
+    "iconName": "FasFlag"
+  },
+  "2-World/Locations/Mahae/Gukaisho.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mahae/Prageme.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mahae/Ohaime.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mahae/Lourinde.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mahae/Ajea.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mahae/S. Saorla/City of Mahae.md": {
+    "iconName": "FasHouse"
+  },
+  "2-World/Locations/Mahae/Yohame.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Kapor/Chasme.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mahae/Pohibo.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mahae/Peho.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mahae/Mombo.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Hulnaira/Laikana.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Kapor/Deshuhih.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Kapor/Fanhih.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Kapor/Habrih.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Kapor/Pustep.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Kapor/Osedih.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mahae/Timme.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Saorla.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mahae/Outae.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mahae/Himebo.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Kapor/Kapor.md": {
+    "iconName": "FasFlag"
+  },
+  "2-World/Locations/Kaolao/Kaolao.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mahae/Mahae.md": {
+    "iconName": "FasFlag"
+  },
+  "2-World/Locations/Mailnaira/Mailnaira.md": {
+    "iconName": "FasFlag"
+  },
+  "2-World/Locations/Kapor/Kastih.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Kapor/Terkshih.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Hekao/Kaora.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Kapor/Tsundhi.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Halanaira.md": {
+    "iconName": "FasFlag"
+  },
+  "2-World/Locations/Hekao/Hebate.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Hekao/Erainame.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Hekao/Hozedaw.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mahae/Tairi.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Hulnaira/Mainde.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mailnaira/Maikrya.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mailnaira/Oruke.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Haimere/Haimere.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Mailnaira/Laidwyke.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Organisations/Barion/Barion Navy.md": {
+    "iconName": "LiSwords"
+  },
+  "2-World/Locations/Gohae/Gohae.md": {
+    "iconName": "FasFlag"
+  },
+  "2-World/Locations/Mahae/Hanalor/Hanalor.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Organisations/Barion/Barion.md": {
+    "iconName": "RaHeavyShield"
+  },
+  "2-World/Locations/Mahae/Hanalor/Port Alacrity.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Organisations/Barion/Kingdom of Gailen.md": {
+    "iconName": "FasUserGroup"
+  },
+  "2-World/Organisations/Barion/Royal House of Crais.md": {
+    "iconName": "FasUserGroup"
+  },
+  "2-World/Organisations/Barion/Barion Noble Houses.md": {
+    "iconName": "FasFile"
+  },
+  "2-World/Locations/Hekao/Hekao.md": {
+    "iconName": "FasFlag"
+  },
+  "2-World/Organisations/Laikolaian Pantheon.md": {
+    "iconName": "FasUserGroup"
+  },
+  "2-World/Locations/Mahae/Koulatana/Koulata Temple/Koulata Temple.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Skylar/Gailen 1.md": {
+    "iconName": "FasMap"
+  },
+  "2-World/Locations/Gailesburg.md": {
+    "iconName": "FasHouse"
+  },
+  "z-Templates/2-Articles/Article - Nation.md": {
+    "iconName": "FasFlag"
+  },
+  "z-Templates/2-Articles/Article - Position.md": {
+    "iconName": "FasCrown"
+  },
+  "2-World/Organisations/Crown of Gailen.md": {
+    "iconName": "FasCrown"
+  },
+  "2-World/Organisations/King of Kapor.md": {
+    "iconName": "FasCrown"
+  },
+  "z-Templates/2-Articles Nonbutton/NPC.md": {
+    "iconName": "FasUserLarge"
+  },
+  "z-Templates/2-Articles Nonbutton/NPC Minion.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Nemesis/Cailenian.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Rival/Calero.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Nemesis/Erena I.md": {
+    "iconName": "FasCrown"
+  },
+  "2-World/Characters/Minion/Evinairo.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Minion/Golbresht.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Rival/Gorato.md": {
+    "iconName": "FasUser"
+  },
+  "2-World/Characters/Rival/Halori.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Nemesis/Joan Antrus.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Minion/Laira.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Rival/Lodelai.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Nemesis/Nara-Kaila.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Rival/Nurato.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Minion/Orelai.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Rival/Rinugo.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Nemesis/Saruo.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Minion/Suro.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Rival/Syraine.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Rival/Malkai.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Deity/An-Dyea.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Rival/Boralanorioto.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Minion/Gargos Galfros.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Rival/Ixaro.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Rival/Maron I.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Rival/Maron II.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Rival/Maron III.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Rival/Merinian.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Minion/Karava.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Rival/Orotu Pai.md": {
+    "iconName": "FasCrown"
+  },
+  "2-World/Characters/Rival/Rodain.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Rival/Roiko.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Nemesis/Malinora.md": {
+    "iconName": "FasHatWizard"
+  },
+  "2-World/Characters/Rival/Nalaitu Pai.md": {
+    "iconName": "FasCrown"
+  },
+  "2-World/Characters/Nemesis/Suosa.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Nemesis/Hinala.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Nemesis/Avarea of Crais.md": {
+    "iconName": "FasUserLarge"
+  },
+  "2-World/Characters/Rival/Prifurth.md": {
+    "iconName": "FasUserLarge"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sharedFolders": [
+    {
+      "guid": "0db4953e-3d1c-4710-ac54-5baf7cb90dfb",
+      "path": "Secret Mystery Project",
+      "relay": "92c6998e-9100-4907-b19d-9c3d871cff0d"
+    }
+  ],
+  "enableUpdateYDocFromDiskBuffer": false,
+  "enableDocumentStatus": false,
+  "enableDebugFileTag": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableHTTPSync": false,
+  "enableSyncMenu": true,
+  "enableDocumentServer": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableSyncModal": false,
+  "enableDesyncPill": false,
+  "debugging": false
+}

@@ -1,0 +1,19 @@
+{
+  "newFileLocation": "current",
+  "attachmentFolderPath": "z-Assets",
+  "focusNewTab": false,
+  "readableLineLength": false,
+  "promptDelete": false,
+  "propertiesInDocument": "source",
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 25
+  },
+  "showUnsupportedFiles": true,
+  "showLineNumber": false
+}

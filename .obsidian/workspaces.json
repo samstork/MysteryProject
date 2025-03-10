@@ -1,0 +1,212 @@
+{
+  "workspaces": {
+    "Default": {
+      "main": {
+        "id": "66e6085601d6e880",
+        "type": "split",
+        "children": [
+          {
+            "id": "e9ba86b32d229051",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8db5843f76edc172",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-Toolkit/0-Toolkit.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "549dfc48e092767d",
+        "type": "split",
+        "children": [
+          {
+            "id": "9b8f486616ce89de",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "946cbe34a4d14e3c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4488cfe31a1f76bd",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#GenesysAdvantage",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4a2e6493fbe6790e",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 377.5031967163086
+      },
+      "right": {
+        "id": "805d8365d9c3bd0f",
+        "type": "split",
+        "children": [
+          {
+            "id": "2fbe7c8851c2435b",
+            "type": "tabs",
+            "dimension": 43.34389857369255,
+            "children": [
+              {
+                "id": "6a88febe8757afbc",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "54e1176bebfe3e75",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0-Toolkit/0-Toolkit.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "10ff7be4f5fe9f37",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0-Toolkit/0-Toolkit.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "52aff559f4a5bc5c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "0-Toolkit/0-Toolkit.md"
+                  }
+                }
+              },
+              {
+                "id": "4db92af098fa4766",
+                "type": "leaf",
+                "state": {
+                  "type": "CALENDARIUM",
+                  "state": {
+                    "calendar": "ID_baab6a69999b",
+                    "ephemeral": {
+                      "viewing": null,
+                      "viewState": 1,
+                      "displaying": {
+                        "day": 6,
+                        "month": 5,
+                        "year": 424
+                      },
+                      "displayDayNumber": false,
+                      "hideEra": true,
+                      "displayMoons": true
+                    },
+                    "id": "ID_295bba7b9b1b"
+                  }
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "a601ec903bd3ff03",
+            "type": "tabs",
+            "dimension": 56.65610142630745,
+            "children": [
+              {
+                "id": "8404e0bf3fc9ae04",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-Toolkit/DM Sideboard.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 381.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "templater-obsidian:Templater": false,
+          "obsidian42-brat:BRAT": false,
+          "obsidian-5e-statblocks:Open Creature pane": false,
+          "obsidian-kanban:Create new board": false,
+          "omnisearch:Omnisearch": false,
+          "homepage:Open homepage": false,
+          "callout-manager:Insert Callout": false,
+          "workspaces:Manage workspace layouts": false,
+          "calendarium:Open Calendarium": false
+        }
+      },
+      "active": "4db92af098fa4766",
+      "mtime": "2024-08-29T15:15:16+02:00"
+    }
+  },
+  "active": "Default"
+}
