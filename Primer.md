@@ -43,28 +43,40 @@ The main points are as follows:
 		- Not a locket, but is the last person to be targeted by the trapper
 
 ## Gameplay Ideas
-This section is about ideas we have for how to actually implement the game. The things Cass can do while playing. 
-- She can talk to Locket bound characters
-- Cypher
+The main gameplay will involve poring over clues, evidence, and dialogue with cast members, leading to deductions. 
+#### Goal
+The main goal of the game is to 
+- Find out what's happening, who the [[Trapper]] is, why they're doing it, etc. 
+	- Still need to workshop the specifics of this. Probably easier once we have some characters and a timeline.
+- Assign a name, picture, and [[Touch]] to each [[Lockets|locket]]
+
+#### Clue formats
+These are some ideas we had as to what the clues she receives actually look like:
+- Dialogue with [[Lockets|Locket]] cast characters
+	- She may need specific information to talk to someone about a given topic, asking them the correct things
+	- Not all [[Lockets]] would be available from the start, 
+- Diary
+- Newspaper clippings
+	- Local articles
+	- Obituaries
+	- Marriage announcements 
+	- etc.
+- Local brochure
+	- Tourist info
+	- political
+- Audio recording on Cassettes, since she has a cassette player
+- Printouts of (digital) conversations
+	- printout of a forum discussion
+	- Text messages
+	- Emails
+	- Interviews, police or journalism
+- Burner phone contents
+#### Minigames
+- Picture of a place, she then needs to find where it was taken (BotW memory style), and something is then hidden there
+-  Decode Cyphered messages
 	- Book cypher
 	- Alternate alphabet with rules we come up with
 	- Different language?
 - Outer Wilds mod
-	- I can pretty easily implement a mod in the Outer Wilds we can put hidden messages and 3d model props the
-- Picture of a place she needs to find (BotW memory style). Something is then hidden there
-- Inspect "Evidence"
-	- Newspaper clippings
-		- Local articles
-		- Obituaries
-		- Marriage announcements 
-		- etc.
-	- a diary
-	- Local brochure
-		- Tourist info
-		- political
-	- Printouts of conversations
-		- printout of a forum discussion
-		- Text messages
-		- Emails
-	- notes
-	- Burner phone contents
+- I can pretty easily implement a mod in the Outer Wilds we can put hidden messages and 3d model props the game.
+

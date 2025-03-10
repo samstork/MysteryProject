@@ -1,8 +1,18 @@
-
 *Add any ideas for minor magic powers you have here*
 - Resistance to fire
 - Surprisingly good luck
 - Single use time travel
 - Short-range teleportation but only when you're asleep
-- Does not _need_ to breathe
+- No need to breathe to survive, but not breathing is painful
 - Communicate with trees, but everyone thinks you're crazy
+- Weirdly fast (around 2-4 times faster) healing
+- Specific immunities
+	- Drugs
+	- Fall damage
+	- Birds
+	- Cyanide
+	- Carcinogens
+- Transfers other people's allergies to themself as long as they're close
+- Can float a couple of cm above the ground as long as the gap cannot be seen (dress etc)
+- Change height by a few cm based on mood
+- Mildly magnetic when tense

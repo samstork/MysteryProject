@@ -1,52 +1,54 @@
-#MysteryProject
 ## Agenda
 ### Basic Structure
 - Character/Clue web
 - Planning to write it in Obsidian, can link things together
+- Central mystery, uncovering that being the goal
+### Story Ideas
 - Central mystery, with clues leading to it
 	- Time Travel! How/Why/What?
-	- 
-- The Martian style thing
-	- Make it to a rocket ship
-	- Where is it buried?
-### Story Ideas
+
+#### Genre
 - Urban Fantasy 
 	- Some time ago magic vanished and it's coming back
 	- Would work with Diegetic puzzles
 - Standard Murder Mystery vibes
 - Political Conspiracy
-- Time Travel
 - Magical Realism?
 	- Mostly normal world
 	- Minor magic things go on
-		- Timetravel
+		- Time travel
 		- A corporation figured out some essence of magic
 		- Faeries
+#### Plot points
+- Time Travel
+- The Martian style thing
+	- Make it to a rocket ship
+	- Where is it buried?
+- Missing persons
+- Journalist
+- Mafia boss
 ### Gameplay Ideas
-- Viewfinder
+- Find location picture was taken from
 - Files
 	- Fake newspaper articles
-- Outer wilds
-- Cypher
+- Outer wilds mod
+- Cyphers
+	- Books
+	- Home-made
+	- Morse-code
 - Specific time instructions
-	- Scenes
-	- Specific reactions
-- Present notebook diary
-	- Someone's diary
-	- "How did you get her diary"
-	- Kick it off
+	- Scenes between "cast" characters
+	- "cast" have specific reactions to things that happen
+- Diary appears as a present
+	- Kicks off game
+	- Maybe the diary of a time traveller
 - Cassette!!
 
 
-- [[Trapper]] Collects information
-- Journalist
-[[Character Ideas]]
-### Main Elements:
+### Story Elements
 - Time Travel!!
 	- How?
 		- One of the powers is time travel
-	- Why?
-	- Who?
 - Necklaces
 	- "Switch" for characters
 	- Triggered memories
