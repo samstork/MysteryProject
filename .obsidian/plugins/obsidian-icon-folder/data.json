@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasMagnifyingGlass",
+      "FasUserGroup",
       "FasHatWizard",
       "FasUserLarge",
-      "FasUsers",
-      "FasCrown",
-      "FasFlag"
+      "FasUsers"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -824,5 +824,32 @@
   },
   "2-World/Characters/Rival/Prifurth.md": {
     "iconName": "FasUserLarge"
+  },
+  "z-Templates/Character Template.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Nightclub Owner.md": {
+    "iconName": "FasUserLarge"
+  },
+  "z-Templates/Group Template.md": {
+    "iconName": "FasUserGroup"
+  },
+  "z-Templates/Clue Template.md": {
+    "iconName": "FasMagnifyingGlass"
+  },
+  "Groups/Band.md": {
+    "iconName": "FasUserGroup"
+  },
+  "Characters/Ambitious Musician.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Laid-back bassist.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Book club leader.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Groups/Book Club and Coven.md": {
+    "iconName": "FasUserGroup"
   }
 }

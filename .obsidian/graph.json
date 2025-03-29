@@ -6,7 +6,29 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Characters  ",
+      "color": {
+        "a": 1,
+        "rgb": 5746932
+      }
+    },
+    {
+      "query": "path:Groups  ",
+      "color": {
+        "a": 1,
+        "rgb": 12425691
+      }
+    },
+    {
+      "query": "path:Clues  ",
+      "color": {
+        "a": 1,
+        "rgb": 14703442
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1,
@@ -17,6 +39,6 @@
   "repelStrength": 12.5250549987778,
   "linkStrength": 1,
   "linkDistance": 158,
-  "scale": 0.33316681553530764,
-  "close": true
+  "scale": 0.1548798187912148,
+  "close": false
 }

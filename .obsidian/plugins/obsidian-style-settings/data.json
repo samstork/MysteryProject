@@ -6,7 +6,7 @@
   "ITS@@its-d": false,
   "ITS@@writing-document": false,
   "ITS@@nord": false,
-  "ITS@@select": "none",
+  "ITS@@select": "dnd",
   "ITS@@radius-s": 3,
   "ITS@@ITS-Sizes": "sizing-large",
   "ITS@@default-statblock": false,
@@ -39,5 +39,12 @@
   "ITS@@slrvb-g": false,
   "ITS@@s-d": false,
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
-  "blue-topaz-theme@@toggle-calendar-shadow": false
+  "blue-topaz-theme@@toggle-calendar-shadow": false,
+  "blue-topaz-theme@@admonition-bg-color@@light": "#00000070",
+  "blue-topaz-theme@@admonition-bg-color@@dark": "#0000008C",
+  "blue-topaz-theme@@clutter-free-headings": true,
+  "blue-topaz-theme@@remove-heading-indicator": true,
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-dracula",
+  "blue-topaz-theme@@callout-style-settings": "border-callout-style",
+  "blue-topaz-theme@@full-width-callout": true
 }

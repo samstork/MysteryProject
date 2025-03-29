@@ -2,7 +2,7 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "z-Assets",
   "focusNewTab": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "promptDelete": false,
   "propertiesInDocument": "source",
   "alwaysUpdateLinks": true,
@@ -15,5 +15,8 @@
     "downscalePercent": 25
   },
   "showUnsupportedFiles": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showIndentGuide": true
 }
