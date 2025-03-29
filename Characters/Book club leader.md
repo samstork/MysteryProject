@@ -1,13 +1,13 @@
 ---
 aliases: 
 gender: 
-age: 
+age: 39
 vitality: Alive
 profession: Politician
 touch: None
 
 associated-group: 
-- "[[Book club]]"
+- "[[Book Club and Coven]]"
 - "[[Political council]]"
 
 archetype: Faithful Leader
@@ -44,7 +44,37 @@ icon: FasUserLarge
 The leader of the [[Book Club and Coven]] and currently minor clerk in the city hall. They know a lot about what's going on locally in terms of magic, having a good relationship with [[Faerie]]. Chasing after [[Trapper]] for obvious reasons. 
 
 ## History
+### Political Campaign
+- Got highly politically motivated when [[Local Faerie Area]] was going to be built over
+- Ran campaign, joining [[Political council]]
+- Successfully stopped building, but was forced out of council by [[Syndicate Boss]]
+
+### Founding Coven
+- Started [[Book Club and Coven]] along with 
+	- [[Old Witch]]
+	- [[Alchemist]]
+- Upon [[Alchemist]]'s suggestion, made it public to obfuscate relationship
+
+### Inducting [[New Witch]]
+- Convinced their story about getting high was magical experience
+- Introduced [[New Witch]] to witch coven
+
+### Search for [[Trapper]]
+
 
 ## Relationships
+[[New Witch]]
+- Gets frustrated at their flamboyant and obvious witch-ness 
+	- Has led to confrontation and thus strained relationship
+- 
+[[Old Witch]]
+- Former mentor
+- Respects them
+[[Alchemist]]
+- A bit awkward around each other, not much to talk about
+- Respects their commitment to secrecy
+[[Laid-back bassist]]
+- Thinks they're funny
+- Considering introducing them to witchcraft
 
 ## Clues and Information

@@ -38,17 +38,28 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-A really chill person who does a bit of everything. Has a passion for music, and was a member of [[Band]]. 
+A really chill person who does a bit of everything. Has a passion for music, and was a member of [[Band]]. Also a member of the [[Book Club and Coven]], though not a witch themselves. 
+
+### Important Facts
+- Possibly Aro/Ace, at least Demi.
+- Has some latent magical talent, but no [[Touch]]
+
 ## History
+### Starting [[Band]]
 - Started [[Band]] alongside [[Ambitious Musician]] a few years ago
-- Introduced [[Session drummer]] to [[Band]] and [[Ambitious Musician]]
+- Introduced [[Session Drummer]] to [[Band]] and [[Ambitious Musician]]
+
+### Joining [[Book Club and Coven]]
+- Met [[New Witch]] at [[Nightclub]]
+	- Hit it off due to similar vibes and interests
+- Was introduced to [[Book Club and Coven]] since they also like fantasy books
 
 ## Relationships
 [[Ambitious Musician]]
 - Old friend
 - Thinks they're misguided, but too frustrated with them to try to persuade them to stop
 - Regrets leaving the band after their disappearance
-[[Session drummer]]
+[[Session Drummer]]
 - Good friend
 - Met through college
 - Disappointed with them for not taking sides

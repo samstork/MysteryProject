@@ -1,0 +1,79 @@
+---
+aliases: 
+gender: 
+age: 25
+vitality: Alive
+profession: "[[Nightclub]] barkeep"
+touch: None
+
+associated-group:
+- "[[D&D Party]]"
+- "[[Book Club and Coven]]"
+
+archetype: Cottage-Goth Witch
+desire: Harmony
+fear: 
+strength: Emotion
+weakness: Direct Confrontation
+
+tags:
+icon: FasUserLarge
+---
+
+> [!infobox]
+> # `=this.file.name`
+> %% Place Image on next line %%
+> ###### Basic Information
+> Type |  Stat |
+> ---|---|
+> Gender | `=this.gender` |
+> Age | `=this.age` |
+> Condition | `=this.vitality` |
+> Profession | `=this.profession` |
+> Group | `=this.associated-group` |
+> [[Touch]] | `=this.touch` |
+> ###### Personality
+> Type |  Stat |
+> ---|---|
+> Archetype | `=this.archetype` |
+> Strength | `=this.strength` |
+> Weakness | `=this.weakness` |
+> Desire | `=this.desire` |
+> Fear | `=this.fear` |
+## Overview
+The barkeep of [[Nightclub]], DM of [[D&D Party]], and member of the [[Book Club and Coven]] who only recently became a witch. 
+
+### Important Facts
+
+
+## History
+
+### Becoming a witch
+- Went on acid trip, thought they saw [[Faerie|Faeries]] (unclear if just high)
+- Witches of [[Book Club and Coven]] took that at face value and made them a full witch
+- 
+
+## Relationships
+[[Book club leader]]
+- Scared of them a little, avoids them
+[[Old Witch]]
+- Looks up to them as a mentor
+- Pesters them for spells
+[[Laid-back bassist]]
+- Friends, met at [[Nightclub]]
+	- Possibly romantically interested, but unlikely anything will come of it due to [[Laid-back bassist]]'s orientation (or lack thereof).
+- Invited them to [[Book Club and Coven]]
+- Also invited them to [[D&D Party]], but 
+[[Nightclub Owner]]
+- Employer
+- Working relationship
+- Wants raise from them
+[[Orderly Person]]
+- Unlikely friends
+- Do crosswords together before book club
+[[Crime Boss' Kid]]
+- Player in D&D campaign
+- Doesn't know them super well
+- Surprised to learn [[Nightclub Owner]] is their aunt/uncle
+
+## Clues and Information

@@ -2,7 +2,7 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "z-Assets",
   "focusNewTab": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "promptDelete": false,
   "propertiesInDocument": "source",
   "alwaysUpdateLinks": true,

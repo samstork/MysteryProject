@@ -4,84 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "50399f121cc426e2",
+        "id": "bfc3283e3af36c24",
         "type": "tabs",
         "children": [
           {
-            "id": "e4435164641d7612",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Task List.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Task List"
-            }
-          },
-          {
-            "id": "201c8446decf04e3",
+            "id": "3d2ed6f5277f5553",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ambitious Musician.md",
+                "file": "Groups/D&D Party.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ambitious Musician"
+              "title": "D&D Party"
             }
           },
           {
-            "id": "91b0727f00a9cbd1",
+            "id": "3b84abf689e053cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Laid-back bassist.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Laid-back bassist"
-            }
-          },
-          {
-            "id": "07da556be984c8d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Idea Brainstorming/Touch Ideas.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Touch Ideas"
-            }
-          },
-          {
-            "id": "dfd75fa5bbba66c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Nightclub Owner.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nightclub Owner"
+              "title": "README"
             }
           }
         ],
@@ -143,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.50499725341797
+    "width": 396.5066261291504
   },
   "right": {
     "id": "805d8365d9c3bd0f",
@@ -306,41 +257,41 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "201c8446decf04e3",
+  "active": "3b84abf689e053cc",
   "lastOpenFiles": [
     "Task List.md",
+    "Characters/Orderly Person.md",
+    "Groups/D&D Party.md",
+    "Groups/Book Club and Coven.md",
+    "Characters/New Witch.md",
+    "Other Notes/Book Cafe.md",
+    "Groups/Band.md",
     "Characters/Book club leader.md",
     "Characters/Laid-back bassist.md",
-    "z-Templates/Character Template.md",
-    "Groups/Book Club and Coven.md",
-    "Groups/Band.md",
+    "Characters/Session Drummer.md",
+    "Characters/Crime Boss' Kid.md",
+    "Characters/Journalist.md",
     "Characters/Ambitious Musician.md",
-    "Idea Brainstorming/Faction & Group Ideas.md",
     "Characters/Nightclub Owner.md",
+    "Groups/Crime Syndicate.md",
+    "Characters/Syndicate Boss.md",
+    "z-Templates/Character Template.md",
+    "z-Templates/Group Template.md",
+    "Other Notes/Local Faerie Area.md",
+    "Idea Brainstorming/Character Ideas.md",
     "Idea Brainstorming/Touch Ideas.md",
+    "Idea Brainstorming/Faction & Group Ideas.md",
     "z-Templates/Clue Template.md",
     "Clues",
     "Other Notes",
-    "z-Templates/Group Template.md",
     "z-Templates",
     "Groups",
-    "Idea Brainstorming/Character Ideas.md",
     "Characters",
     "Primer.md",
     "README.md",
     "Rough Notes/Brainstorming Session Rough Notes (2025-03-09).md",
-    "Secret Mystery Project/Rough Notes/Brainstorming Session (2025-03-10).md",
     "Secret Mystery Project/Rough Notes",
-    "Secret Mystery Project/Primer.md",
-    "Secret Mystery Project/Idea Brainstorming/Character Ideas.md",
     "Secret Mystery Project/Idea Brainstorming",
-    "Secret Mystery Project/Idea Brainstorming/Touch Ideas.md",
-    "Secret Mystery Project/Idea Brainstorming/Faction Ideas.md",
-    "Secret Mystery Project/Mystery Project Brainstorming Private.md",
-    "Thesis Meeting 3.md",
-    "Social Robotics Practical/Social Robotics Practical.md",
-    "Secret Mystery Project/Trapper.md",
-    "Bayesian Delegation.md",
     "Secret Mystery Project",
     "Pasted image 20250306121239.webp",
     "z-Assets",

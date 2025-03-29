@@ -1,15 +1,16 @@
 ---
 aliases: 
 gender: 
-age: 
+age: 37
 vitality: Alive
-profession: 
+profession: Nightclub Ownder
 touch: None
 
 associated-group: 
+- "[[Crime Syndicate]]"
 
-archetype:
-desire:
+archetype: Slimy Playboy
+desire: Wealth
 fear:
 strength:
 weakness:
@@ -39,19 +40,13 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-
-## Description
-### Appearance
-
-### Voice
-
-### Personality
+Investor, and the owner of [[Nightclub]], and a big player in [[Crime Syndicate]] as sibling of [[Syndicate Boss]]. Wants money, knows of [[Ambitious Musician]]'s Touch and wants to use it (unconvinced it's supernatural). 
 
 ## History
 
 ## Relationships
 
-## Clues and Informaiton
+## Clues and Information
 
 
 ## Rough Notes:

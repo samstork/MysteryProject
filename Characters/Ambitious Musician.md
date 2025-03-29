@@ -8,7 +8,7 @@ touch: Musical Charm
 
 associated-group: "[[Band]]"
 
-archetype: Ambitious Musician
+archetype: Ambitious Promiscuous Musician
 desire: Recognition
 fear: Mediocrity
 strength: 
@@ -39,8 +39,8 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-A young musician who wants to "make it big". They're traditionally trained, and unbeknownst to them, their [[Touch]] allows them to move people through their music far more than usual, though it only works live. Along with [[Laid-back bassist]] they started [[Band]], and got involved with [[Session drummer]]. 
-### (Fun) Facts
+A young musician who wants to "make it big". They're traditionally trained, and unbeknownst to them, their [[Touch]] allows them to move people through their music far more than usual, though it only works live. Along with [[Laid-back bassist]] they started [[Band]], and got involved with [[Session Drummer]]. 
+### Important Facts
 - Plays guitar and sings
 - Bisexual (important to determine, as they slept with [[Trapper]])
 
@@ -55,7 +55,7 @@ A young musician who wants to "make it big". They're traditionally trained, and 
 - Respects their talent for song writing and musical skills, a little envious thereof. 
 - Disagree about selling out. 
 
-[[Session drummer]]
+[[Session Drummer]]
 - Romantically involved 
 - Won them over with their fae [[Touch]], doesn't know it
 - Walks over them to some degree
@@ -63,9 +63,17 @@ A young musician who wants to "make it big". They're traditionally trained, and 
 
 [[Trapper]]
 - Had a one-night stand with them at a gig and got trapped
+
+[[New Witch]]
+- Doesn't know them personally very well
+- Tried hitting on them
+- Didn't work
+	- Musical Charm failed due to their magical abilities
+	- Very confused
+
 ## Clues and Information
 ### Hints at Touch
 - Reviews of concerts much better than individual songs 
-- [[Session drummer]] totally uninterested until love song sung for them
+- [[Session Drummer]] totally uninterested until love song sung for them
 ### Hints at Cheating/Involvement with Trapper
 - Text messages with session drummer

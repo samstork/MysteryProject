@@ -4,9 +4,13 @@ gender:
 age: 
 vitality: Alive
 profession: 
+- Crime Boss
+- Politician
 touch: None
 
 associated-group: 
+- "[[Crime Syndicate]]"
+- "[[Political council]]"
 
 archetype:
 desire:
@@ -17,15 +21,6 @@ weakness:
 tags:
 icon: FasUserLarge
 ---
-
-<%* 
-const currentPath = tp.file.folder(true);
-const targetFolder = "Characters/"; 
-const inTarget = currentPath.startsWith(targetFolder)
-if (!inTarget) { 
-	await tp.file.move(targetFolder + tp.file.title); 
-}
-_%>
 
 > [!infobox]
 > # `=this.file.name`
@@ -48,12 +43,23 @@ _%>
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-
+Local politician who is also crime boss and immensely wealthy. Knows a little about magic, or at least suspects it. 
 ### Important Facts
 
 
 ## History
 
 ## Relationships
+[[Crime Boss' Kid]]
+- Child
+- Fiercely protective of them and very doting
+- Hides crime empire from them 
+[[Nightclub Owner]]
+- Sibling
+- Begrudging acceptance 
+- Does not trust them
+[[Book club leader]]
+- Despises them due to their political campaign
+- Unable to exact revenge due to magical protections 
 
 ## Clues and Information

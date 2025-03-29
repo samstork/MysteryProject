@@ -1,6 +1,6 @@
 ---
 aliases: 
-type:
+type: Crime Syndicate
 status:
 
 desire:
@@ -8,15 +8,6 @@ fear:
 
 icon: FasUserGroup
 ---
-
-<%* 
-const currentPath = tp.file.folder(true);
-const targetFolder = "Groups/"; 
-const inTarget = currentPath.startsWith(targetFolder)
-if (!inTarget) { 
-	await tp.file.move(targetFolder + tp.file.title); 
-}
-_%>
 
 > [!infobox]
 > # `=this.file.name`
@@ -33,6 +24,7 @@ _%>
 >TABLE age, gender WHERE contains(associated-group, [[]]) 
 >```
 ## Overview
+A crime syndicate run by [[Syndicate Boss]]. 
 
 ## History
 

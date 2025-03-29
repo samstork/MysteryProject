@@ -851,5 +851,29 @@
   },
   "Groups/Book Club and Coven.md": {
     "iconName": "FasUserGroup"
+  },
+  "Characters/Session Drummer.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Groups/Crime Syndicate.md": {
+    "iconName": "FasUserGroup"
+  },
+  "Characters/Syndicate Boss.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Journalist.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Groups/D&D Party.md": {
+    "iconName": "FasUserGroup"
+  },
+  "Characters/New Witch.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Crime Boss' Kid.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Orderly Person.md": {
+    "iconName": "FasUserLarge"
   }
 }

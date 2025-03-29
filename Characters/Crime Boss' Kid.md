@@ -3,7 +3,7 @@ aliases:
 gender: 
 age: 
 vitality: Alive
-profession: 
+profession: Nepo Baby
 touch: None
 
 associated-group: 
@@ -17,15 +17,6 @@ weakness:
 tags:
 icon: FasUserLarge
 ---
-
-<%* 
-const currentPath = tp.file.folder(true);
-const targetFolder = "Characters/"; 
-const inTarget = currentPath.startsWith(targetFolder)
-if (!inTarget) { 
-	await tp.file.move(targetFolder + tp.file.title); 
-}
-_%>
 
 > [!infobox]
 > # `=this.file.name`
@@ -48,6 +39,7 @@ _%>
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
+Child of the [[Syndicate Boss]], but doesn't know about their criminal activity. Otherwise just lives a pretty normal student life. Gets special treatment at [[Nightclub]] due to family relation.
 
 ### Important Facts
 
@@ -55,5 +47,7 @@ _%>
 ## History
 
 ## Relationships
+[[Journalist]]
+- Dating, in a committed relationship
 
 ## Clues and Information

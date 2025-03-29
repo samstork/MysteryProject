@@ -1,10 +1,10 @@
 ---
 aliases: 
 gender: 
-age: 
-vitality: Alive
+age: 27
+vitality: Locketed
 profession: 
-touch: None
+touch: Finding other touched
 
 associated-group: 
 
@@ -17,15 +17,6 @@ weakness:
 tags:
 icon: FasUserLarge
 ---
-
-<%* 
-const currentPath = tp.file.folder(true);
-const targetFolder = "Characters/"; 
-const inTarget = currentPath.startsWith(targetFolder)
-if (!inTarget) { 
-	await tp.file.move(targetFolder + tp.file.title); 
-}
-_%>
 
 > [!infobox]
 > # `=this.file.name`
@@ -48,12 +39,26 @@ _%>
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
+A young local journalist and blogger, writes articles for [[Local News]]. They keep writing about fae touched folk. 
 
 ### Important Facts
 
 
 ## History
 
+### Confrontation with [[Trapper]]
+- While investigating the disappearance of [[Ambitious Musician]] and [[Session Drummer]], found out about [[Touch|fae touches]]. 
+- Put together that [[Trapper]] is behind it, found out about the one-night-stand 
+- Confronted trapper, but got locketed instead
+
 ## Relationships
+[[Crime Boss' Kid]]
+- In a romantic relationship
+[[Trapper]]
+- Knows trapper personally, but doesn't know they're the trapper 
+- 
 
 ## Clues and Information
+### Articles - Hint towards Touches
+- Article about rise of [[Band]]
+- Article about [[Book Club and Coven]]

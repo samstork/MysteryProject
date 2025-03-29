@@ -1,22 +1,13 @@
 ---
 aliases: 
-type:
-status:
+type: TTRPG Campaign
+status: Active
 
-desire:
-fear:
+desire: To have Fun
+fear: Scheduling
 
 icon: FasUserGroup
 ---
-
-<%* 
-const currentPath = tp.file.folder(true);
-const targetFolder = "Groups/"; 
-const inTarget = currentPath.startsWith(targetFolder)
-if (!inTarget) { 
-	await tp.file.move(targetFolder + tp.file.title); 
-}
-_%>
 
 > [!infobox]
 > # `=this.file.name`
@@ -33,10 +24,14 @@ _%>
 >TABLE age, gender WHERE contains(associated-group, [[]]) 
 >```
 ## Overview
-
+A D&D campaign run by [[New Witch]]
 ## History
 
 ## Members
+[[New Witch]]
+- Dungeon Master
+[[Crime Boss' Kid]]
+- Plays a Rogue
 
 ## Internal Politics
 
