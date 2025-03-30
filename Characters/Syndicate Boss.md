@@ -1,7 +1,7 @@
 ---
 aliases: 
 gender: 
-age: 
+age: 53
 vitality: Alive
 profession: 
 - Crime Boss

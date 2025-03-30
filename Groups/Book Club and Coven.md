@@ -6,7 +6,7 @@ status:
 desire:
 fear:
 
-icon: FasUserGroup
+icon: FasBook
 ---
 
 > [!infobox]
@@ -31,11 +31,16 @@ A book club that meets in a local cafe/bookstore run by [[Orderly Person]]. They
 - Reading
 - Magic rituals
 - Keeping tabs on faerie activities
+#### Reading
+- The Chronicles of Narnia
 
 ## History
 
 ### Founding
-- Founded as a pure coven by 
+- Founded in response to [[Alchemist]] discovering Alchemy semi-independently
+	- [[Old Witch]] realised the veil between [[Faerie]] and Groningen is weakening
+	- needs a coven to retain Faerie secrecy
+- a pure coven by 
 	- [[Old Witch]]
 	- [[Book club leader]]
 	- [[Alchemist]]
@@ -47,6 +52,13 @@ A book club that meets in a local cafe/bookstore run by [[Orderly Person]]. They
 - [[Old book lady]] knows [[Orderly Person]], arranged for club to be hosted in private room at [[Book Cafe]]
 - [[New Witch]] joined because they hang out at the [[Book Cafe]]
 	- Quickly inducted into coven proper due to their stories of seeing faeries. 
+
+### [[Alchemist]] goes missing
+- Not noticed at first due to infrequent appearance
+- Eventually start looking for them
+- Scrying reveals nothing
+	- Theorise they're in [[Faerie]]
+- [[Old Witch]], as most experienced, goes into [[Faerie]] to search for [[Alchemist]]
 
 ## Members
 [[Book club leader]]
@@ -81,4 +93,4 @@ A book club that meets in a local cafe/bookstore run by [[Orderly Person]]. They
 ## External Politics
 
 ## Clues and Information
-- Book cypher
+- [[Book cypher]] (based on Narnia?)

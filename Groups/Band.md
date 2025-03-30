@@ -6,7 +6,7 @@ status: Inactive
 desire:
 fear:
 
-icon: FasUserGroup
+icon: FasGuitar
 ---
 
 > [!infobox]

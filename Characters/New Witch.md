@@ -41,7 +41,7 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-The barkeep of [[Nightclub]], DM of [[D&D Party]], and member of the [[Book Club and Coven]] who only recently became a witch. 
+The barkeep of [[Nightclub]], DM of [[D&D Party]], and member of the [[Book Club and Coven]] who only recently became a witch. Bit of a Cottage-Goth vibe going on. Has a fair amount of natural talent
 
 ### Important Facts
 
@@ -54,16 +54,28 @@ The barkeep of [[Nightclub]], DM of [[D&D Party]], and member of the [[Book Club
 - 
 
 ## Relationships
+### [[Book Club and Coven]]
 [[Book club leader]]
 - Scared of them a little, avoids them
+- Looks for their approval
+
 [[Old Witch]]
-- Looks up to them as a mentor
+- Looks up to them as a mentor/older sibling
 - Pesters them for spells
+
 [[Laid-back bassist]]
 - Friends, met at [[Nightclub]]
 	- Possibly romantically interested, but unlikely anything will come of it due to [[Laid-back bassist]]'s orientation (or lack thereof).
 - Invited them to [[Book Club and Coven]]
-- Also invited them to [[D&D Party]], but 
+- Also invited them to [[D&D Party]], but they didn't join
+
+### [[D&D Party]]
+[[Crime Boss' Kid]]
+- Player in D&D campaign
+- Doesn't know them super well
+- Surprised to learn [[Nightclub Owner]] is their aunt/uncle
+
+### Other
 [[Nightclub Owner]]
 - Employer
 - Working relationship
@@ -71,9 +83,6 @@ The barkeep of [[Nightclub]], DM of [[D&D Party]], and member of the [[Book Club
 [[Orderly Person]]
 - Unlikely friends
 - Do crosswords together before book club
-[[Crime Boss' Kid]]
-- Player in D&D campaign
-- Doesn't know them super well
-- Surprised to learn [[Nightclub Owner]] is their aunt/uncle
+
 
 ## Clues and Information

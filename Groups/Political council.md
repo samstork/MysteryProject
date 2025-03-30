@@ -1,12 +1,12 @@
 ---
 aliases: 
-type: Crime Syndicate
-status:
+type: Local Government
+status: Active
 
-desire:
-fear:
+desire: Order
+fear: 
 
-icon: RaFedora
+icon: FasUserGroup
 ---
 
 > [!infobox]
@@ -24,12 +24,6 @@ icon: RaFedora
 >TABLE age, gender WHERE contains(associated-group, [[]]) 
 >```
 ## Overview
-A crime syndicate run by [[Syndicate Boss]], focusing on money laundering and bribery. [[Nightclub]] is one of the major fronts, but there are businesses, mostly small restaurants, all over town which serve the money laundering empire. 
-
-### Activities
-- Money laundering (as a service)
-- Bribery
-- Drug trafficking
 
 ## History
 

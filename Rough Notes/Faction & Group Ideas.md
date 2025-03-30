@@ -10,6 +10,7 @@
 	- Hits cass' actor brain vibes
 	- Can #Alissa and #Rachelle work on this? You guys know actor stuff very well, you can probably come up with better than I. 
 
+
 - [[Political council]]
 	- You can easily write news articles about it. 
 

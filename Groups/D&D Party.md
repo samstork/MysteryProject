@@ -6,7 +6,7 @@ status: Active
 desire: To have Fun
 fear: Scheduling
 
-icon: FasUserGroup
+icon: FasDiceD20
 ---
 
 > [!infobox]
@@ -30,11 +30,21 @@ A D&D campaign run by [[New Witch]]
 ## Members
 [[New Witch]]
 - Dungeon Master
+
 [[Crime Boss' Kid]]
 - Plays a Rogue
+
+[[Time Traveller]]
+- Plays a Wizard
+
+
 
 ## Internal Politics
 
 ## External Politics
 
 ## Clues and Information
+### Hint towards members
+- Character Sheets
+- Scheduling conflicts
+

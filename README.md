@@ -22,3 +22,5 @@ Make sure to go to pull the repository regularly so you get the most up-to-date 
 
 ## Where to Start
 We've made a start on setting everything up. On 2025-03-09 #Alissa, #Rachelle, and #Sam met up with #Jana joining online for a bit. We did a [[Brainstorming Session Rough Notes (2025-03-09)|Brainstorming Session]], and the product of what we have now is all written in the [[Primer]]. So to get caught up, just read that.
+
+I, #Sam, have been adding some characters and groups. Feel free to browse the wiki. If you're on obsidian, press ctrl/cmd + g to view the graph view. 

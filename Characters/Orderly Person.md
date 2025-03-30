@@ -14,7 +14,7 @@ fear:
 strength:
 weakness:
 
-tags:
+tags: locketed
 icon: FasUserLarge
 ---
 

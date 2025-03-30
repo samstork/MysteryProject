@@ -14,7 +14,7 @@ fear:
 strength:
 weakness:
 
-tags:
+tags: locketed
 icon: FasUserLarge
 ---
 
@@ -56,9 +56,10 @@ A young local journalist and blogger, writes articles for [[Local News]]. They k
 - In a romantic relationship
 [[Trapper]]
 - Knows trapper personally, but doesn't know they're the trapper 
-- 
+
 
 ## Clues and Information
 ### Articles - Hint towards Touches
 - Article about rise of [[Band]]
 - Article about [[Book Club and Coven]]
+- Article about [[TV Show]] and its [['TV Show' Team|Team]]

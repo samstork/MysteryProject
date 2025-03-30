@@ -14,7 +14,7 @@ fear: Mediocrity
 strength: 
 weakness: Secretly insecure
 
-tags:
+tags: locketed
 icon: FasUserLarge
 ---
 

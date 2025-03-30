@@ -1,7 +1,7 @@
 ---
 aliases: 
 gender: 
-age: 37
+age: 47
 vitality: Alive
 profession: Nightclub Ownder
 touch: None
@@ -45,6 +45,26 @@ Investor, and the owner of [[Nightclub]], and a big player in [[Crime Syndicate]
 ## History
 
 ## Relationships
+[[New Witch]]
+- Employee
+- Decent job
+- Will not give them a raise, "Compensation is fair for their position"
+
+### [[Band]]
+[[Ambitious Musician]]
+- Has high hopes they will be useful
+- Does not see them as more than a tool
+- Puts on a friendly face
+- Angry at their disappearance 
+	- Thinks they neglected contract duties
+
+[[Laid-back bassist]]
+- Believes they're holding back [[Ambitious Musician]]
+- Managed to drive wedge between them
+
+[[Session Drummer]]
+- Sees them as expendable
+- Possibly useful to control [[Ambitious Musician]]
 
 ## Clues and Information
 
@@ -55,6 +75,5 @@ Investor, and the owner of [[Nightclub]], and a big player in [[Crime Syndicate]
 
 - Owner of [[Nightclub]]
 - Ties with [[Crime Syndicate]]
-- Employs [[Waiter]], [[Bouncer]]
 - Has working relationship with [[Band]]
 	- Offered them a deal, which caused their full break-up

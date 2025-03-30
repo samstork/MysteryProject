@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "bfc3283e3af36c24",
+        "id": "2795df4207bf4e9d",
         "type": "tabs",
         "children": [
           {
-            "id": "3d2ed6f5277f5553",
+            "id": "44af7f4fb9736e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Alchemist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alchemist"
+            }
+          },
+          {
+            "id": "3d04b61d7cc70a54",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "D&D Party"
-            }
-          },
-          {
-            "id": "3b84abf689e053cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
             }
           }
         ],
@@ -257,39 +257,39 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "3b84abf689e053cc",
+  "active": "3d04b61d7cc70a54",
   "lastOpenFiles": [
-    "Task List.md",
-    "Characters/Orderly Person.md",
-    "Groups/D&D Party.md",
+    "Characters/Alchemist.md",
     "Groups/Book Club and Coven.md",
+    "Groups/Crime Syndicate.md",
+    "Characters/Ambitious Musician.md",
+    "Groups/D&D Party.md",
+    "Groups/'TV Show' Team.md",
+    "Characters/Mariner.md",
+    "Rough Notes/Faction & Group Ideas.md",
+    "Other Notes/TV Show.md",
+    "Rough Notes/Brainstorming Session Rough Notes (2025-03-09).md",
+    "Rough Notes/Character Ideas.md",
+    "Other Notes/Nightclub.md",
+    "Characters/Crime Boss' Kid.md",
     "Characters/New Witch.md",
-    "Other Notes/Book Cafe.md",
+    "Characters/Journalist.md",
+    "Groups/Political council.md",
+    "Characters/Orderly Person.md",
+    "Other Notes/Touch.md",
+    "Characters/Nightclub Owner.md",
+    "Characters/Syndicate Boss.md",
     "Groups/Band.md",
+    "README.md",
+    "Task List.md",
+    "Other Notes/Book Cafe.md",
     "Characters/Book club leader.md",
     "Characters/Laid-back bassist.md",
-    "Characters/Session Drummer.md",
-    "Characters/Crime Boss' Kid.md",
-    "Characters/Journalist.md",
-    "Characters/Ambitious Musician.md",
-    "Characters/Nightclub Owner.md",
-    "Groups/Crime Syndicate.md",
-    "Characters/Syndicate Boss.md",
-    "z-Templates/Character Template.md",
-    "z-Templates/Group Template.md",
-    "Other Notes/Local Faerie Area.md",
-    "Idea Brainstorming/Character Ideas.md",
-    "Idea Brainstorming/Touch Ideas.md",
-    "Idea Brainstorming/Faction & Group Ideas.md",
-    "z-Templates/Clue Template.md",
     "Clues",
     "Other Notes",
     "z-Templates",
     "Groups",
     "Characters",
-    "Primer.md",
-    "README.md",
-    "Rough Notes/Brainstorming Session Rough Notes (2025-03-09).md",
     "Secret Mystery Project/Rough Notes",
     "Secret Mystery Project/Idea Brainstorming",
     "Secret Mystery Project",
