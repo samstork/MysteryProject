@@ -16,7 +16,7 @@ fear: Failure
 strength: Determined
 weakness: Social Norms
 
-tags: #locketed
+tags:
 icon: FasUserLarge
 ---
 
@@ -54,9 +54,25 @@ Their touch gives them random, sudden flashes of inspiration. Unprecedented ment
 - Got into alchemy as a joke during university
 - Made discoveries
 	- [[Old Witch]] heard of it, leading to the founding of [[Book Club and Coven]]
-- 
+
+### Founding Coven
+- After being inducted into witchcraft, founded [[Book Club and Coven]] alongside [[Old Witch]] and [[Book club leader]]. 
+- Did not like the fantasy book idea, but accepted it due to other's seniority
+- Distant from [[New Witch]]
+- Really doesn't like [[Laid-back bassist]]
+
+
+
+### Getting Trapped
+- Met [[Trapper]] at university
+	- They pretended they needed some help with a subject they're interested in 
+	- Worked with them on project
+	- [[Trapper]] was trying to find out more about alchemy
+- Had a flash, revealing [[Trapper]]'s intentions
+	- Fought back, but was overpowered, getting locketed. 
 
 ## Relationships
+### [[Book Club and Coven]]
 [[Old Witch]]
 - Respects them
 - Goes to them for advice
@@ -68,11 +84,24 @@ Their touch gives them random, sudden flashes of inspiration. Unprecedented ment
 [[New Witch]]
 - Sees them as a child, barely above notice
 - A bit bratty
+- Distant
 
+[[Laid-back bassist]] and [[Old book lady]]
+- Avoids them as much as possible
+
+### [[University Group]]
 [[Knowledgeable Professor]]
 - PHD supervisor 
 - Frustrated at their lack of alchemical understanding
+	- Wishes they could tell them all about it
+
+[[Sports Friend]]
+- 
 
 ## Clues and Information
 - Created [[Outer Wilds Mod]] as a fun side-project?
 	- Was taken by flash of inspiration during creation, put down clue they had no way of knowing
+### Hint at Touch
+- Academic record 
+- Email with professor 
+	- Missed deadline. Waiting for flash of inspiration

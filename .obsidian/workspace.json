@@ -13,16 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Alchemist.md",
+                "file": "Characters/Old book lady.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alchemist"
+              "title": "Old book lady"
             }
           },
           {
-            "id": "3d04b61d7cc70a54",
+            "id": "dfc57b540e62f636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Primer"
+            }
+          },
+          {
+            "id": "b016b2596335906a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Full Plot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Full Plot"
+            }
+          },
+          {
+            "id": "76dbca90ca1ad8ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Trapper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trapper"
+            }
+          },
+          {
+            "id": "04b8f3a05046b00e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -69,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#locketed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,34 +299,34 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "3d04b61d7cc70a54",
+  "active": "b016b2596335906a",
   "lastOpenFiles": [
-    "Characters/Alchemist.md",
-    "Groups/Book Club and Coven.md",
-    "Groups/Crime Syndicate.md",
-    "Characters/Ambitious Musician.md",
+    "Characters/Trapper.md",
+    "Full Plot.md",
+    "Primer.md",
+    "Characters/Sports Friend.md",
     "Groups/D&D Party.md",
+    "Characters/Alchemist.md",
+    "Characters/New Witch.md",
+    "Characters/Ambitious Musician.md",
+    "Characters/Orderly Person.md",
+    "Characters/Pleasant Lead Actor.md",
+    "Characters/Old book lady.md",
+    "Other Notes/Faerie.md",
+    "Characters/Diva Lead Actor.md",
+    "Characters/Old Witch.md",
+    "Characters/Journalist.md",
     "Groups/'TV Show' Team.md",
-    "Characters/Mariner.md",
-    "Rough Notes/Faction & Group Ideas.md",
+    "Rough Notes/Touch Ideas.md",
+    "Groups/Sports Association.md",
+    "Characters/Syndicate Boss.md",
+    "Characters/Session Drummer.md",
     "Other Notes/TV Show.md",
     "Rough Notes/Brainstorming Session Rough Notes (2025-03-09).md",
-    "Rough Notes/Character Ideas.md",
-    "Other Notes/Nightclub.md",
-    "Characters/Crime Boss' Kid.md",
-    "Characters/New Witch.md",
-    "Characters/Journalist.md",
-    "Groups/Political council.md",
-    "Characters/Orderly Person.md",
-    "Other Notes/Touch.md",
-    "Characters/Nightclub Owner.md",
-    "Characters/Syndicate Boss.md",
-    "Groups/Band.md",
-    "README.md",
-    "Task List.md",
-    "Other Notes/Book Cafe.md",
-    "Characters/Book club leader.md",
-    "Characters/Laid-back bassist.md",
+    "Groups/Book Club and Coven.md",
+    "Groups/Crime Syndicate.md",
+    "Characters/Mariner.md",
+    "Rough Notes/Faction & Group Ideas.md",
     "Clues",
     "Other Notes",
     "z-Templates",

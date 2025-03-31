@@ -24,7 +24,7 @@ icon: FasBook
 > TABLE age, gender WHERE contains(associated-group, [[]]) 
 >```
 ## Overview
-A book club that meets in a local cafe/bookstore run by [[Orderly Person]]. They discuss fantasy books. Most members are also part of a witch coven who know about the supernatural and faeries. Meet once a month. 
+A book club that meets in [[Book Cafe]] run by [[Orderly Person]]. They discuss fantasy books. Most members are also part of a witch coven who know about the supernatural and faeries. Meet once a month. 
 
 ### Activities
 - Discussing fantasy books
@@ -94,3 +94,4 @@ A book club that meets in a local cafe/bookstore run by [[Orderly Person]]. They
 
 ## Clues and Information
 - [[Book cypher]] (based on Narnia?)
+- Minutes from last meeting 

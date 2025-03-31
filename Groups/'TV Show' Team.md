@@ -25,19 +25,26 @@ tags:
 >TABLE age, gender WHERE contains(associated-group, [[]]) 
 >```
 ## Overview
-The filming [[TV Show]] nearby. One of the co-stars, [[Pleasant Lead Actor]], on the show got locketed by the [[Trapper]], who managed to sneak their way into a production role. The show's future is uncertain since the disappearance of [[Pleasant Lead Actor]]. [[Diva Lead Actor]] is upset about this
+The team filming [[TV Show]] nearby. 
 
-#Alissa, #Rachelle, can you guys come up with something fun here? Connect some of the characters to other groups/people if possible.
+One of the co-stars, [[Pleasant Lead Actor]], on the show got locketed by the [[Trapper]], who managed to sneak their way into a role on the crew. The show's future is uncertain since the disappearance of [[Pleasant Lead Actor]]. [[Diva Lead Actor]] is upset about this
+
 
 ## History
+### Coming to Groningen
+- [[Writer]] read an early article by [[Journalist]] about the disappearance of [[Equivalent Exchange Touched]]. They started working on an episode set in Groningen based on the incident.  
+
 
 ## Members
-*These are suggestions.*
 [[Diva Lead Actor]]
+- Bit of a dick, but not their fault
 
 [[Pleasant Lead Actor]]
+- Having real paranormal visions due to their [[Touch]]
 
 [[Director]]
+
+[[Writer]]
 
 [[Trapper]]
 

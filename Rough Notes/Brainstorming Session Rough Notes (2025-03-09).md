@@ -76,7 +76,7 @@
 	- Who did it?
 		- Someone's been putting people in necklaces and no-one knows why
 		- Cult
-		- [[Trapper]] part of the [[Web]]
+		- [[Trapper]] part of the Web
 	- Not all necklaces available from the start
 	- Real life people were offered the deal. 
 - Faeries 

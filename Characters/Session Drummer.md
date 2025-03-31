@@ -61,12 +61,18 @@ Just a hobbyist musician, doesn't take it too seriously. Loves [[Ambitious Music
 	- Secretive text messages
 	- Item forgotten by an ONS
 - Fight
+- Talked to [[Trapper]] at bar, and unthinkingly asked for [[Ambitious Musician]] to disappear.
 ### Searching for [[Ambitious Musician]]
 - The last thing they said to each other was very hurtful
-	- Didn't hang out after gig, which is when [[Ambitious Musician]] slept with [[Trapper]] and got locketed 
-- 
+	- Didn't hang out after gig, which is when [[Ambitious Musician]] slept with [[Trapper]] and got locketed
+
+### Fight with [[Trapper]]
+- Figured out [[Trapper]], slept with [[Ambitious Musician]] from [[Sports Friend]]
+- Set up a meeting to interrogate
+- Got thrown into [[Faerie]] instead
 
 ## Relationships
+### [[Band]]
 [[Laid-back bassist]]
 - Good friends for 2 years.
 - Bandmates
@@ -78,8 +84,12 @@ Just a hobbyist musician, doesn't take it too seriously. Loves [[Ambitious Music
 - In a romantic relationship: loves them, but is also charmed by them. 
 - Suspects they consistently cheat, which has lead to fights. 
 
+### Others
 [[Crime Boss' Kid]]
 - Holds grudge against them
 - A little envious of their apparent wealth
+
+[[Trapper]]
+- Acquaintance, do not know each other well, but have seen each other around. 
 
 ## Clues and Information

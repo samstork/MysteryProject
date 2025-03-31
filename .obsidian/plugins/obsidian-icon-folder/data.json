@@ -884,5 +884,26 @@
   },
   "Groups/Political council.md": {
     "iconName": "FasUserGroup"
+  },
+  "Characters/Old book lady.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Groups/Sports Association.md": {
+    "iconName": "FasUserGroup"
+  },
+  "Characters/Trapper.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Old Witch.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Diva Lead Actor.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Pleasant Lead Actor.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Sports Friend.md": {
+    "iconName": "FasUserLarge"
   }
 }

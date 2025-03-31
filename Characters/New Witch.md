@@ -16,7 +16,7 @@ fear:
 strength: Emotion
 weakness: Direct Confrontation
 
-tags:
+tags: 
 icon: FasUserLarge
 ---
 

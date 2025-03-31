@@ -1,12 +1,12 @@
 ---
 aliases: 
-type: TTRPG Campaign
-status: Active
+type: Sports Association
+status:
 
-desire: To have Fun
-fear: Scheduling
+desire:
+fear:
 
-icon: FasDiceD20
+icon: FasUserGroup
 ---
 
 > [!infobox]
@@ -24,25 +24,23 @@ icon: FasDiceD20
 >TABLE age, gender WHERE contains(associated-group, [[]]) 
 >```
 ## Overview
-A D&D campaign run by [[New Witch]]
+A small sports association focusing on SPORT. 
+
 ## History
+### Founding
+- Founded in 1989
+### Second Lustrum
+- 
 
 ## Members
-[[New Witch]]
-- Dungeon Master
+[[First Victim]]
 
-[[Crime Boss' Kid]]
-- Plays a Human Rogue
+[[Dangerous Touched]]
 
-[[Time Traveller]]
-- Plays a Aarakocra Wizard
+[[Coach]]
 
-[[Jock-Nerd]]
-- Plays a Gnome Barbarian
+[[Sports Friend]]
 
-[[Aloysius Matje]]
-- Plays a Red Tiefling Warlock
-	- Old ones
 
 
 ## Internal Politics
@@ -50,7 +48,4 @@ A D&D campaign run by [[New Witch]]
 ## External Politics
 
 ## Clues and Information
-### Hint towards members
-- Character Sheets
-- Scheduling conflicts
 
