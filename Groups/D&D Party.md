@@ -24,20 +24,21 @@ icon: FasDiceD20
 >TABLE age, gender WHERE contains(associated-group, [[]]) 
 >```
 ## Overview
-A D&D campaign run by [[New Witch]]
+A D&D campaign run by [[Crime Boss' Kid]]
 ## History
 
 ## Members
-[[New Witch]]
-- Dungeon Master
 
 [[Crime Boss' Kid]]
-- Plays a Human Rogue
+- Dungeon Master
+
+[[New Witch]]
+- Plays a Human Fighter (Very Boring)
 
 [[Time Traveller]]
 - Plays a Aarakocra Wizard
 
-[[Jock-Nerd]]
+[[Athlete]]
 - Plays a Gnome Barbarian
 
 [[Aloysius Matje]]

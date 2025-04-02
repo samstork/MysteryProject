@@ -46,5 +46,8 @@ icon: FasUserLarge
 ## History
 
 ## Relationships
+[[Knowledgeable Professor]]
+- Friends
+- Provides insider knowledge about university
 
 ## Clues and Information

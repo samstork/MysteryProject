@@ -6,7 +6,7 @@ vitality: Alive
 profession: 
 touch: Karmic Justice
 
-associated-group: 
+associated-group: "[[Political council]]"
 
 archetype:
 desire:
@@ -53,17 +53,30 @@ Examples:
 ## History
 
 ## Relationships
+### [[Book Club and Coven]]
+Uses their cafe they run, [[Book Cafe]], to host their meetings
+
 [[New Witch]]
 - Unlikely friends
 - Met at [[Book Cafe]] as they are a long-time customer
 
 [[Old book lady]]
 - Long term friends and former roommates 
-	- Didn't work out very well
+	- Didn't work out very well, but still on pleasant terms
 
 [[Old Witch]]
-- Does not like them very much
-	- "Too slovenly", "Creepily young"
-- Disappointed when they found out 
+- "Too slovenly", "Creepily young"
+- Thinks they're otherwise alright.
+
+[[Book club leader]]
+- Knows them from [[Political council]]
+	- Disagrees with their insistence on keeping the green area
+	- Doesn't know about the thinning of course
+
+### [[Political council]]
+- Was politically engaged in the 2010s
+[[Syndicate Boss]]
+- Knows them personally and get along pretty well
+- Worked together in political council. 
 
 ## Clues and Information

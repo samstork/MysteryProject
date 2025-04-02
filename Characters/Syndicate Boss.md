@@ -53,11 +53,13 @@ Local politician who is also crime boss and immensely wealthy. Knows a little ab
 [[Crime Boss' Kid]]
 - Child
 - Fiercely protective of them and very doting
-- Hides crime empire from them 
+- Hides crime empire from them
+
 [[Nightclub Owner]]
 - Sibling
 - Begrudging acceptance 
 - Does not trust them
+
 [[Book club leader]]
 - Despises them due to their political campaign
 - Unable to exact revenge due to magical protections 

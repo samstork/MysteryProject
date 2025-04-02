@@ -1,1 +1,1 @@
-A local cafe, based on Koffiestation, but run by [[Orderly Person]]. Hosts [[Book Club and Coven]].
+A local cafe, based on Koffiestation, but run by [[Librarian]]. Hosts [[Book Club and Coven]].

@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasMagnifyingGlass",
       "FasUserGroup",
       "FasUserLarge",
       "FasDiceD20",
-      "RaFedora",
-      "FasBook"
+      "RaFedora"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -873,12 +873,6 @@
   "Characters/Crime Boss' Kid.md": {
     "iconName": "FasUserLarge"
   },
-  "Characters/Orderly Person.md": {
-    "iconName": "FasUserLarge"
-  },
-  "Groups/'TV Show' Team.md": {
-    "iconName": "FasTV"
-  },
   "Characters/Alchemist.md": {
     "iconName": "FasUserLarge"
   },
@@ -897,13 +891,16 @@
   "Characters/Old Witch.md": {
     "iconName": "FasUserLarge"
   },
-  "Characters/Diva Lead Actor.md": {
+  "Characters/Librarian.md": {
     "iconName": "FasUserLarge"
   },
-  "Characters/Pleasant Lead Actor.md": {
+  "Characters/Athlete.md": {
     "iconName": "FasUserLarge"
   },
-  "Characters/Sports Friend.md": {
+  "Characters/Drug Dealer Sportie.md": {
     "iconName": "FasUserLarge"
+  },
+  "Clues/Band Article.md": {
+    "iconName": "FasMagnifyingGlass"
   }
 }

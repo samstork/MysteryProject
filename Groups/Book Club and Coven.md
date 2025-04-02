@@ -24,7 +24,7 @@ icon: FasBook
 > TABLE age, gender WHERE contains(associated-group, [[]]) 
 >```
 ## Overview
-A book club that meets in [[Book Cafe]] run by [[Orderly Person]]. They discuss fantasy books. Most members are also part of a witch coven who know about the supernatural and faeries. Meet once a month. 
+A book club that meets in [[Book Cafe]] run by [[Librarian]]. They discuss fantasy books. Most members are also part of a witch coven who know about the supernatural and faeries. Meet once a month. 
 
 ### Activities
 - Discussing fantasy books
@@ -49,7 +49,7 @@ A book club that meets in [[Book Cafe]] run by [[Orderly Person]]. They discuss 
 
 ### Expansion
 - [[Old book lady]] brought in shortly after founding by [[Old Witch]]
-- [[Old book lady]] knows [[Orderly Person]], arranged for club to be hosted in private room at [[Book Cafe]]
+- [[Old book lady]] knows [[Librarian]], arranged for club to be hosted in private room at [[Book Cafe]]
 - [[New Witch]] joined because they hang out at the [[Book Cafe]]
 	- Quickly inducted into coven proper due to their stories of seeing faeries. 
 

@@ -49,6 +49,7 @@ icon: FasUserLarge
 ### [[Book Club and Coven]]
 [[Old Witch]]
 - Really good friends
+- Mostly just goes to book club to hang out with them
 
 [[New Witch]]
 - Wish she understood them better
@@ -56,6 +57,10 @@ icon: FasUserLarge
 [[Alchemist]]
 - Doesn't know them well at all
 
-[[]]
+[[Book club leader]]
+- Get along pretty well
+
+[[Laid-back bassist]]
+- Grandson vibes
 
 ## Clues and Information

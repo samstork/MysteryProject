@@ -39,7 +39,7 @@ A small sports association focusing on SPORT.
 
 [[Coach]]
 
-[[Sports Friend]]
+[[Drug Dealer Sportie]]
 
 
 

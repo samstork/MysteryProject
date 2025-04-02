@@ -1,9 +1,9 @@
 ---
 aliases: 
 gender: 
-age: 28
+age: 30
 vitality: Alive
-profession: PHD Student
+profession: PHD Student (Chemical Engineering)
 touch: Inspiration
 
 associated-group: 
@@ -16,7 +16,7 @@ fear: Failure
 strength: Determined
 weakness: Social Norms
 
-tags:
+tags: locketed
 icon: FasUserLarge
 ---
 
@@ -41,7 +41,7 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-A young, genius alchemist who is mostly solitary. Has connections with the [[Book Club and Coven]] but only joins the actual book club meetings when they have something magic related to discuss with [[Old Witch]] or [[Book club leader]]. A bit serious to a fault. 
+A genius alchemist who is mostly solitary. Has connections with the [[Book Club and Coven]] but only joins the actual book club meetings when they have something magic related to discuss with [[Old Witch]] or [[Book club leader]]. A bit serious to a fault. 
 
 ### Touch
 Their touch gives them random, sudden flashes of inspiration. Unprecedented mental acuity and access to information they had no way of knowing. Has occurred in tests and exams, which they then usually ace. Thinks it's their fault they can't perform at 100% of inspiration flash. 
@@ -51,7 +51,7 @@ Their touch gives them random, sudden flashes of inspiration. Unprecedented ment
 
 ## History
 ### Discovery of Alchemy
-- Got into alchemy as a joke during university
+- Got into alchemy as a joke during Master's programme
 - Made discoveries
 	- [[Old Witch]] heard of it, leading to the founding of [[Book Club and Coven]]
 
@@ -61,7 +61,9 @@ Their touch gives them random, sudden flashes of inspiration. Unprecedented ment
 - Distant from [[New Witch]]
 - Really doesn't like [[Laid-back bassist]]
 
-
+### PHD Ceremony
+- Small festivities
+- Invited [[Old Witch]] and [[Book club leader]]
 
 ### Getting Trapped
 - Met [[Trapper]] at university
@@ -95,13 +97,20 @@ Their touch gives them random, sudden flashes of inspiration. Unprecedented ment
 - Frustrated at their lack of alchemical understanding
 	- Wishes they could tell them all about it
 
-[[Sports Friend]]
-- 
+[[Drug Dealer Sportie]]
+- Former room-mate 
+
+[[Ambitious Musician]]
+- TAed them
 
 ## Clues and Information
 - Created [[Outer Wilds Mod]] as a fun side-project?
 	- Was taken by flash of inspiration during creation, put down clue they had no way of knowing
+
 ### Hint at Touch
 - Academic record 
 - Email with professor 
 	- Missed deadline. Waiting for flash of inspiration
+
+### Random Hints from Inspiration
+- Once their touch is identified, they have a 2/6 chance of knowing the answer to any question posed about the investigation. 

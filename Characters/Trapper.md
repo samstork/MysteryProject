@@ -46,23 +46,30 @@ icon: FasUserLarge
 ### 25 Years ago
 #### [[First Victim]]'s disappearance - September 1999
 - Witnessed how [[First Victim]] was (accidentally) killed by [[Dangerous Touched]] at a party. 
-- Developed belief that [[Touch|touches]] are dangerous and need to be locked away. 
-
-#### Deal with [[Faerie]] - November 1999
-- Stole [[Old Witch]]'s grimoire
+#### Stealing grimoire - October 1999
+- Stole [[Old Witch]]'s [[grimoire]]
 	- Contact [[Archfey]]
 	- Faerie Gate
 	- Scry
+- Goes on the run, with support of [[EE victim]]
+
+#### Deal with [[Faerie]] - November 1999
 - Made deal with [[Archfey]] to obtain locketing power
-	- Their name
-- Went off-grid as they were running from [[Old Witch]]
+	- Their name in exchange
+	- Can be called back to [[Archfey]]'s court at any time
+
+#### December
+- Hears about death of [[EE victim]]
+- Developed belief that [[Touch|touches]] are dangerous and need to be locked away. 
 
 #### First Locketing - January 2000
-- Trapped [[Dangerous Touched]], who recognised them 
+- Trapped [[Dangerous Touched]]
+	- Met them in parking lot outside of [[Hospital]]
+	- Tried to get them to confess about their involvement in [[First Victim]]'s coma
+- Starts making preparations for locking [[Equivalent Exchange Touched]]
 
 #### Second Locketing - February 2000
-- Knew [[EE victim]] who died due to [[Equivalent Exchange Touched]], and determined they were 
-- Trapped them
+- Trapped [[Equivalent Exchange Touched]]
 - Did it messily, was found by [[Old Witch]]
 - Found out they can use locketed touches
 

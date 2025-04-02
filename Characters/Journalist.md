@@ -1,7 +1,7 @@
 ---
 aliases: 
 gender: 
-age: 27
+age: 37
 vitality: Locketed
 profession: 
 touch: Finding other touched
@@ -55,15 +55,12 @@ They have a knack for finding other touched people, and keep unknowingly writing
 - Confronted [[Trapper]], but got locketed instead
 
 ## Relationships
-[[Crime Boss' Kid]]
-- In a romantic relationship
 [[Trapper]]
 - Knows them personally, but doesn't know they're the trapper 
 
 
 ## Clues and Information
 ### Articles - Hint towards Touches
-- Article about rise of [[Band]]
+
 - Article about [[Book Club and Coven]]
-- Article about [[TV Show]] and its [['TV Show' Team|Team]]
 - Article about [[Equivalent Exchange Touched]]

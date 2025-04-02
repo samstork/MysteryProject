@@ -72,11 +72,10 @@ icon: FasUserLarge
 [[Syndicate Boss]]
 - The Boss
 
-
-
 ### [[Sports Association]]
-[[Jock-Nerd]]
+[[Athlete]]
 - Get along very well
 - Friendly rivalry
+- Tried to sell them drugs, but they don't do drugs.
 
 ## Clues and Information

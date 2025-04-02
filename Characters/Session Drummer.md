@@ -67,7 +67,7 @@ Just a hobbyist musician, doesn't take it too seriously. Loves [[Ambitious Music
 	- Didn't hang out after gig, which is when [[Ambitious Musician]] slept with [[Trapper]] and got locketed
 
 ### Fight with [[Trapper]]
-- Figured out [[Trapper]], slept with [[Ambitious Musician]] from [[Sports Friend]]
+- Figured out [[Trapper]], slept with [[Ambitious Musician]] from [[Drug Dealer Sportie]]
 - Set up a meeting to interrogate
 - Got thrown into [[Faerie]] instead
 

@@ -1,2 +1,0 @@
-A (supernatural detective?) TV show that was filming recently. Team is [['TV Show' Team]]. Currently production is cancelled due to one of its leads going missing. 
-They actually base episodes on real cases. The episode they were filming involved the disappearance of [[First Victim]]. 

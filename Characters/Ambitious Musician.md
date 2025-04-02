@@ -6,7 +6,9 @@ vitality: Locketed
 profession: Musician
 touch: Musical Charm
 
-associated-group: "[[Band]]"
+associated-group: 
+- "[[Band]]"
+- "[[University Group]]"
 
 archetype: Ambitious Promiscuous Musician
 desire: Recognition
@@ -39,15 +41,30 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-A young musician who wants to "make it big". They're traditionally trained, and unbeknownst to them, their [[Touch]] allows them to move people through their music far more than usual, though it only works live. Along with [[Laid-back bassist]] they started [[Band]], and got involved with [[Session Drummer]]. 
+A young musician who wants to "make it big". Along with [[Laid-back bassist]] they started [[Band]], and got involved with [[Session Drummer]]. 
+
+### Touch 
+Allows them to move/charm people through their music, though it only works live. Additionally, they aren't a great songwriter, so it rarely works with things they made themselves.
+
 ### Important Facts
-- Plays guitar and sings
-- Bisexual (important to determine, as they slept with [[Trapper]])
+- Plays guitar and sings in [[Band]]
+- Traditionally trained
+- Disowned from family
 
 ## History
 - Classically trained, developed interest in music from a young age
+- Entered university
+- Decided to break it off during covid
+	- Lost contact with parents, who basically disowned them
+- Started [[Band]] with [[Laid-back bassist]]
+- Met [[Session Drummer]] through 
 
 ## Relationships
+Parents
+- Distant, disowned
+- Wants to prove them wrong
+
+### [[Band]]
 [[Laid-back bassist]]
 - Old friend from high school. 
 - Both love music, but `=this.file.name` needs external validation, while [[Laid-back bassist]] does not. 
@@ -70,6 +87,12 @@ A young musician who wants to "make it big". They're traditionally trained, and 
 - Didn't work
 	- Musical Charm failed due to their magical abilities
 	- Very confused
+
+### [[University Group]]
+[[Alchemist]]
+- Knew each other in university
+- TA
+
 
 ## Clues and Information
 ### Hints at Touch

@@ -80,7 +80,7 @@ The barkeep of [[Nightclub]], DM of [[D&D Party]], and member of the [[Book Club
 - Employer
 - Working relationship
 - Wants raise from them
-[[Orderly Person]]
+[[Librarian]]
 - Unlikely friends
 - Do crosswords together before book club
 
