@@ -1,7 +1,7 @@
 ---
 aliases: 
 gender: 
-age: 37
+age: 33
 vitality: Locketed
 profession: 
 touch: Finding other touched
@@ -48,6 +48,9 @@ They have a knack for finding other touched people, and keep unknowingly writing
 
 
 ## History
+### University & Career
+- Studied journalism 
+- Started working at a local English newspaper ([[Local News]]) soon after upon graduating in 20
 
 ### Confrontation with [[Trapper]]
 - While investigating the disappearance of [[Ambitious Musician]] and [[Session Drummer]], found out about [[Touch|fae touches]]. 
@@ -60,7 +63,7 @@ They have a knack for finding other touched people, and keep unknowingly writing
 
 
 ## Clues and Information
-### Articles - Hint towards Touches
-
+[[Band Article]]
+[[Political Campaign Article]]
 - Article about [[Book Club and Coven]]
 - Article about [[Equivalent Exchange Touched]]

@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasScroll",
+      "FasBook",
+      "FasNewspaper",
       "FasMagnifyingGlass",
-      "FasUserGroup",
-      "FasUserLarge",
-      "FasDiceD20",
-      "RaFedora"
+      "FasUserGroup"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -901,6 +901,18 @@
     "iconName": "FasUserLarge"
   },
   "Clues/Band Article.md": {
-    "iconName": "FasMagnifyingGlass"
+    "iconName": "FasNewspaper"
+  },
+  "Characters/Equivalent Exchange Touched.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/EE victim.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Clues/Grimoire.md": {
+    "iconName": "FasScroll"
+  },
+  "Clues/Political Campaign Article.md": {
+    "iconName": "FasNewspaper"
   }
 }

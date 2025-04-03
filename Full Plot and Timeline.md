@@ -33,6 +33,7 @@
 - [[Equivalent Exchange Touched]] wins the lottery
 	- Due to their touch, high levels of luck are counterbalanced by high levels of unluck
 		- Family, including [[EE victim]], dies in car crash
+		- They were 
 	- Becomes shut-in
 ### December 
 - [[Trapper]] hears about [[EE victim]]
@@ -71,6 +72,8 @@
 ## 2006
 - [[First Victim]] taken off life support, but cannot live on without nursing support
 
+## 2007
+
 ## 2008
 - [[Librarian]] moves back to Groningen
 - [[Book Cafe]] opens
@@ -83,15 +86,16 @@
 
 ## 2015
 - [[Syndicate Boss]] joins [[Political council]]
+- [[Journalist]] graduates. 
+
+## 2017
+- [[Journalist]] starts working at [[Local News]]
 
 ## 2018
 - [[Librarian]] joins [[Political council]], but not as a full employee
 
 ## 2019
 - [[Book club leader]]'s political campaign in [[Political council|Local Politics]]
-
-## 2020
-- [[Journalist]] graduates university and starts working at [[Local News]]
 
 ## 2021
 ### March
@@ -137,6 +141,7 @@
 ### November
 - [[Band]] has second gig at [[Nightclub]]
 - [[New Witch]] and [[Laid-back bassist]] become friends
+- [[Journalist]] also works as a correspondent for [[Bigger News]]
 ### December
 - [[New Witch]] becomes full witch
 	- Told [[Book club leader]] about their drug filled experience 
@@ -170,4 +175,6 @@
 	- [[Aloysius Matje]] is their roommate and joins 
 	- [[Time Traveller]] invited by [[Athlete]]
 	- [[New Witch]] invites [[Laid-back bassist]], but they leave the campaign after only a few sessions
+
+## 2024
 - 

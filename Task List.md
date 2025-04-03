@@ -14,12 +14,14 @@ kanban-plugin: board
 
 - [ ] Claim tasks here.
 - [ ] EXAMPLE: Craft task #Sam
+- [ ] [[Band Article]] #Jana
 
 
 ## WIP
 
 - [ ] Track your WIPs here.
 - [ ] EXAMPLE: Writing task #Sam
+- [ ] [[Athlete]] #Sam
 
 
 ## Done
