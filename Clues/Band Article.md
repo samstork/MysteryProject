@@ -16,9 +16,9 @@ icon: FasNewspaper
 ## Overview
 
 ## Related Groups/Characters
-[[Journalist]]
+[[Rebecca Quill]]
 ### [[Band]]
-[[Ambitious Musician]]
+[[Mickey Gold]]
 [[Session Drummer]]
 [[Laid-back bassist]]
 
@@ -36,28 +36,28 @@ icon: FasNewspaper
 	- Very impressed by live event
 - Only formed in 2021. [[Session Drummer]] only joined in 2022. 
 - Interview 
-	- Preamble. [[Ambitious Musician]] is excited to be there. [[Session Drummer]] seems a bit uncomfortable and doesn't talk much. [[Laid-back bassist]] answers questions honestly and conversationally. 
+	- Preamble. [[Mickey Gold]] is excited to be there. [[Session Drummer]] seems a bit uncomfortable and doesn't talk much. [[Laid-back bassist]] answers questions honestly and conversationally. 
 	- biggest influence, inspirations, what drew you to make music?
-		- [[Ambitious Musician]]: Punk, glam rock, alternative, some tiny made-up band name 
+		- [[Mickey Gold]]: Punk, glam rock, alternative, some tiny made-up band name 
 		- [[Laid-back bassist]]: "We just make music we'd like to listen to ourselves."
 		- [[Session Drummer]], shyly: Nyango Star
 			- Journalist explains Nyango Star is a japanese apple/cat character known for playing heavy metal drums.
 	- Creative process?
 		- [[Laid-back bassist]]: A lot of jam sessions. Get out our instruments, play, see what sticks. 
-		- [[Ambitious Musician]]: Not a lot sticks
+		- [[Mickey Gold]]: Not a lot sticks
 		- [[Laid-back bassist]]: Yeah, it's not all great, but it's still fun
-		- [[Ambitious Musician]]: We usually start with a riff or a melody, something that sticks in our heads. Then we work off that, write a hook
+		- [[Mickey Gold]]: We usually start with a riff or a melody, something that sticks in our heads. Then we work off that, write a hook
 		- [[Laid-back bassist]]: Yeah, see what the music is saying to us. 
-		- [[Ambitious Musician]]: Sure.
+		- [[Mickey Gold]]: Sure.
 	- Do you have a deal yet?
-		- [[Ambitious Musician]]: (laughs) not *yet*. 
+		- [[Mickey Gold]]: (laughs) not *yet*. 
 		- [[Laid-back bassist]]: We're really just- (doing it for fun, gets broken off)
-		- [[Ambitious Musician]]: Yeah, starting out. 
+		- [[Mickey Gold]]: Yeah, starting out. 
 		- [[Session Drummer]]: We talked about it
 	- Recent gig:
-		- [[Ambitious Musician]]: Just did a valentine's day special at [[Nightclub]]
+		- [[Mickey Gold]]: Just did a valentine's day special at [[Nightclub]]
 	- Where can people see you:
 		- [[Laid-back bassist]]: We're doing gigs at [[Nightclub]], don't plan on stopping
-		- [[Ambitious Musician]]: We have social media @XXXXXXX (Blacked out) 
+		- [[Mickey Gold]]: We have social media @XXXXXXX (Blacked out) 
 - Conclusion
 	- Excited to see what they do next. 

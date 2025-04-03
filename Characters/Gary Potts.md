@@ -3,12 +3,12 @@ aliases:
 gender: 
 age: 
 vitality: Alive
-profession: 
+profession: Policeman
 touch: None
 
 associated-group: 
 
-archetype:
+archetype: Corrupt Policeman
 desire:
 fear:
 strength:
@@ -43,24 +43,10 @@ icon: FasUserLarge
 ### Important Facts
 
 
+
 ## History
 
 ## Relationships
-### [[Book Club and Coven]]
-[[Old Witch]]
-- Really good friends
-- Mostly just goes to book club to hang out with them
-
-[[Gwen Bridget]]
-- Wish she understood them better
-
-[[Alchemist]]
-- Doesn't know them well at all
-
-[[Book club leader]]
-- Get along pretty well
-
-[[Laid-back bassist]]
-- Grandson vibes
+- [[Robert Jones]]
 
 ## Clues and Information

@@ -1,6 +1,6 @@
 ---
-aliases: 
-gender: 
+aliases: Phil Chesterfield
+gender: Male
 age: 24
 vitality: Locketed
 profession: Musician
@@ -81,7 +81,7 @@ Parents
 [[Trapper]]
 - Had a one-night stand with them at a gig and got trapped
 
-[[New Witch]]
+[[Gwen Bridget]]
 - Doesn't know them personally very well
 - Tried hitting on them
 - Didn't work

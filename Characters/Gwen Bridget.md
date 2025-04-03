@@ -1,6 +1,6 @@
 ---
-aliases: 
-gender: 
+aliases: Gwen
+gender: Female
 age: 25
 vitality: Alive
 profession: "[[Nightclub]] barkeep"
@@ -44,7 +44,8 @@ icon: FasUserLarge
 The barkeep of [[Nightclub]], DM of [[D&D Party]], and member of the [[Book Club and Coven]] who only recently became a witch. Bit of a Cottage-Goth vibe going on. Has a fair amount of natural talent
 
 ### Important Facts
-
+- Dislikes her middle name. 
+- Very distinctive, purple/blue dyed hair. 
 
 ## History
 
@@ -70,7 +71,7 @@ The barkeep of [[Nightclub]], DM of [[D&D Party]], and member of the [[Book Club
 - Also invited them to [[D&D Party]], but they didn't join
 
 ### [[D&D Party]]
-[[Crime Boss' Kid]]
+[[Ramona Jones]]
 - Player in D&D campaign
 - Doesn't know them super well
 - Surprised to learn [[Nightclub Owner]] is their aunt/uncle
@@ -80,7 +81,7 @@ The barkeep of [[Nightclub]], DM of [[D&D Party]], and member of the [[Book Club
 - Employer
 - Working relationship
 - Wants raise from them
-[[Librarian]]
+[[Casey Raid]]
 - Unlikely friends
 - Do crosswords together before book club
 

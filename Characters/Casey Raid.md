@@ -1,6 +1,6 @@
 ---
 aliases: 
-gender: 
+gender: Female 
 age: 56
 vitality: Alive
 profession: 
@@ -8,10 +8,10 @@ touch: Karmic Justice
 
 associated-group: "[[Political council]]"
 
-archetype:
-desire:
-fear:
-strength:
+archetype: Librarian
+desire: Order
+fear: Wasps
+strength: 
 weakness:
 
 tags: locketed
@@ -56,7 +56,7 @@ Examples:
 ### [[Book Club and Coven]]
 Uses their cafe they run, [[Book Cafe]], to host their meetings
 
-[[New Witch]]
+[[Gwen Bridget]]
 - Unlikely friends
 - Met at [[Book Cafe]] as they are a long-time customer
 
@@ -75,7 +75,7 @@ Uses their cafe they run, [[Book Cafe]], to host their meetings
 
 ### [[Political council]]
 - Was politically engaged in the 2010s
-[[Syndicate Boss]]
+[[Robert Jones]]
 - Knows them personally and get along pretty well
 - Worked together in political council. 
 

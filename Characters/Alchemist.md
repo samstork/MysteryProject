@@ -1,7 +1,7 @@
 ---
 aliases: 
 gender: 
-age: 30
+age: 32
 vitality: Alive
 profession: PHD Student (Chemical Engineering)
 touch: Inspiration
@@ -51,19 +51,22 @@ Their touch gives them random, sudden flashes of inspiration. Unprecedented ment
 
 ## History
 ### Discovery of Alchemy
-- Got into alchemy as a joke during Master's programme
+- Got into alchemy as a joke during PHD programme
 - Made discoveries
 	- [[Old Witch]] heard of it, leading to the founding of [[Book Club and Coven]]
 
 ### Founding Coven
 - After being inducted into witchcraft, founded [[Book Club and Coven]] alongside [[Old Witch]] and [[Book club leader]]. 
 - Did not like the fantasy book idea, but accepted it due to other's seniority
-- Distant from [[New Witch]]
+- Distant from [[Gwen Bridget]]
 - Really doesn't like [[Laid-back bassist]]
 
 ### PHD Ceremony
 - Small festivities
 - Invited [[Old Witch]] and [[Book club leader]]
+
+### Moving out
+- Moved out of room with [[Drug Dealer Sportie]]
 
 ### Getting Trapped
 - Met [[Trapper]] at university
@@ -83,7 +86,7 @@ Their touch gives them random, sudden flashes of inspiration. Unprecedented ment
 - Begrudgingly accepts their better understanding of magic outside of Alchemy
 - Trusts them as leader of their coven
 
-[[New Witch]]
+[[Gwen Bridget]]
 - Sees them as a child, barely above notice
 - A bit bratty
 - Distant
@@ -99,14 +102,16 @@ Their touch gives them random, sudden flashes of inspiration. Unprecedented ment
 
 [[Drug Dealer Sportie]]
 - Former room-mate 
+- Did not get along well
+- Knew of their ties to [[Crime Syndicate]]
 
-[[Ambitious Musician]]
+[[Chloe Hughes]]
+- 
+
+[[Mickey Gold]]
 - TAed them
 
 ## Clues and Information
-- Created [[Outer Wilds Mod]] as a fun side-project?
-	- Was taken by flash of inspiration during creation, put down clue they had no way of knowing
-
 ### Hint at Touch
 - Academic record 
 - Email with professor 
@@ -114,3 +119,9 @@ Their touch gives them random, sudden flashes of inspiration. Unprecedented ment
 
 ### Random Hints from Inspiration
 - Once their touch is identified, they have a 2/6 chance of knowing the answer to any question posed about the investigation. 
+
+### Hints at Alchemy
+- Research notes
+
+### Hints at trapper
+- [[Book cypher]] trying to communicate [[Trapper]]'s identity. 

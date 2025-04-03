@@ -21,7 +21,7 @@ kanban-plugin: board
 
 - [ ] Track your WIPs here.
 - [ ] EXAMPLE: Writing task #Sam
-- [ ] [[Athlete]] #Sam
+- [ ] [[Anthony Stinger]] #Sam
 
 
 ## Done

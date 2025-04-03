@@ -3,7 +3,7 @@ aliases:
 gender: 
 age: 
 vitality: Alive
-profession: Nepo Baby
+profession: 
 touch: None
 
 associated-group: 
@@ -39,34 +39,13 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-Child of the [[Syndicate Boss]], but doesn't know about their criminal activity. Otherwise just lives a pretty normal student life. Gets special treatment at [[Nightclub]] due to family relation.
 
 ### Important Facts
-- Big fan of [[TV Show]]
+
+
 
 ## History
 
 ## Relationships
-[[Journalist]]
-- Dating, in a committed relationship
-
-[[New Witch]]
-- Friends. Met through [[D&D Party]].
-
-[[Syndicate Boss]]
-- Parent
-- Distant relationship, 
-- Feels suffocated
-- Suspects they're hiding something
-
-### [['TV Show' Team]]
-[[Diva Lead Actor]]
-- Despised them
-- Never meet your heroes
-
-[[Pleasant Lead Actor]]
-- They were okay
-- Only had minor interactions
-
 
 ## Clues and Information

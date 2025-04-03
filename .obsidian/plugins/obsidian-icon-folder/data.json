@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasUserGroup",
+      "FasUserLarge",
       "FasScroll",
       "FasBook",
-      "FasNewspaper",
-      "FasMagnifyingGlass",
-      "FasUserGroup"
+      "FasNewspaper"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -840,9 +840,6 @@
   "Groups/Band.md": {
     "iconName": "FasGuitar"
   },
-  "Characters/Ambitious Musician.md": {
-    "iconName": "FasUserLarge"
-  },
   "Characters/Laid-back bassist.md": {
     "iconName": "FasUserLarge"
   },
@@ -858,20 +855,8 @@
   "Groups/Crime Syndicate.md": {
     "iconName": "RaFedora"
   },
-  "Characters/Syndicate Boss.md": {
-    "iconName": "FasUserLarge"
-  },
-  "Characters/Journalist.md": {
-    "iconName": "FasUserLarge"
-  },
   "Groups/D&D Party.md": {
     "iconName": "FasDiceD20"
-  },
-  "Characters/New Witch.md": {
-    "iconName": "FasUserLarge"
-  },
-  "Characters/Crime Boss' Kid.md": {
-    "iconName": "FasUserLarge"
   },
   "Characters/Alchemist.md": {
     "iconName": "FasUserLarge"
@@ -891,12 +876,6 @@
   "Characters/Old Witch.md": {
     "iconName": "FasUserLarge"
   },
-  "Characters/Librarian.md": {
-    "iconName": "FasUserLarge"
-  },
-  "Characters/Athlete.md": {
-    "iconName": "FasUserLarge"
-  },
   "Characters/Drug Dealer Sportie.md": {
     "iconName": "FasUserLarge"
   },
@@ -906,13 +885,58 @@
   "Characters/Equivalent Exchange Touched.md": {
     "iconName": "FasUserLarge"
   },
-  "Characters/EE victim.md": {
-    "iconName": "FasUserLarge"
-  },
   "Clues/Grimoire.md": {
     "iconName": "FasScroll"
   },
   "Clues/Political Campaign Article.md": {
     "iconName": "FasNewspaper"
+  },
+  "Characters/First Victim.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Coach.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Dangerous Touched.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Knowledgeable Professor.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Aloysius Matje.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Mickey Gold.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Groups/University Group.md": {
+    "iconName": "FasUserGroup"
+  },
+  "Characters/Rebecca Quill.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Casey Raid.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Anthony Stinger.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Chloe Hughes.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Gary Potts.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Robert Jones.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Ramona Jones.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Lotte Reiner.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Gwen Bridget.md": {
+    "iconName": "FasUserLarge"
   }
 }

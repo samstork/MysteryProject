@@ -39,7 +39,7 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-Dad of [[EE victim]], second of [[Trapper]]'s victims. They were a clerk at the [[Political council]], being just slightly better than average in terms of luck. 
+Dad of [[Lotte Reiner]], second of [[Trapper]]'s victims. They were a clerk at the [[Political council]], being just slightly better than average in terms of luck. 
 
 ### Touch
 His touch, elastic fate, lets them enact lesser miracles and similar 
@@ -53,13 +53,13 @@ His touch, elastic fate, lets them enact lesser miracles and similar
 
 ## Relationships
 ### Family
-[[EE victim]]
+[[Lotte Reiner]]
 - Daughter. Good relationship, if a bit distant since she moved away to go to university. 
 	- Convinced he has a touch but doesn't tell him
 	- Tells him to buy a lottery ticket
 [[EE Wife]]
 - 
 ## Clues and Information
-- [[EE victim]] thinks their dad has a touch 
+- [[Lotte Reiner]] thinks their dad has a touch 
 	- Always wins at Yahtzee 
 	- 

@@ -1,12 +1,16 @@
 ---
 aliases: 
 gender: 
-age: 
+age: 53
 vitality: Alive
 profession: 
+- Crime Boss
+- Politician
 touch: None
 
 associated-group: 
+- "[[Crime Syndicate]]"
+- "[[Political council]]"
 
 archetype:
 desire:
@@ -39,28 +43,25 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-
+Local politician who is also crime boss and immensely wealthy. Knows a little about magic, or at least suspects it. 
 ### Important Facts
 
 
 ## History
 
 ## Relationships
-### [[Book Club and Coven]]
-[[Old Witch]]
-- Really good friends
-- Mostly just goes to book club to hang out with them
+[[Ramona Jones]]
+- Child
+- Fiercely protective of them and very doting
+- Hides crime empire from them
 
-[[Gwen Bridget]]
-- Wish she understood them better
-
-[[Alchemist]]
-- Doesn't know them well at all
+[[Nightclub Owner]]
+- Sibling
+- Begrudging acceptance 
+- Does not trust them
 
 [[Book club leader]]
-- Get along pretty well
-
-[[Laid-back bassist]]
-- Grandson vibes
+- Despises them due to their political campaign
+- Unable to exact revenge due to magical protections 
 
 ## Clues and Information

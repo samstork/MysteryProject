@@ -18,23 +18,21 @@ An article covering [[preservation campaign]] of the [[Local Faerie Area]] near 
 
 
 ## Related Groups/Characters
-[[Journalist]]
+[[Rebecca Quill]]
 ### [[Political council]]
-- [[Syndicate Boss]]
+- [[Robert Jones]]
 - [[Book club leader]]
-- [[Librarian]]
+- [[Casey Raid]]
 
 ## Information
-- [[Syndicate boss]] tried to build something there 
+- [[Robert Jones]] tried to build something there 
 - [[Book club leader]] blocked it
 - Both seem to have vested interest in an otherwise unimportant bit of land. 
 	- There's a [[thinning]] there 
 - The land is still unbuilt upon. 
-- [[Librarian]] is focused on, weirdly
+- [[Casey Raid]] is focused on, weirdly
 	- Hints towards them having a [[Touch]]
 
 ## Full Contents
 ### Outline
 Headline: It's official, local green will stay!
-
-- Almost a year ago 

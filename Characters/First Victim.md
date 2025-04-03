@@ -1,6 +1,6 @@
 ---
 aliases: 
-gender: 
+gender: Female
 age: 
 vitality: Alive
 profession: 
@@ -39,6 +39,7 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
+A member of [[Sports Association]], who was put into a comatose state by their partner, [[Dangerous Touched]], and later died. Kickstarted [[Trapper]]'s crusade. 
 
 ### Important Facts
 
@@ -46,21 +47,5 @@ icon: FasUserLarge
 ## History
 
 ## Relationships
-### [[Book Club and Coven]]
-[[Old Witch]]
-- Really good friends
-- Mostly just goes to book club to hang out with them
-
-[[Gwen Bridget]]
-- Wish she understood them better
-
-[[Alchemist]]
-- Doesn't know them well at all
-
-[[Book club leader]]
-- Get along pretty well
-
-[[Laid-back bassist]]
-- Grandson vibes
 
 ## Clues and Information

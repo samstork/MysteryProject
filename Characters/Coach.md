@@ -1,6 +1,6 @@
 ---
 aliases: 
-gender: 
+gender: Male
 age: 
 vitality: Alive
 profession: 
@@ -46,21 +46,5 @@ icon: FasUserLarge
 ## History
 
 ## Relationships
-### [[Book Club and Coven]]
-[[Old Witch]]
-- Really good friends
-- Mostly just goes to book club to hang out with them
-
-[[Gwen Bridget]]
-- Wish she understood them better
-
-[[Alchemist]]
-- Doesn't know them well at all
-
-[[Book club leader]]
-- Get along pretty well
-
-[[Laid-back bassist]]
-- Grandson vibes
 
 ## Clues and Information

@@ -51,7 +51,7 @@ icon: FasUserLarge
 	- Contact [[Archfey]]
 	- Faerie Gate
 	- Scry
-- Goes on the run, with support of [[EE victim]]
+- Goes on the run, with support of [[Lotte Reiner]]
 
 #### Deal with [[Faerie]] - November 1999
 - Made deal with [[Archfey]] to obtain locketing power
@@ -59,7 +59,7 @@ icon: FasUserLarge
 	- Can be called back to [[Archfey]]'s court at any time
 
 #### December
-- Hears about death of [[EE victim]]
+- Hears about death of [[Lotte Reiner]]
 - Developed belief that [[Touch|touches]] are dangerous and need to be locked away. 
 
 #### First Locketing - January 2000
@@ -81,7 +81,7 @@ icon: FasUserLarge
 
 ### Recently
 #### Leaving [[Faerie]] - June 2021
-- Escaped from [[Archfey]] due to [[New Witch]] somehow releasing them
+- Escaped from [[Archfey]] due to [[Gwen Bridget]] somehow releasing them
 - Returned from [[Faerie]] in the middle of the pandemic
 - Took that time to re-acquaint themselves with the 21 years they missed. 
 - Found job at 
@@ -95,6 +95,23 @@ icon: FasUserLarge
 - Acquaintance 25 years ago 
 - Found out they're a witch through rumours spread by [[Dangerous Touched]]
 - Stole one of their Grimoires
+
+[[Casey Raid]]
+- Became a regular of [[Book Cafe]] before locketing her 
+
+[[Rebecca Quill]]
+- Met through some class they took together 
+
+[[Mickey Gold]]
+- Pretended to be a fan
+- One night stand
+
+[[Alchemist]]
+- Knew them personally somehow, but not too well
+
+[[Chloe Hughes]]
+- Knew them well. 
+
 
 ### [[Sports Association]]
 [[First Victim]]

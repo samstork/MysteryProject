@@ -43,19 +43,20 @@ A really chill person who does a bit of everything. Has a passion for music, and
 ### Important Facts
 - Possibly Aro/Ace, at least Demi.
 - Has some latent magical talent, but no [[Touch]]
+- Allergic to Cats
 
 ## History
 ### Starting [[Band]]
-- Started [[Band]] alongside [[Ambitious Musician]] a few years ago
-- Introduced [[Session Drummer]] to [[Band]] and [[Ambitious Musician]]
+- Started [[Band]] alongside [[Mickey Gold]] a few years ago
+- Introduced [[Session Drummer]] to [[Band]] and [[Mickey Gold]]
 
 ### Joining [[Book Club and Coven]]
-- Met [[New Witch]] at [[Nightclub]]
+- Met [[Gwen Bridget]] at [[Nightclub]]
 	- Hit it off due to similar vibes and interests
 - Was introduced to [[Book Club and Coven]] since they also like fantasy books
 
 ## Relationships
-[[Ambitious Musician]]
+[[Mickey Gold]]
 - Old friend
 - Thinks they're misguided, but too frustrated with them to try to persuade them to stop
 - Regrets leaving the band after their disappearance
@@ -67,6 +68,6 @@ A really chill person who does a bit of everything. Has a passion for music, and
 - Doesn't know them very well
 - Resents them for attempting to "limit their artistic freedom"
 [[Trapper]]
-- Met them at one of their gigs when they were trying to get to [[Ambitious Musician]] for their touch
+- Met them at one of their gigs when they were trying to get to [[Mickey Gold]] for their touch
 
 ## Clues and Information

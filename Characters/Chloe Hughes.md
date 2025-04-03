@@ -1,9 +1,9 @@
 ---
-aliases: 
-gender: 
+aliases: Chris Hughes
+gender: MtF Trans 
 age: 
 vitality: Alive
-profession: 
+profession: Student (Bachelor)
 touch: None
 
 associated-group: 
@@ -41,26 +41,25 @@ icon: FasUserLarge
 ## Overview
 
 ### Important Facts
-
+- Likes videogames
+- Trans (MtF)
+	- Deadname: Christopher
 
 ## History
+### Moving to Groningen
+- 
+### Coming out as Trans
+
 
 ## Relationships
-### [[Book Club and Coven]]
-[[Old Witch]]
-- Really good friends
-- Mostly just goes to book club to hang out with them
-
-[[Gwen Bridget]]
-- Wish she understood them better
+[[Drug Dealer Sportie]]
+- Roommates
 
 [[Alchemist]]
-- Doesn't know them well at all
-
-[[Book club leader]]
-- Get along pretty well
-
-[[Laid-back bassist]]
-- Grandson vibes
+- Taught/TAed Synthesis and Analysis
+- Vibed surprisingly well 
+- Mutual interest in videogames
+- Knew them under 
 
 ## Clues and Information
+- Trans flag pin

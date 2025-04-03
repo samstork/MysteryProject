@@ -41,7 +41,7 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-
+A grungy guy, member of the [[Sports Association]]. Really down on his luck, always needs money, and is selling drugs to kids at clubs. 
 
 ### Important Facts
 
@@ -50,30 +50,31 @@ icon: FasUserLarge
 
 ## Relationships
 [[Alchemist]]
-- Roommate
+- Roommate, formerly
+- Did not get along well
+
+[[Chloe Hughes]]
+- New roommate
 
 [[Session Drummer]]
 - Really good friend
-
-[[Trapper]]
-- Friends
 
 ### [[Crime Syndicate]]
 [[Laid-back bassist]]
 - Client, sold them drugs 
 
-[[New Witch]]
+[[Gwen Bridget]]
 - Client, used to sell them drugs (LSD)
 
 [[Nightclub Owner]]
 - Manager
 - Keeps involvement secret
 
-[[Syndicate Boss]]
+[[Robert Jones]]
 - The Boss
 
 ### [[Sports Association]]
-[[Athlete]]
+[[Anthony Stinger]]
 - Get along very well
 - Friendly rivalry
 - Tried to sell them drugs, but they don't do drugs.

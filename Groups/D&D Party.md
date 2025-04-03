@@ -24,26 +24,28 @@ icon: FasDiceD20
 >TABLE age, gender WHERE contains(associated-group, [[]]) 
 >```
 ## Overview
-A D&D campaign run by [[Crime Boss' Kid]]
+A D&D campaign run by [[Ramona Jones]]
 ## History
 
 ## Members
-
-[[Crime Boss' Kid]]
+[[Ramona Jones]]
 - Dungeon Master
 
-[[New Witch]]
+[[Gwen Bridget]]
 - Plays a Human Fighter (Very Boring)
+- Invited by [[Ramona Jones]]
 
-[[Time Traveller]]
+[[Chloe Hughes]]
 - Plays a Aarakocra Wizard
+- Invited by [[Anthony Stinger]]
 
-[[Athlete]]
+[[Anthony Stinger]]
 - Plays a Gnome Barbarian
 
 [[Aloysius Matje]]
 - Plays a Red Tiefling Warlock
 	- Old ones
+- 
 
 
 ## Internal Politics

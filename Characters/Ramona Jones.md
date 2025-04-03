@@ -1,16 +1,12 @@
 ---
 aliases: 
 gender: 
-age: 53
+age: 
 vitality: Alive
-profession: 
-- Crime Boss
-- Politician
+profession: Nepo Baby
 touch: None
 
 associated-group: 
-- "[[Crime Syndicate]]"
-- "[[Political council]]"
 
 archetype:
 desire:
@@ -43,25 +39,33 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-Local politician who is also crime boss and immensely wealthy. Knows a little about magic, or at least suspects it. 
-### Important Facts
+Child of the [[Robert Jones]], but doesn't know about their criminal activity. Otherwise just lives a pretty normal student life. Gets special treatment at [[Nightclub]] due to family relation.
+Bit of an emo/party girl vibe going. 
 
+### Important Facts
 
 ## History
 
 ## Relationships
-[[Crime Boss' Kid]]
-- Child
-- Fiercely protective of them and very doting
-- Hides crime empire from them
 
-[[Nightclub Owner]]
-- Sibling
-- Begrudging acceptance 
-- Does not trust them
 
-[[Book club leader]]
-- Despises them due to their political campaign
-- Unable to exact revenge due to magical protections 
+[[Gwen Bridget]]
+- Friends. Met through [[D&D Party]].
+
+[[Robert Jones]]
+- Parent
+- Distant relationship, 
+- Feels suffocated
+- Suspects they're hiding something
+
+### [['TV Show' Team]]
+[[Diva Lead Actor]]
+- Despised them
+- Never meet your heroes
+
+[[Pleasant Lead Actor]]
+- They were okay
+- Only had minor interactions
+
 
 ## Clues and Information

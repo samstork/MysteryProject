@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: Becky
 gender: 
 age: 33
 vitality: Locketed
@@ -53,7 +53,7 @@ They have a knack for finding other touched people, and keep unknowingly writing
 - Started working at a local English newspaper ([[Local News]]) soon after upon graduating in 20
 
 ### Confrontation with [[Trapper]]
-- While investigating the disappearance of [[Ambitious Musician]] and [[Session Drummer]], found out about [[Touch|fae touches]]. 
+- While investigating the disappearance of [[Mickey Gold]] and [[Session Drummer]], found out about [[Touch|fae touches]]. 
 - Put together that [[Trapper]] is behind it, found out about the one-night-stand 
 - Confronted [[Trapper]], but got locketed instead
 

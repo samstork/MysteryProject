@@ -1,7 +1,7 @@
 ---
 aliases: 
-gender: 
-age: 39
+gender: Male
+age: 45
 vitality: Alive
 profession: Politician
 touch: None
@@ -47,7 +47,7 @@ The leader of the [[Book Club and Coven]] and currently minor clerk in the city 
 ### Political Campaign
 - Got highly politically motivated when [[Local Faerie Area]] was going to be built over
 - Ran campaign, joining [[Political council]]
-- Successfully stopped building, but was forced out of council by [[Syndicate Boss]]
+- Successfully stopped building, but was forced out of council by [[Robert Jones]]
 
 ### Founding Coven
 - Started [[Book Club and Coven]] along with 
@@ -55,15 +55,15 @@ The leader of the [[Book Club and Coven]] and currently minor clerk in the city 
 	- [[Alchemist]]
 - Upon [[Alchemist]]'s suggestion, made it public to obfuscate relationship
 
-### Inducting [[New Witch]]
+### Inducting [[Gwen Bridget]]
 - Convinced their story about getting high was magical experience
-- Introduced [[New Witch]] to witch coven
+- Introduced [[Gwen Bridget]] to witch coven
 
 ### Search for [[Trapper]]
 
 
 ## Relationships
-[[New Witch]]
+[[Gwen Bridget]]
 - Gets frustrated at their flamboyant and obvious witch-ness 
 	- Has led to confrontation and thus strained relationship
 - 

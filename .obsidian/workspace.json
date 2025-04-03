@@ -8,48 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec1a0d83b91916bd",
+            "id": "d172066e3e38b159",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Athlete.md",
+                "file": "Characters/Chloe Hughes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Athlete"
+              "title": "Chloe Hughes"
             }
           },
           {
-            "id": "04b8f3a05046b00e",
+            "id": "78207e1e79d11486",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clues/Political Campaign Article.md",
+                "file": "Characters/Gary Potts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Political Campaign Article"
+              "title": "Gary Potts"
             }
           },
           {
-            "id": "b0cf9d593950467e",
+            "id": "0e97b02ac7277ab0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other Notes/Local Faerie Area.md",
+                "file": "Characters/Gwen Bridget.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Local Faerie Area"
+              "title": "Gwen Bridget"
+            }
+          },
+          {
+            "id": "03837450f950f7fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Casey Raid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Casey Raid"
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -270,34 +285,34 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "ec1a0d83b91916bd",
+  "active": "0e97b02ac7277ab0",
   "lastOpenFiles": [
-    "Other Notes/Local Faerie Area.md",
-    "Clues/Political Campaign Article.md",
-    "Task List.md",
-    "Characters/Athlete.md",
-    "Characters/Ambitious Musician.md",
-    "Characters/Alchemist.md",
-    "Characters/Journalist.md",
-    "Clues/Grimoire.md",
-    "Full Plot and Timeline.md",
-    "Clues/Band Article.md",
-    "Characters/Equivalent Exchange Touched.md",
-    "Characters/EE victim.md",
     "Characters/Trapper.md",
     "Characters/Session Drummer.md",
-    "Characters/Diva Lead Actor.md",
-    "Groups/D&D Party.md",
-    "Characters/Librarian.md",
-    "Characters/Drug Dealer Sportie.md",
-    "Primer.md",
+    "Characters/Lotte Reiner.md",
+    "Characters/Ramona Jones.md",
+    "Characters/Robert Jones.md",
+    "Characters/Gary Potts.md",
+    "Characters/Chloe Hughes.md",
+    "Characters/Casey Raid.md",
     "Characters/Book club leader.md",
-    "Characters/Old book lady.md",
-    "Characters/Pleasant Lead Actor.md",
-    "Other Notes/TV Show.md",
-    "Characters/Crime Boss' Kid.md",
-    "Groups/'TV Show' Team.md",
-    "Characters/New Witch.md",
+    "Characters/Anthony Stinger.md",
+    "Full Plot and Timeline.md",
+    "Characters/Laid-back bassist.md",
+    "Characters/Rebecca Quill.md",
+    "Groups/University Group.md",
+    "Characters/Mickey Gold.md",
+    "Characters/Drug Dealer Sportie.md",
+    "Characters/Dangerous Touched.md",
+    "Characters/Alchemist.md",
+    "Groups/D&D Party.md",
+    "Characters/Aloysius Matje.md",
+    "Characters/Knowledgeable Professor.md",
+    "Characters/Coach.md",
+    "Characters/First Victim.md",
+    "Characters/Equivalent Exchange Touched.md",
+    "Clues/Political Campaign Article.md",
+    "Locket Order.md",
     "Clues",
     "Other Notes",
     "z-Templates",

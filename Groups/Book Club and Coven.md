@@ -24,7 +24,7 @@ icon: FasBook
 > TABLE age, gender WHERE contains(associated-group, [[]]) 
 >```
 ## Overview
-A book club that meets in [[Book Cafe]] run by [[Librarian]]. They discuss fantasy books. Most members are also part of a witch coven who know about the supernatural and faeries. Meet once a month. 
+A book club that meets in [[Book Cafe]] run by [[Casey Raid]]. They discuss fantasy books. Most members are also part of a witch coven who know about the supernatural and faeries. Meet once a month. 
 
 ### Activities
 - Discussing fantasy books
@@ -49,8 +49,8 @@ A book club that meets in [[Book Cafe]] run by [[Librarian]]. They discuss fanta
 
 ### Expansion
 - [[Old book lady]] brought in shortly after founding by [[Old Witch]]
-- [[Old book lady]] knows [[Librarian]], arranged for club to be hosted in private room at [[Book Cafe]]
-- [[New Witch]] joined because they hang out at the [[Book Cafe]]
+- [[Old book lady]] knows [[Casey Raid]], arranged for club to be hosted in private room at [[Book Cafe]]
+- [[Gwen Bridget]] joined because they hang out at the [[Book Cafe]]
 	- Quickly inducted into coven proper due to their stories of seeing faeries. 
 
 ### [[Alchemist]] goes missing
@@ -83,7 +83,7 @@ A book club that meets in [[Book Cafe]] run by [[Librarian]]. They discuss fanta
 - Rarely actually present
 - Does not enjoy fantasy at all, thinks the book club thing is stupid
 
-[[New Witch]]
+[[Gwen Bridget]]
 - Just introduced to witchcraft 
 - Introduced [[Laid-back bassist]] to book club
 
