@@ -22,49 +22,35 @@
             }
           },
           {
-            "id": "bc549b4401f72e7f",
+            "id": "f600eb91dcad8458",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clues/Sports Article.md",
+                "file": "Clues/Jam Session Transcript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sports Article"
+              "title": "Jam Session Transcript"
             }
           },
           {
-            "id": "2d9cf1df5a9d497e",
+            "id": "03483616bb876b89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Plot and Timeline.md",
+                "file": "Characters/Chloe Hughes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Full Plot and Timeline"
+              "title": "Chloe Hughes"
             }
           },
           {
-            "id": "828e042afc85ec8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Penelope Mayer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Penelope Mayer"
-            }
-          },
-          {
-            "id": "719f735489e375c2",
+            "id": "4e6824c0dd7545fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -299,34 +285,34 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "bc549b4401f72e7f",
+  "active": "f600eb91dcad8458",
   "lastOpenFiles": [
-    "Full Plot and Timeline.md",
-    "Clues/Sports Article.md",
-    "Clues/Master Clue List.md",
-    "Clues/Mickey Gold Gone Article.md",
-    "Characters/Courtney Wilson.md",
-    "Groups/D&D Party.md",
-    "Clues/Chloe - Lucy Texts.md",
-    "Characters/Penelope Mayer.md",
     "Characters/Chloe Hughes.md",
-    "Clues/Julian - Mickey Texts.md",
-    "Clues/Courtney - Julian Texts.md",
-    "Clues/Ramona - Anthony Texts.md",
-    "Clues/Anthony - Chloe Texts.md",
+    "Clues/Jam Session Transcript.md",
+    "Clues/Master Clue List.md",
+    "Characters/Courtney Wilson.md",
+    "Characters/Dana Erickson.md",
+    "Characters/Gwen Bridget Clooney.md",
     "Characters/Casey Raid.md",
+    "Clues/Sports Article.md",
+    "Clues/Political Campaign Article.md",
+    "Clues/Ramona - Anthony Texts.md",
+    "Clues/Chloe - Lucy Texts.md",
+    "Clues/Grimoire.md",
+    "Characters/Paul Aracelsus, PhD.md",
+    "Characters/Gary Potts.md",
+    "Clues/Courtney - Julian Texts.md",
+    "Clues/Julian - Mickey Texts.md",
+    "Clues/Mickey Gold Gone Article.md",
+    "Clues/Viral Policeman Video.md",
+    "Full Plot and Timeline.md",
+    "Groups/D&D Party.md",
+    "Characters/Penelope Mayer.md",
+    "Clues/Anthony - Chloe Texts.md",
     "Characters/Evelyn Felidora.md",
     "Characters/Annabel Porter.md",
     "Groups/Sunday Hikers.md",
     "Characters/Anthony Stinger.md",
-    "Clues/Grimoire.md",
-    "Characters/Ramona Jones.md",
-    "Clues/Untitled.md",
-    "Characters/Gary Potts.md",
-    "Other Notes/Local Faerie Area.md",
-    "Characters/Julian Bullock.md",
-    "Characters/Heath M. Laffee.md",
-    "Characters/Aloysius Matje.md",
     "Clues",
     "Other Notes",
     "z-Templates",

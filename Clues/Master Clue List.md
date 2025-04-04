@@ -9,6 +9,7 @@ icon: FasMagnifyingGlass
 [[Sports Article]]
 [[Alchemist Article]]
 [[Mickey Gold Gone Article]]
+[[Elliott Winter Article]]
 
 
 ## Text Messages
@@ -30,3 +31,10 @@ icon: FasMagnifyingGlass
 
 ## D&D Materials
 [[Character Sheets]]
+
+## Other Text
+[[Minutes of Book Club]]
+- [[Book cypher]]
+[[Courtney's notes]]
+[[Taranis Fencing Roster]]
+[[Jam Session Transcript]]

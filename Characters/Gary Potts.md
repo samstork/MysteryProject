@@ -6,7 +6,7 @@ vitality: Alive
 profession: Inspector
 touch: None
 
-associated-group: 
+associated-group: [[Crime Syndicate]]
 
 archetype: Corrupt Policeman
 desire:

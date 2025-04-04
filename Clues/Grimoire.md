@@ -43,9 +43,23 @@ The grimoire of [[Dorothea Hawthorne]], or at least some pages from it
 - Equipment, prep and procedure for summoning [[Archfey]]
 #### Full Cypher Guide (not with the rest)
 - Based on elder futhark, but adapted by generations of witches and thus changed. 
+### Explanation - Faerie
+Realm of Faerie
+Beyond our material reality lies the immortal realm of faerie. In this other world fantastical creatures rule. They have magnificent power far beyond what the material world allows, but are bound by their own rules. 
+
+Faerie is not the afterlife, nor is it an entirely separate world. It is simply a part of ours, hidden from our senses by an invisible yet opaque veil. Where this veil is thin, a place called a thinning, Faerie can seep into our world and ours into it. 
+
+### Explanation - Touches
+Fae Touch
+The creatures hailing from the immortal realm of faerie are inherently mischievous. Among their favourite pastimes is messing with us mortal folk. If given the chance, such as when there is a thinning in the veil between worlds, they will do so. While usually irritating more than anything, they occasionally bestow boons upon us. These touches, as they are called, can be quite helpful, though just as often detrimental. 
+
+There is no way to get a fae touch other than by being selected as the target of a fairy's prank, if that is the right word. 
+
+### Explanation - True Names
+True Names
+Fairies and mortals are mutually bound by certain rules. Among these is the true call. A fairy may take the name of a human, or a human take the name of a fairy, though it must be willingly given. Usually this happens in some form of trade. If called by their true name, either fairy or human must obey, no matter what the command is. However, once called, the name is given back, and must be taken once more to be used again. It is of highest importance to have the true names of some fairies when entering their realm. 
 
 ### Spell - Audience With A Faerie
-*Written in runic cypher*
 **Equipment**: A Fire. A Twig Of Oak, Ash, And Thorn, Each. Twine Of Stag Hair. Six Candles Of Beeswax Which Have Already Burned For An Hour. Chalk Or Something Else To Write With.
 
 **Preparation**: Build The Fire. Wrap The Twigs In The Stag Hair. Inscribe A Circle And Place Five Of The Candles Equidistant Upon It, With The Sixth In The Centre.
@@ -55,3 +69,6 @@ The grimoire of [[Dorothea Hawthorne]], or at least some pages from it
 If The Spell Has Been Performed Correctly, And The Faerie Will Take An Audience, There Will Smoke Drifting Into The Centre Candle. Pass The Lit Sticks Over The Smoke, Lighting The Candle. Have Your Audience With The Fae.
 
 Be Certain To End The Spell When Your Audience Is Done. Douse The Sticks In Water And Blow Out The Centre Candle. Do Not Use It Again, Though You May Melt It Down And Reuse The Wax Itself.
+
+### Full Cypher Guide
+A full transliteration of the cypher. Endgame.

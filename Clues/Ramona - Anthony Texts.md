@@ -1,6 +1,6 @@
 ---
-type:
-status:
+type: text messages
+status: complete
 
 icon: FasMessage
 ---

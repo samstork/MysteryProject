@@ -1,5 +1,5 @@
 ---
-type: sms
+type: text messages
 status: complete
 
 icon: FasMessage

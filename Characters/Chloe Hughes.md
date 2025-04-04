@@ -57,6 +57,12 @@ icon: FasUserLarge
 [[Julian Bullock]]
 - Roommates
 
+[[Penelope Mayer|Lucy Martin]]
+- Met at the forum
+- Both were there to do research
+	- Chloe because she likes not being at home all the time anymore 
+	- Lucy because technically she knew Chloe would be there. 
+
 
 [[Paul Aracelsus, PhD]]
 - Taught a statistics course 
