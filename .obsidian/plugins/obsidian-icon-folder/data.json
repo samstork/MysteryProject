@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasAudioDescription",
-      "FasMagnifyingGlass",
-      "FasNewspaper",
-      "FasVideo",
-      "FasCamera"
+      "FasNoteSticky",
+      "FasTable",
+      "LiTable",
+      "FasUserLarge",
+      "FasAudioDescription"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -867,9 +867,6 @@
   "Characters/Rebecca Quill.md": {
     "iconName": "FasUserLarge"
   },
-  "Characters/Casey Raid.md": {
-    "iconName": "FasUserLarge"
-  },
   "Characters/Anthony Stinger.md": {
     "iconName": "FasUserLarge"
   },
@@ -977,5 +974,14 @@
   },
   "Clues/Jam Session Transcript.md": {
     "iconName": "FasAudioDescription"
+  },
+  "Characters/Casey Reid.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Clues/Taranis Fencing Roster.md": {
+    "iconName": "FasTable"
+  },
+  "Clues/Ramona's Session Notes.md": {
+    "iconName": "FasNoteSticky"
   }
 }

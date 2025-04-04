@@ -48,6 +48,10 @@ icon: FasUserLarge
 ## History
 
 ## Relationships
+### [[Sunday Hikers]]
+- [[Casey Reid]]
+- [[Prof. Dean Gloucester]]
+- [[Annabel Porter]]
 ### [[Book Club and Coven]]
 [[Dorothea Hawthorne]]
 - Really good friends

@@ -26,7 +26,7 @@ icon: FasMagnifyingGlass
 ## Graphics
 [[The Coffee Nook]] poster
 [[Shared Crossword]]
-[[Casey Raid's Schedule]]
+[[Casey Reid's Schedule]]
 
 
 ## D&D Materials
