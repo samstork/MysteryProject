@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: Courtney, Coco
 gender: Female
 age: 22
 vitality: Unknown
@@ -71,13 +71,12 @@ Just a hobbyist musician, doesn't take it too seriously. Loves [[Mickey Gold]], 
 ## Relationships
 ### [[The Goodbyes]]
 [[Laurence Vincent Baker]]
-- Good friends for 2 years.
+- Good friends
 - Bandmates
-- Been convinced they're wrong about the band taking the deal by [[Mickey Gold]], but only after [[Laurence Vincent Baker]] left the band. 
+- Been convinced Vincent was wrong about the deal by [[Mickey Gold]], but only after [[Laurence Vincent Baker|Vince]] left the band. 
 - Misses them 
 
 [[Mickey Gold]]
-- Looks up to and respects them
 - In a romantic relationship: loves them, but is also charmed by them. 
 - Suspects they consistently cheat, which has lead to fights. 
 

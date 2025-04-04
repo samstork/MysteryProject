@@ -43,6 +43,7 @@ Child of the [[Robert Jones]], but doesn't know about their criminal activity. O
 Bit of an emo/party girl vibe going. 
 
 ### Important Facts
+- Owns a cat, [[Mrs. Crimes]]. 
 
 ## History
 

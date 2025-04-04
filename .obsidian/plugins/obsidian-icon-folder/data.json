@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasMessage",
+      "FasT",
+      "FasM",
       "FasNewspaper",
-      "FasMagnifyingGlass",
-      "FasGuitar",
-      "FasUserGroup",
-      "FasUserLarge"
+      "FasMagnifyingGlass"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -944,5 +944,26 @@
   },
   "Clues/Cafe Reviews.md": {
     "iconName": "FasNewspaper"
+  },
+  "Clues/Master Clue List.md": {
+    "iconName": "FasMagnifyingGlass"
+  },
+  "Clues/Anthony - Chloe Texts.md": {
+    "iconName": "FasMessage"
+  },
+  "Clues/Ramona - Anthony Texts.md": {
+    "iconName": "FasMessage"
+  },
+  "Groups/Sunday Hikers.md": {
+    "iconName": "FasUserGroup"
+  },
+  "Clues/Courtney - Julian Texts.md": {
+    "iconName": "FasMessage"
+  },
+  "Clues/Julian - Mickey Texts.md": {
+    "iconName": "FasMessage"
+  },
+  "Clues/Chloe - Lucy Texts.md": {
+    "iconName": "FasMessage"
   }
 }

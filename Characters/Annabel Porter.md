@@ -6,7 +6,9 @@ vitality: Alive
 profession: 
 touch: None
 
-associated-group: "[[Crime Syndicate]]"
+associated-group: 
+- "[[Crime Syndicate]]"
+- "[[Sunday Hikers]]"
 
 archetype:
 desire:
@@ -73,7 +75,7 @@ The matriarch of the [[Crime Syndicate]]. Mother of [[Robert Jones]] and [[Ramse
 - Can get away with anything
 - Does not respect him, thinks his ideas are "cute"
 
-### [[Hiking Club]]
+### [[Sunday Hikers]]
 Forms a group with [[Prof. Dean Gloucester]] and [[Casey Raid]]
 
 ## Clues and Information

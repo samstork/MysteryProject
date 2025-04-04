@@ -103,14 +103,15 @@ Has had medical issues due to allergies. Had to cancel some tournaments because 
 - Occasionally hang out with them outside of D&D to talk about computer stuff
 
 [[Chloe Hughes]]
-- 
+- Very good friends
+- Introduced her to D&D
+- Seeing her through her transition
 
 ### [[Taranis Fencing]]
 [[Julian Bullock]]
 - Knows them very well, and gets along fine with them but don't hang out much
 - Was offered drugs, but didn't accept. 
 - Slight grudge/rivalry, as Julian implied his allergies were made-up
-- There's sexual tension here. 
 
 [[Penelope Mayer]]
 - Knows about her due to being part of the association

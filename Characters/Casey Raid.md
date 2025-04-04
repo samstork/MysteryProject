@@ -1,21 +1,18 @@
 ---
 aliases: 
-gender: Female 
+gender: Female
 age: 56
 vitality: Alive
 profession: 
 touch: Karmic Justice
-
-associated-group: 
-- "[[Political council]]"
-- "[[Hiking Club]]"
-
+associated-group:
+  - "[[Political council]]"
+  - "[[Sunday Hikers]]"
 archetype: Librarian
 desire: Order
 fear: Wasps
 strength: 
-weakness:
-
+weakness: 
 tags: locketed
 icon: FasUserLarge
 ---
@@ -62,9 +59,11 @@ Examples:
 	- 
 ### Going hiking
 - Befriends [[Evelyn Felidora]], who comes to her cafe occasionally.
-- Invited to join the [[Hiking Club]] in 2016, where she meets a number of her now closest friends 
+- Invited to join the [[Sunday Hikers]] in 2016, where she meets a number of her now closest friends 
 	- [[Annabel Porter]]
+		- Huge Gossip
 	- [[Prof. Dean Gloucester]]
+	- [[Theodore Wilson]]
 ### Political Engagement
 - Soon starts doing volunteer work for the local administration
 	- Sees it as her downtime 
@@ -81,6 +80,7 @@ Examples:
 - While out in the town, in 2019, she caught [[Ramses Porter]] being creepy towards some students
 - After reprimanding him, a hot-dog fell from a balcony and ruined his suit. 
 - As he yelled up at the source that he would sue, she reprimanded him again, and a car drove through a puddle nearby, covering him in mud. 
+- Witnessed by [[Rebecca Quill]]
 ### Friendship with [[Gwen Bridget Clooney|Gwen]]
 - Despite their big age difference, [[Gwen Bridget Clooney|Gwen]] and her bond over doing the same crosswords
 - Doing crosswords together quickly becomes a habit, and [[Gwen Bridget Clooney|Gwen]] often hangs out at the [[The Coffee Nook]]
@@ -117,7 +117,7 @@ Examples:
 - Reprimands lucy for scaring her, [[Penelope Mayer|Lucy Martin]] drops the locket she was going to use to snatch her in the dark. 
 - Casey walks away. Doesn't think much of it. 
 ### Actually getting trapped
-- Has [[Hiking Club]]
+- Has [[Sunday Hikers]]
 	- [[Annabel Porter]] indirectly tries to get information about [[Dorothea Hawthorne]]. She asks about the book club and such. 
 - [[Penelope Mayer|Lucy Martin]] waits for her at home, after this time successfully trapping her. 
 
@@ -125,6 +125,11 @@ Examples:
 
 
 ## Relationships
+### [[Sunday Hikers]]
+[[Annabel Porter]]
+- Good friends
+- Big gossip 
+- Always trying to get information out of Casey.
 ### [[Book Club and Coven]]
 Uses the cafe they run, [[The Coffee Nook]], to host their meetings
 

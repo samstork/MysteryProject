@@ -32,7 +32,7 @@ A D&D campaign run by [[Ramona Jones]]
 - Dungeon Master
 
 [[Gwen Bridget Clooney]]
-- Plays a Human Fighter (Very Boring)
+- Plays a Human Fighter 
 - Invited by [[Ramona Jones]]
 
 [[Chloe Hughes]]
@@ -41,10 +41,14 @@ A D&D campaign run by [[Ramona Jones]]
 
 [[Anthony Stinger]]
 - Plays a Gnome Barbarian
+- invited by [[Ramona Jones]]
 
 [[Aloysius Matje]]
 - Plays a Red Tiefling Warlock
 	- Old ones
+
+[[Laurence Vincent Baker|Vince]]
+- Played an Elf Rogue named Galindel 
 - 
 
 

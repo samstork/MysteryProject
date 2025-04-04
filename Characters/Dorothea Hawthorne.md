@@ -47,7 +47,11 @@ icon: FasUserLarge
 
 ## Relationships
 [[Prof. Dean Gloucester]]
-- Friends
+- Friends, met a long time ago
 - Provides insider knowledge about university
+
+[[Evelyn Felidora]]
+- Friends
+
 
 ## Clues and Information

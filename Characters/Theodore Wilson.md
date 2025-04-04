@@ -7,7 +7,7 @@ profession: Coach
 touch: None
 associated-group:
   - "[[Taranis Fencing]]"
-  - "[[Hiking Club]]"
+  - "[[Sunday Hikers]]"
 archetype: 
 desire: 
 fear: 

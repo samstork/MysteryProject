@@ -41,7 +41,7 @@ icon: FasUserLarge
 A grungy guy, member of the [[Taranis Fencing]]. Really down on his luck, always needs money, and is selling drugs to kids at clubs. 
 
 ### Important Facts
-
+- Homosexual
 
 ## History
 
@@ -55,13 +55,24 @@ A grungy guy, member of the [[Taranis Fencing]]. Really down on his luck, always
 
 [[Courtney Wilson]]
 - Really good friend
+- Betrayed her by sleeping with [[Mickey Gold]]
+
+[[Mickey Gold]]
+- Knows him better than vice versa due to many texts from [[Courtney Wilson]]. 
+- Slept with him while Mick was still with Courtney. 
+	- Courtney never found out the specifics. 
 
 ### [[Crime Syndicate]]
 [[Laurence Vincent Baker]]
-- Client, sold them drugs 
+- Client, sold him drugs 
 
 [[Gwen Bridget Clooney]]
-- Client, used to sell them drugs (LSD)
+- Client, used to sell her drugs (LSD)
+
+[[Ramona Jones]]
+- Gives her drugs for free because she's the Boss' kid.
+- Doesn't like her very much
+- She doesn't treat him great. 
 
 [[Ramses Porter]]
 - Manager
@@ -72,8 +83,10 @@ A grungy guy, member of the [[Taranis Fencing]]. Really down on his luck, always
 
 ### [[Taranis Fencing]]
 [[Anthony Stinger]]
-- Get along very well
+- Get along well
 - Friendly rivalry
 - Tried to sell them drugs, but they don't do drugs.
+- Actually worried about their health, thinks it's something psychosomatic
+- Thinks they're cute. 
 
 ## Clues and Information

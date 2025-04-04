@@ -5,16 +5,15 @@ age:
 vitality: Alive
 profession: 
 touch: None
-
-associated-group: 
-
-archetype:
-desire:
-fear:
-strength:
-weakness:
-
-tags:
+associated-group:
+  - "[[University Group]]"
+  - "[[Sunday Hikers]]"
+archetype: Sagely Professor
+desire: 
+fear: 
+strength: 
+weakness: 
+tags: 
 icon: FasUserLarge
 ---
 

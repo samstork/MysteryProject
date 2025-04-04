@@ -4,87 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "2795df4207bf4e9d",
+        "id": "fd0d978c7c84522b",
         "type": "tabs",
         "children": [
           {
-            "id": "d172066e3e38b159",
+            "id": "5e05b16252436906",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ramona Jones.md",
+                "file": "Clues/Chloe - Lucy Texts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ramona Jones"
+              "title": "Chloe - Lucy Texts"
             }
           },
           {
-            "id": "a59b034119d889c3",
+            "id": "2d9cf1df5a9d497e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Rebecca Quill.md",
+                "file": "Full Plot and Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rebecca Quill"
+              "title": "Full Plot and Timeline"
             }
           },
           {
-            "id": "592ac5850377eb71",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "6983732d68ad9ac4",
+            "id": "828e042afc85ec8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other Notes/Local Faerie Area.md",
+                "file": "Characters/Penelope Mayer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Local Faerie Area"
+              "title": "Penelope Mayer"
             }
           },
           {
-            "id": "03837450f950f7fd",
+            "id": "719f735489e375c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ramona Jones.md",
+                "file": "Characters/Courtney Wilson.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ramona Jones"
-            }
-          },
-          {
-            "id": "a09a95964c0c0525",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Gary Potts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gary Potts"
+              "title": "Courtney Wilson"
             }
           }
         ],
@@ -309,34 +285,34 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "592ac5850377eb71",
+  "active": "828e042afc85ec8f",
   "lastOpenFiles": [
-    "Characters/Ramona Jones.md",
-    "Characters/Rebecca Quill.md",
-    "Characters/Penelope Mayer.md",
     "Full Plot and Timeline.md",
-    "Characters/Gary Potts.md",
-    "Clues/Cafe Reviews.md",
-    "Characters/Courtney Wilson.md",
-    "Characters/Casey Raid.md",
-    "Characters/Ramses Porter.md",
-    "Clues/Political Campaign Article.md",
-    "Other Notes/Pollock.md",
-    "Other Notes/Local Faerie Area.md",
-    "Characters/Mickey Gold.md",
-    "Characters/Anthony Stinger.md",
     "Characters/Chloe Hughes.md",
-    "Clues/Band Article.md",
+    "Characters/Penelope Mayer.md",
+    "Clues/Chloe - Lucy Texts.md",
+    "Clues/Julian - Mickey Texts.md",
+    "Clues/Master Clue List.md",
+    "Clues/Courtney - Julian Texts.md",
+    "Characters/Courtney Wilson.md",
+    "Clues/Ramona - Anthony Texts.md",
+    "Clues/Anthony - Chloe Texts.md",
+    "Characters/Casey Raid.md",
+    "Characters/Evelyn Felidora.md",
     "Characters/Annabel Porter.md",
-    "Primer.md",
-    "Other Notes/Faerie.md",
-    "Other Notes/Touch.md",
-    "Other Notes/The Coffee Nook.md",
-    "Characters/Laurence Vincent Baker.md",
-    "Characters/Gwen Bridget Clooney.md",
-    "Characters/Dorothea Hawthorne.md",
-    "Characters/Paul Aracelsus, PhD.md",
+    "Groups/Sunday Hikers.md",
+    "Characters/Anthony Stinger.md",
+    "Groups/D&D Party.md",
+    "Clues/Grimoire.md",
+    "Characters/Ramona Jones.md",
+    "Clues/Untitled.md",
+    "Characters/Gary Potts.md",
+    "Other Notes/Local Faerie Area.md",
+    "Characters/Julian Bullock.md",
+    "Characters/Heath M. Laffee.md",
+    "Characters/Aloysius Matje.md",
     "Characters/Prof. Dean Gloucester.md",
+    "Groups/Book Club and Coven.md",
     "Clues",
     "Other Notes",
     "z-Templates",

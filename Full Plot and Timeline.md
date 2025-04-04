@@ -12,12 +12,13 @@
 - [[Penelope Mayer]] starts doing research research. (September - October)
 	- Saw magic, need magic to fight it.
 	- Get revenge.
-### October
 - [[Chloe Hughes]] arrives in 1999 
 	- Came from October 2024 
+### October
 - [[Penelope Mayer]] finds out about magic
 	- Heard rumours [[Dorothea Hawthorne]] might know magic
 	- Stole [[Grimoire]] which contained a spell to contact an Archfey, [[Archfey]]. 
+- [[Chloe Hughes]] meets [[Penelope Mayer]], whom she knows the future version, [[Penelope Mayer|Lucy Martin]]. However, she does not recognise her. 
 - [[Penelope Mayer]] goes off-grid, afraid of [[Dorothea Hawthorne]]
 	- Relies on [[Lotte Rea Winter]], a good friend of theirs 
 	- Keeps them supplied

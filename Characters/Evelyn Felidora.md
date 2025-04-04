@@ -6,7 +6,9 @@ vitality: Alive
 profession: Retired
 touch: None
 
-associated-group: "[[Book Club and Coven]]"
+associated-group: 
+- "[[Book Club and Coven]]"
+- "[[Sunday Hikers]]"
 
 archetype: Cat Lady
 desire:

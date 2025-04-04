@@ -47,5 +47,8 @@ A member of [[Taranis Fencing]], who was put into a comatose state by their part
 ## History
 
 ## Relationships
+[[Dana Erickson]] 
+- Partner 
+- Wanted to be public about their relationship
 
 ## Clues and Information

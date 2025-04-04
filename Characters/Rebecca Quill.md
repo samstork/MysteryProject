@@ -88,7 +88,8 @@ They have a knack for finding other touched people, and keep unknowingly writing
 
 ## Relationships
 [[Penelope Mayer|Lucy Martin]]
-- Knows them personally, but doesn't know they're the trapper 
+- Knew them personally 
+- 
 
 
 ## Clues and Information

@@ -3,15 +3,15 @@ aliases: Chris Hughes
 gender: MtF Trans 
 age: 
 vitality: Alive
-profession: Student (Bachelor)
-touch: None
+profession: Student (Computer Science)
+touch: Single-use time travel
 
 associated-group: 
 - "[[D&D Party]]"
 - "[[University Group]]"
 
 archetype: Teacher's Pet
-desire: Recognition of her 
+desire: 
 fear:
 strength:
 weakness:
@@ -45,11 +45,11 @@ icon: FasUserLarge
 ### Important Facts
 - Likes videogames
 - Trans (MtF)
+	- On HRT
 	- Deadname: Christopher
+- Owns a cat, [[Miku]]
 
 ## History
-### Moving to Groningen
-- 
 ### Coming out as Trans
 
 
@@ -57,11 +57,20 @@ icon: FasUserLarge
 [[Julian Bullock]]
 - Roommates
 
+
 [[Paul Aracelsus, PhD]]
-- Taught/TAed Synthesis and Analysis
+- Taught a statistics course 
 - Vibed surprisingly well 
 - Mutual interest in videogames
-- Knew them under 
+
+### [[D&D Party]]
+[[Anthony Stinger]]
+- Best friend, met at Uni canteen
+	- literally bumped into each other
+	- Later met through [[Julian Bullock]] and had a deja-vu
+- Seeing her through her transition. 
+- Possibly romantic interest?
+
 
 ## Clues and Information
 - Trans flag pin

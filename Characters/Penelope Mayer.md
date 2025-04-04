@@ -110,7 +110,8 @@ icon: FasUserLarge
 - Knew them personally somehow, but not too well
 
 [[Chloe Hughes]]
-- Knew them well. 
+- Knows them well. 
+- Met them in the past. 
 
 
 ### [[Taranis Fencing]]
