@@ -38,27 +38,59 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-Has had medical issues due to allergies. Had to cancel some tournaments because of random allergic attacks. 
+Has had medical issues due to allergies. Had to cancel some tournaments because of random allergic attacks. His complications have lead him to be a bit paranoid about what he eats, including drugs and medicine.
 
 ### Important Facts
 - Doesn't take drugs
 
 ## History
+### Background
+- Despite health complications, has always been a very athletic, sporty kid. Enjoyed lots of sports, and eventually tried out fencing and loves it. 
+- Doctors have conflicting results
+	- Tests aren't perfect
+	- Statistical anomaly
+- Also enjoys video games, especially RPGs
+### Joining [[Taranis Fencing]]
+- Joined the association during bachelor. 
+- Took it very seriously 
 ### Semester abroad
 - Met [[Ramona Jones]] during semester in Spain.
+	- Talked about RPGs and mental health and such
 - Very different, but vibed nonetheless. 
-
+### Prank 
+- At some point, a dickhead from [[Taranis Fencing]] decided to "Prank" him by causing an allergic reaction 
+- The prank failed, and he didn't even notice. 
 ### Joined [[D&D Party]]
-- Invited by [[Ramona Jones]]
-- Plays gnome barbarian
-
+- Invited by [[Ramona Jones]] 
+- Plays gnome barbarian named "Gnorton"
+- Struggles with cat allergy due to [[Laurence Vincent Baker|Vince]]'s presence. 
+- When Vince leaves the campaign, his allergies magically disappear
+	- Starts to question wtf is going on (a bit late tbh)
+	- Takes notes of allergic attacks
 ### Representing [[Taranis Fencing]]
-- Represented sports association
+- Was meant to represent [[Taranis Fencing]] at national fencing meet
 - [[Sports Article]] published by [[Rebecca Quill]] about it
 - Had to cancel it due to medical emergency
+### Confiding in [[Ramona Jones]]
+- Something is off with his allergies 
+- At first she laughs it off
+- Comes around
+
 
 
 ## Relationships
+[[Penelope Mayer|Lucy Martin]]
+- Has met her several times due to how close she is with [[Ramona Jones]]
+- Doesn't recognise her as Penelope
+- Says she should join [[Taranis Fencing]]
+	- "She has the build for it"
+	- "That's rude"
+	- "It's true though. Small frame, long arms, she'd be great."
+
+[[Gwen Bridget Clooney|Gwen]]
+- Thinks she's really cool and intimidating 
+- Not in a romantic way though. 
+- Makes really good mocktails
 
 ### [[D&D Party]]
 [[Ramona Jones]]
@@ -70,29 +102,23 @@ Has had medical issues due to allergies. Had to cancel some tournaments because 
 - Get along pretty well
 - Occasionally hang out with them outside of D&D to talk about computer stuff
 
-[[Gwen Bridget]]
-- Likes them a lot
-- Asked them out on a date but was initially rejected
-- Eventually got the date, but couldn't go on it before they got locketed
-	- Thought they got stood-up. 
-
 [[Chloe Hughes]]
 - 
 
 ### [[Taranis Fencing]]
-[[Drug Dealer Sportie]]
+[[Julian Bullock]]
 - Knows them very well, and gets along fine with them but don't hang out much
 - Was offered drugs, but didn't accept. 
+- Slight grudge/rivalry, as Julian implied his allergies were made-up
+- There's sexual tension here. 
 
-[[Penelope]]
-- Knows about them due to being part of the association
+[[Penelope Mayer]]
+- Knows about her due to being part of the association
 	- Their disappearance is a bit of a legend. 
 
-[[Coach]]
+[[Theodore Wilson]]
 - Dislikes the coach. 
+- Plays favourites, only managed to get where he is by fighting hard and waiting for the coach's darlings to leave the association. 
 
 
 ## Clues and Information
-- Consistently has allergy issues when visiting [[Ramona Jones]] for D&D, but not otherwise.
-	- [[Laurence Vincent Baker]] did *not* have any issues with the cat allergy while they played
-	- When [[Laurence Vincent Baker]] left, cat allergy issues stopped as well

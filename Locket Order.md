@@ -1,7 +1,7 @@
 - [[Dana Erickson]]
 - [[Elliott Winter]]
 
-- [[Paul Aracelsus]] #Jana
+- [[Paul Aracelsus, PhD]] #Jana
 - [[Mickey Gold]] #Leon
 - [[Casey Raid]] #Alissa
 - [[Anthony Stinger]] #Sam 

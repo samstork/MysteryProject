@@ -45,7 +45,7 @@ Investor, and the owner of [[Pollock]], and a big player in [[Crime Syndicate]] 
 ## History
 
 ## Relationships
-[[Gwen Bridget]]
+[[Gwen Bridget Clooney]]
 - Employee
 - Decent job
 - Will not give them a raise, "Compensation is fair for their position"
@@ -62,7 +62,7 @@ Investor, and the owner of [[Pollock]], and a big player in [[Crime Syndicate]] 
 - Believes they're holding back [[Mickey Gold]]
 - Managed to drive wedge between them
 
-[[Session Drummer]]
+[[Courtney Wilson]]
 - Sees them as expendable
 - Possibly useful to control [[Mickey Gold]]
 

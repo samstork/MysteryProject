@@ -3,7 +3,7 @@ aliases:
 gender: 
 age: 
 vitality: Alive
-profession: Policeman
+profession: Inspector
 touch: None
 
 associated-group: 
@@ -47,6 +47,8 @@ icon: FasUserLarge
 ## History
 
 ## Relationships
-- [[Robert Jones]]
+[[Robert Jones]]
+- Deep in his pocket
+- Helped him obtain his current position as inspector
 
 ## Clues and Information

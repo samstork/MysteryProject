@@ -1,9 +1,9 @@
 ---
 aliases: 
-gender: 
+gender: Female
 age: 22
 vitality: Unknown
-profession: Student
+profession: Student, Musician
 touch: None
 associated-group:
   - "[[The Goodbyes]]"
@@ -58,14 +58,14 @@ Just a hobbyist musician, doesn't take it too seriously. Loves [[Mickey Gold]], 
 	- Secretive text messages
 	- Item forgotten by an ONS
 - Fight
-- Talked to [[Penelope]] at bar, and unthinkingly asked for [[Mickey Gold]] to disappear.
+- Talked to [[Penelope Mayer]] at bar, and unthinkingly asked for [[Mickey Gold]] to disappear.
 ### Searching for [[Mickey Gold]]
 - The last thing they said to each other was very hurtful
-	- Didn't hang out after gig, which is when [[Mickey Gold]] slept with [[Penelope]] and got locketed
+	- Didn't hang out after gig, which is when [[Mickey Gold]] slept with [[Penelope Mayer]] and got locketed
 
-### Fight with [[Penelope]]
-- Figured out [[Penelope]], slept with [[Mickey Gold]] from [[Drug Dealer Sportie]]
-- Set up a meeting to interrogate
+### Fight with [[Penelope Mayer|Lucy Martin]]
+- Figured out [[Penelope Mayer|Lucy Martin]], slept with [[Mickey Gold]] from [[Julian Bullock]]
+- Set up a meeting to interrogate her
 - Got thrown into [[Faerie]] instead
 
 ## Relationships
@@ -86,7 +86,7 @@ Just a hobbyist musician, doesn't take it too seriously. Loves [[Mickey Gold]], 
 - Holds grudge against them
 - A little envious of their apparent wealth
 
-[[Penelope]]
+[[Penelope Mayer]]
 - Acquaintance, do not know each other well, but have seen each other around. 
 
 ## Clues and Information

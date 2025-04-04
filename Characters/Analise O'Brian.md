@@ -39,7 +39,7 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-A member of [[Taranis Fencing]], who was put into a comatose state by their partner, [[Dana Erickson]], and later died. Kickstarted [[Penelope]]'s crusade. 
+A member of [[Taranis Fencing]], who was put into a comatose state by their partner, [[Dana Erickson]], and later died. Kickstarted [[Penelope Mayer]]'s crusade. 
 
 ### Important Facts
 

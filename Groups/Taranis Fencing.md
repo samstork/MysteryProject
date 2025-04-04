@@ -40,9 +40,9 @@ A small sports association focusing on SPORT.
 
 [[Dana Erickson]]
 
-[[Coach]]
+[[Theodore Wilson]]
 
-[[Drug Dealer Sportie]]
+[[Julian Bullock]]
 
 
 

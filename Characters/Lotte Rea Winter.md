@@ -43,7 +43,7 @@ icon: FasUserLarge
 ## History
 
 ## Relationships
-[[Penelope]]
+[[Penelope Mayer]]
 - Really good friends
 - Helped her during her time off-grid
 - Believes her stuff about magic and such

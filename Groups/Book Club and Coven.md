@@ -37,28 +37,28 @@ A book club that meets in [[The Coffee Nook]] run by [[Casey Raid]]. They discus
 ## History
 
 ### Founding
-- Founded in response to [[Paul Aracelsus]] discovering Alchemy semi-independently
-	- [[Dorothea Holly]] realised the veil between [[Faerie]] and Groningen is weakening
+- Founded in response to [[Paul Aracelsus, PhD]] discovering Alchemy semi-independently
+	- [[Dorothea Hawthorne]] realised the veil between [[Faerie]] and Groningen is weakening
 	- needs a coven to retain Faerie secrecy
 - a pure coven by 
-	- [[Dorothea Holly]]
+	- [[Dorothea Hawthorne]]
 	- [[Heath M. Laffee]]
-	- [[Paul Aracelsus]]
-- [[Dorothea Holly]] suggested book club as front, since she was getting into fantasy books lately
-	- [[Paul Aracelsus]] agreed only because it would help maintain secrecy
+	- [[Paul Aracelsus, PhD]]
+- [[Dorothea Hawthorne]] suggested book club as front, since she was getting into fantasy books lately
+	- [[Paul Aracelsus, PhD]] agreed only because it would help maintain secrecy
 
 ### Expansion
-- [[Evelyn Felidora]] brought in shortly after founding by [[Dorothea Holly]]
+- [[Evelyn Felidora]] brought in shortly after founding by [[Dorothea Hawthorne]]
 - [[Evelyn Felidora]] knows [[Casey Raid]], arranged for club to be hosted in private room at [[The Coffee Nook]]
-- [[Gwen Bridget]] joined because they hang out at the [[The Coffee Nook]]
+- [[Gwen Bridget Clooney]] joined because they hang out at the [[The Coffee Nook]]
 	- Quickly inducted into coven proper due to their stories of seeing faeries. 
 
-### [[Paul Aracelsus]] goes missing
+### [[Paul Aracelsus, PhD]] goes missing
 - Not noticed at first due to infrequent appearance
 - Eventually start looking for them
 - Scrying reveals nothing
 	- Theorise they're in [[Faerie]]
-- [[Dorothea Holly]], as most experienced, goes into [[Faerie]] to search for [[Paul Aracelsus]]
+- [[Dorothea Hawthorne]], as most experienced, goes into [[Faerie]] to search for [[Paul Aracelsus, PhD]]
 
 ## Members
 [[Heath M. Laffee]]
@@ -69,21 +69,21 @@ A book club that meets in [[The Coffee Nook]] run by [[Casey Raid]]. They discus
 - only here for the fantasy books
 - Unaware of the witchy stuff going on
 
-[[Dorothea Holly]]
+[[Dorothea Hawthorne]]
 - Looks much younger than they are because of magic
 
 [[Evelyn Felidora]]
-- Friend of [[Dorothea Holly]]
+- Friend of [[Dorothea Hawthorne]]
 - Not a witch
 
-[[Paul Aracelsus]]
+[[Paul Aracelsus, PhD]]
 - Chemistry PHD student
 - Serious
 - Creating philosopher's stone
 - Rarely actually present
 - Does not enjoy fantasy at all, thinks the book club thing is stupid
 
-[[Gwen Bridget]]
+[[Gwen Bridget Clooney]]
 - Just introduced to witchcraft 
 - Introduced [[Laurence Vincent Baker]] to book club
 

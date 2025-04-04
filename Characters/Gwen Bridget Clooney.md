@@ -60,7 +60,7 @@ The barkeep of [[Pollock]], DM of [[D&D Party]], and member of the [[Book Club a
 - Scared of them a little, avoids them
 - Looks for their approval
 
-[[Dorothea Holly]]
+[[Dorothea Hawthorne]]
 - Looks up to them as a mentor/older sibling
 - Pesters them for spells
 

@@ -41,7 +41,7 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-The leader of the [[Book Club and Coven]] and currently minor clerk in the city hall. They know a lot about what's going on locally in terms of magic, having a good relationship with [[Faerie]]. Chasing after [[Penelope]] for obvious reasons. 
+The leader of the [[Book Club and Coven]] and currently minor clerk in the city hall. They know a lot about what's going on locally in terms of magic, having a good relationship with [[Faerie]]. Chasing after [[Penelope Mayer]] for obvious reasons. 
 
 ## History
 ### Political Campaign
@@ -51,26 +51,26 @@ The leader of the [[Book Club and Coven]] and currently minor clerk in the city 
 
 ### Founding Coven
 - Started [[Book Club and Coven]] along with 
-	- [[Dorothea Holly]]
-	- [[Paul Aracelsus]]
-- Upon [[Paul Aracelsus]]'s suggestion, made it public to obfuscate relationship
+	- [[Dorothea Hawthorne]]
+	- [[Paul Aracelsus, PhD]]
+- Upon [[Paul Aracelsus, PhD]]'s suggestion, made it public to obfuscate relationship
 
-### Inducting [[Gwen Bridget]]
+### Inducting [[Gwen Bridget Clooney]]
 - Convinced their story about getting high was magical experience
-- Introduced [[Gwen Bridget]] to witch coven
+- Introduced [[Gwen Bridget Clooney]] to witch coven
 
-### Search for [[Penelope]]
+### Search for [[Penelope Mayer]]
 
 
 ## Relationships
-[[Gwen Bridget]]
+[[Gwen Bridget Clooney]]
 - Gets frustrated at their flamboyant and obvious witch-ness 
 	- Has led to confrontation and thus strained relationship
 - 
-[[Dorothea Holly]]
+[[Dorothea Hawthorne]]
 - Former mentor
 - Respects them
-[[Paul Aracelsus]]
+[[Paul Aracelsus, PhD]]
 - A bit awkward around each other, not much to talk about
 - Respects their commitment to secrecy
 [[Laurence Vincent Baker]]

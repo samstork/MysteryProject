@@ -19,7 +19,7 @@ icon: FasNewspaper
 [[Rebecca Quill]]
 ### [[The Goodbyes]]
 [[Mickey Gold]]
-[[Session Drummer]]
+[[Courtney Wilson]]
 [[Laurence Vincent Baker]]
 
 ## Information
@@ -34,13 +34,13 @@ icon: FasNewspaper
 - Word of mouth has it that they are THE event to go see. 
 - Saw them live at [[Pollock]] earlier this year. 
 	- Very impressed by live event
-- Only formed in 2021. [[Session Drummer]] only joined in 2022. 
+- Only formed in 2021. [[Courtney Wilson]] only joined in 2022. 
 - Interview 
-	- Preamble. [[Mickey Gold]] is excited to be there. [[Session Drummer]] seems a bit uncomfortable and doesn't talk much. [[Laurence Vincent Baker]] answers questions honestly and conversationally. 
+	- Preamble. [[Mickey Gold]] is excited to be there. [[Courtney Wilson]] seems a bit uncomfortable and doesn't talk much. [[Laurence Vincent Baker]] answers questions honestly and conversationally. 
 	- biggest influence, inspirations, what drew you to make music?
 		- [[Mickey Gold]]: Punk, glam rock, alternative, some tiny made-up band name 
 		- [[Laurence Vincent Baker]]: "We just make music we'd like to listen to ourselves."
-		- [[Session Drummer]], shyly: Nyango Star
+		- [[Courtney Wilson]], shyly: Nyango Star
 			- Journalist explains Nyango Star is a japanese apple/cat character known for playing heavy metal drums.
 	- Creative process?
 		- [[Laurence Vincent Baker]]: A lot of jam sessions. Get out our instruments, play, see what sticks. 
@@ -53,7 +53,7 @@ icon: FasNewspaper
 		- [[Mickey Gold]]: (laughs) not *yet*. 
 		- [[Laurence Vincent Baker]]: We're really just- (doing it for fun, gets broken off)
 		- [[Mickey Gold]]: Yeah, starting out. 
-		- [[Session Drummer]]: We talked about it
+		- [[Courtney Wilson]]: We talked about it
 	- Recent gig:
 		- [[Mickey Gold]]: Just did a valentine's day special at [[Pollock]]
 	- Where can people see you:

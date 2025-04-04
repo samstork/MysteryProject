@@ -1,20 +1,19 @@
 ---
 aliases: 
-gender: 
-age: 
+gender: Male
+age: 63
 vitality: Alive
-profession: 
+profession: Coach
 touch: None
-
-associated-group: 
-
-archetype:
-desire:
-fear:
-strength:
-weakness:
-
-tags:
+associated-group:
+  - "[[Taranis Fencing]]"
+  - "[[Hiking Club]]"
+archetype: 
+desire: 
+fear: 
+strength: 
+weakness: 
+tags: 
 icon: FasUserLarge
 ---
 
@@ -46,8 +45,7 @@ icon: FasUserLarge
 ## History
 
 ## Relationships
-[[Knowledgeable Professor]]
-- Friends
-- Provides insider knowledge about university
-
+[[Courtney Wilson]]
+- Daughter
+- Meet once a week for dinner
 ## Clues and Information

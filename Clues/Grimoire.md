@@ -14,18 +14,18 @@ icon: FasScroll
 > Type | `=this.type` |
 > Status | `=this.status` |
 ## Overview
-The grimoire of [[Dorothea Holly]], or at least some pages from it 
+The grimoire of [[Dorothea Hawthorne]], or at least some pages from it 
 ## Related Groups/Characters
 ### [[Book Club and Coven]]
-- [[Dorothea Holly]]
-- [[Penelope]]
+- [[Dorothea Hawthorne]]
+- [[Penelope Mayer]]
 
 ## Information
 - Requirements for spells
 - Explanation of touches
-- [[Penelope]] stole grimoire
+- [[Penelope Mayer]] stole grimoire
 - Cypher information
-- [[Penelope]] summoned [[Archfey]]
+- [[Penelope Mayer]] summoned [[Archfey]]
 
 ## Full Contents
 ### Outline
@@ -39,7 +39,7 @@ The grimoire of [[Dorothea Holly]], or at least some pages from it
 - Call subject of name to you
 - Make them do your bidding. 
 #### Spell for Summoning
-- Notes on cypher by [[Penelope]]
+- Notes on cypher by [[Penelope Mayer]]
 - Equipment, prep and procedure for summoning [[Archfey]]
 #### Full Cypher Guide (not with the rest)
 - Based on elder futhark, but adapted by generations of witches and thus changed. 

@@ -39,7 +39,7 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-Dad of [[Lotte Rea Winter]], second of [[Penelope]]'s victims. They were a clerk at the [[Political council]], being just slightly better than average in terms of luck. 
+Dad of [[Lotte Rea Winter]], second of [[Penelope Mayer]]'s victims. They were a clerk at the [[Political council]], being just slightly better than average in terms of luck. 
 
 ### Touch
 His touch, elastic fate, lets them enact lesser miracles and similar 

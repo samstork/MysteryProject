@@ -41,7 +41,7 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-A genius alchemist who is mostly solitary. Has connections with the [[Book Club and Coven]] but only joins the actual book club meetings when they have something magic related to discuss with [[Dorothea Holly]] or [[Heath M. Laffee]]. A bit serious to a fault. 
+A genius alchemist who is mostly solitary. Has connections with the [[Book Club and Coven]] but only joins the actual book club meetings when they have something magic related to discuss with [[Dorothea Hawthorne]] or [[Heath M. Laffee]]. A bit serious to a fault. 
 
 ### Touch
 Their touch gives them random, sudden flashes of inspiration. Unprecedented mental acuity and access to information they had no way of knowing. Has occurred in tests and exams, which they then usually ace. Thinks it's their fault they can't perform at 100% of inspiration flash. 
@@ -53,32 +53,32 @@ Their touch gives them random, sudden flashes of inspiration. Unprecedented ment
 ### Discovery of Alchemy
 - Got into alchemy as a joke during PHD programme
 - Made discoveries
-	- [[Dorothea Holly]] heard of it, leading to the founding of [[Book Club and Coven]]
+	- [[Dorothea Hawthorne]] heard of it, leading to the founding of [[Book Club and Coven]]
 
 ### Founding Coven
-- After being inducted into witchcraft, founded [[Book Club and Coven]] alongside [[Dorothea Holly]] and [[Heath M. Laffee]]. 
+- After being inducted into witchcraft, founded [[Book Club and Coven]] alongside [[Dorothea Hawthorne]] and [[Heath M. Laffee]]. 
 - Did not like the fantasy book idea, but accepted it due to other's seniority
-- Distant from [[Gwen Bridget]]
+- Distant from [[Gwen Bridget Clooney]]
 - Really doesn't like [[Laurence Vincent Baker]]
 
 ### PHD Ceremony
 - Small festivities
-- Invited [[Dorothea Holly]] and [[Heath M. Laffee]]
+- Invited [[Dorothea Hawthorne]] and [[Heath M. Laffee]]
 
 ### Moving out
-- Moved out of room with [[Drug Dealer Sportie]]
+- Moved out of room with [[Julian Bullock]]
 
 ### Getting Trapped
-- Met [[Penelope]] at university
+- Met [[Penelope Mayer]] at university
 	- They pretended they needed some help with a subject they're interested in 
 	- Worked with them on project
-	- [[Penelope]] was trying to find out more about alchemy
-- Had a flash, revealing [[Penelope]]'s intentions
+	- [[Penelope Mayer]] was trying to find out more about alchemy
+- Had a flash, revealing [[Penelope Mayer]]'s intentions
 	- Fought back, but was overpowered, getting locketed. 
 
 ## Relationships
 ### [[Book Club and Coven]]
-[[Dorothea Holly]]
+[[Dorothea Hawthorne]]
 - Respects them
 - Goes to them for advice
 
@@ -86,7 +86,7 @@ Their touch gives them random, sudden flashes of inspiration. Unprecedented ment
 - Begrudgingly accepts their better understanding of magic outside of Alchemy
 - Trusts them as leader of their coven
 
-[[Gwen Bridget]]
+[[Gwen Bridget Clooney]]
 - Sees them as a child, barely above notice
 - A bit bratty
 - Distant
@@ -95,12 +95,12 @@ Their touch gives them random, sudden flashes of inspiration. Unprecedented ment
 - Avoids them as much as possible
 
 ### [[University Group]]
-[[Knowledgeable Professor]]
+[[Prof. Dean Gloucester]]
 - PHD supervisor 
 - Frustrated at their lack of alchemical understanding
 	- Wishes they could tell them all about it
 
-[[Drug Dealer Sportie]]
+[[Julian Bullock]]
 - Former room-mate 
 - Did not get along well
 - Knew of their ties to [[Crime Syndicate]]
@@ -124,4 +124,4 @@ Their touch gives them random, sudden flashes of inspiration. Unprecedented ment
 - Research notes
 
 ### Hints at trapper
-- [[Book cypher]] trying to communicate [[Penelope]]'s identity. 
+- [[Book cypher]] trying to communicate [[Penelope Mayer]]'s identity. 

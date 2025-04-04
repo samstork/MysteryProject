@@ -47,14 +47,14 @@ icon: FasUserLarge
 
 ## Relationships
 ### [[Book Club and Coven]]
-[[Dorothea Holly]]
+[[Dorothea Hawthorne]]
 - Really good friends
 - Mostly just goes to book club to hang out with them
 
-[[Gwen Bridget]]
+[[Gwen Bridget Clooney]]
 - Wish she understood them better
 
-[[Paul Aracelsus]]
+[[Paul Aracelsus, PhD]]
 - Doesn't know them well at all
 
 [[Heath M. Laffee]]

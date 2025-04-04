@@ -2,7 +2,7 @@
 type:
 status:
 
-icon: FasMagnifyingGlass
+icon: FasNewspaper
 ---
 
 > [!infobox]

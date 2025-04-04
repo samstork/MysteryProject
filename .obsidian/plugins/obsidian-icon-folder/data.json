@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasNewspaper",
       "FasMagnifyingGlass",
       "FasGuitar",
       "FasUserGroup",
-      "FasUserLarge",
-      "FasScroll"
+      "FasUserLarge"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -837,9 +837,6 @@
   "Groups/Book Club and Coven.md": {
     "iconName": "FasBook"
   },
-  "Characters/Session Drummer.md": {
-    "iconName": "FasUserLarge"
-  },
   "Groups/Crime Syndicate.md": {
     "iconName": "RaFedora"
   },
@@ -849,9 +846,6 @@
   "Groups/Political council.md": {
     "iconName": "FasUserGroup"
   },
-  "Characters/Drug Dealer Sportie.md": {
-    "iconName": "FasUserLarge"
-  },
   "Clues/Band Article.md": {
     "iconName": "FasNewspaper"
   },
@@ -860,12 +854,6 @@
   },
   "Clues/Political Campaign Article.md": {
     "iconName": "FasNewspaper"
-  },
-  "Characters/Coach.md": {
-    "iconName": "FasUserLarge"
-  },
-  "Characters/Knowledgeable Professor.md": {
-    "iconName": "FasUserLarge"
   },
   "Characters/Aloysius Matje.md": {
     "iconName": "FasUserLarge"
@@ -897,17 +885,8 @@
   "Characters/Ramona Jones.md": {
     "iconName": "FasUserLarge"
   },
-  "Characters/Gwen Bridget.md": {
-    "iconName": "FasUserLarge"
-  },
   "Groups/The Goodbyes.md": {
     "iconName": "FasGuitar"
-  },
-  "Characters/Dorothea Holly.md": {
-    "iconName": "FasUserLarge"
-  },
-  "Characters/Paul Aracelsus.md": {
-    "iconName": "FasUserLarge"
   },
   "Characters/Analise O'Brian.md": {
     "iconName": "FasUserLarge"
@@ -927,9 +906,6 @@
   "Characters/Dana Erickson.md": {
     "iconName": "FasUserLarge"
   },
-  "Clues/Caffe Reviews.md": {
-    "iconName": "FasMagnifyingGlass"
-  },
   "Groups/Taranis Fencing.md": {
     "iconName": "FasUserGroup"
   },
@@ -939,7 +915,34 @@
   "Characters/Elliott Winter.md": {
     "iconName": "FasUserLarge"
   },
-  "Characters/Penelope.md": {
+  "Characters/Penelope Mayer.md": {
     "iconName": "FasUserLarge"
+  },
+  "Characters/Julian Bullock.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Theodore Wilson.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Courtney Wilson.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Prof. Dean Gloucester.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Paul Aracelsus, PhD.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Dorothea Hawthorne.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Gwen Bridget Clooney.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Annabel Porter.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Clues/Cafe Reviews.md": {
+    "iconName": "FasNewspaper"
   }
 }

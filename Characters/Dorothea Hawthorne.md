@@ -1,19 +1,20 @@
 ---
 aliases: 
-gender: Male
-age: 63
+gender: 
+age: 
 vitality: Alive
-profession: Coach
+profession: 
 touch: None
-associated-group:
-  - "[[Taranis Fencing]]"
-  - "[[Hiking Club]]"
-archetype: 
-desire: 
-fear: 
-strength: 
-weakness: 
-tags: 
+
+associated-group: 
+
+archetype:
+desire:
+fear:
+strength:
+weakness:
+
+tags:
 icon: FasUserLarge
 ---
 
@@ -45,5 +46,8 @@ icon: FasUserLarge
 ## History
 
 ## Relationships
+[[Prof. Dean Gloucester]]
+- Friends
+- Provides insider knowledge about university
 
 ## Clues and Information

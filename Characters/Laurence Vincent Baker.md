@@ -48,10 +48,10 @@ A really chill person who does a bit of everything. Has a passion for music, and
 ## History
 ### Starting [[The Goodbyes]]
 - Started [[The Goodbyes]] alongside [[Mickey Gold]] a few years ago
-- Introduced [[Session Drummer]] to [[The Goodbyes]] and [[Mickey Gold]]
+- Introduced [[Courtney Wilson]] to [[The Goodbyes]] and [[Mickey Gold]]
 
 ### Joining [[Book Club and Coven]]
-- Met [[Gwen Bridget]] at [[Pollock]]
+- Met [[Gwen Bridget Clooney]] at [[Pollock]]
 	- Hit it off due to similar vibes and interests
 - Was introduced to [[Book Club and Coven]] since they also like fantasy books
 
@@ -60,14 +60,14 @@ A really chill person who does a bit of everything. Has a passion for music, and
 - Old friend
 - Thinks they're misguided, but too frustrated with them to try to persuade them to stop
 - Regrets leaving the band after their disappearance
-[[Session Drummer]]
+[[Courtney Wilson]]
 - Good friend
 - Met through college
 - Disappointed with them for not taking sides
 [[Ramses Porter]]
 - Doesn't know them very well
 - Resents them for attempting to "limit their artistic freedom"
-[[Penelope]]
+[[Penelope Mayer]]
 - Met them at one of their gigs when they were trying to get to [[Mickey Gold]] for their touch
 
 ## Clues and Information

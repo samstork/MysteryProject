@@ -3,7 +3,7 @@ aliases:
 gender: 
 age: 
 vitality: Alive
-profession: Nepo Baby
+profession: Student (Film)
 touch: None
 
 associated-group: 
@@ -47,9 +47,12 @@ Bit of an emo/party girl vibe going.
 ## History
 
 ## Relationships
+- [[Penelope Mayer|Lucy Martin]]
+	- Friends
+	- Met at a birthday party where lucy had just snuck in
+	- Knows she doesn't like D&D
 
-
-[[Gwen Bridget]]
+[[Gwen Bridget Clooney]]
 - Friends. Met through [[D&D Party]].
 
 [[Robert Jones]]
@@ -57,15 +60,6 @@ Bit of an emo/party girl vibe going.
 - Distant relationship, 
 - Feels suffocated
 - Suspects they're hiding something
-
-### [['TV Show' Team]]
-[[Diva Lead Actor]]
-- Despised them
-- Never meet your heroes
-
-[[Pleasant Lead Actor]]
-- They were okay
-- Only had minor interactions
 
 
 ## Clues and Information

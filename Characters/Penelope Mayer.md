@@ -1,5 +1,5 @@
 ---
-aliases: Trapper, 
+aliases: Penny, Trapper, Lucy Martin 
 gender: 
 age: 26 (51)
 vitality: Alive
@@ -47,7 +47,7 @@ icon: FasUserLarge
 #### [[Analise O'Brian]]'s disappearance - September 1999
 - Witnessed how [[Analise O'Brian]] was (accidentally) killed by [[Dana Erickson]] at a party. 
 #### Stealing grimoire - October 1999
-- Stole [[Dorothea Holly]]'s [[grimoire]]
+- Stole [[Dorothea Hawthorne]]'s [[grimoire]]
 	- Contact [[Archfey]]
 	- Faerie Gate
 	- Scry
@@ -70,18 +70,18 @@ icon: FasUserLarge
 
 #### Second Locketing - February 2000
 - Trapped [[Elliott Winter]]
-- Did it messily, was found by [[Dorothea Holly]]
+- Did it messily, was found by [[Dorothea Hawthorne]]
 - Found out they can use locketed touches
 
-#### Confrontation with [[Dorothea Holly]] - March 2000
-- [[Dorothea Holly]] called on [[Archfey]]
-- Used power of [[Dana Erickson]] to take away [[Dorothea Holly]]'s memories of them
+#### Confrontation with [[Dorothea Hawthorne]] - March 2000
+- [[Dorothea Hawthorne]] called on [[Archfey]]
+- Used power of [[Dana Erickson]] to take away [[Dorothea Hawthorne]]'s memories of them
 - Thrown into faerie, called by [[Archfey]]
 	- Remains there for 21 years, time passes differently, doesn't age.
 
 ### Recently
 #### Leaving [[Faerie]] - June 2021
-- Escaped from [[Archfey]] due to [[Gwen Bridget]] somehow releasing them
+- Escaped from [[Archfey]] due to [[Gwen Bridget Clooney]] somehow releasing them
 - Returned from [[Faerie]] in the middle of the pandemic
 - Took that time to re-acquaint themselves with the 21 years they missed. 
 - Found job at 
@@ -91,7 +91,7 @@ icon: FasUserLarge
 
 
 ## Relationships
-[[Dorothea Holly]]
+[[Dorothea Hawthorne]]
 - Acquaintance 25 years ago 
 - Found out they're a witch through rumours spread by [[Dana Erickson]]
 - Stole one of their Grimoires
@@ -106,7 +106,7 @@ icon: FasUserLarge
 - Pretended to be a fan
 - One night stand
 
-[[Paul Aracelsus]]
+[[Paul Aracelsus, PhD]]
 - Knew them personally somehow, but not too well
 
 [[Chloe Hughes]]
@@ -121,7 +121,7 @@ icon: FasUserLarge
 - Rivals in both love and sport
 - Became highly antagonistic when witnessing their confrontation, leading to coma of [[Analise O'Brian]]
 
-[[Coach]]
+[[Theodore Wilson]]
 - Knew them in past, avoids them now
 	- Could be recognised by them
 

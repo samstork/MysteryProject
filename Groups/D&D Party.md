@@ -31,7 +31,7 @@ A D&D campaign run by [[Ramona Jones]]
 [[Ramona Jones]]
 - Dungeon Master
 
-[[Gwen Bridget]]
+[[Gwen Bridget Clooney]]
 - Plays a Human Fighter (Very Boring)
 - Invited by [[Ramona Jones]]
 

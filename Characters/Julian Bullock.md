@@ -46,21 +46,21 @@ A grungy guy, member of the [[Taranis Fencing]]. Really down on his luck, always
 ## History
 
 ## Relationships
-[[Paul Aracelsus]]
+[[Paul Aracelsus, PhD]]
 - Roommate, formerly
 - Did not get along well
 
 [[Chloe Hughes]]
 - New roommate
 
-[[Session Drummer]]
+[[Courtney Wilson]]
 - Really good friend
 
 ### [[Crime Syndicate]]
 [[Laurence Vincent Baker]]
 - Client, sold them drugs 
 
-[[Gwen Bridget]]
+[[Gwen Bridget Clooney]]
 - Client, used to sell them drugs (LSD)
 
 [[Ramses Porter]]

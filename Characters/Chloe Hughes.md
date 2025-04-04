@@ -54,10 +54,10 @@ icon: FasUserLarge
 
 
 ## Relationships
-[[Drug Dealer Sportie]]
+[[Julian Bullock]]
 - Roommates
 
-[[Paul Aracelsus]]
+[[Paul Aracelsus, PhD]]
 - Taught/TAed Synthesis and Analysis
 - Vibed surprisingly well 
 - Mutual interest in videogames
