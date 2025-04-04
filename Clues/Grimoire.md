@@ -14,18 +14,18 @@ icon: FasScroll
 > Type | `=this.type` |
 > Status | `=this.status` |
 ## Overview
-The grimoire of [[Old Witch]], or at least some pages from it 
+The grimoire of [[Dorothea Holly]], or at least some pages from it 
 ## Related Groups/Characters
 ### [[Book Club and Coven]]
-- [[Old Witch]]
-- [[Trapper]]
+- [[Dorothea Holly]]
+- [[Penelope]]
 
 ## Information
 - Requirements for spells
 - Explanation of touches
-- [[Trapper]] stole grimoire
+- [[Penelope]] stole grimoire
 - Cypher information
-- [[Trapper]] summoned [[Archfey]]
+- [[Penelope]] summoned [[Archfey]]
 
 ## Full Contents
 ### Outline
@@ -39,7 +39,7 @@ The grimoire of [[Old Witch]], or at least some pages from it
 - Call subject of name to you
 - Make them do your bidding. 
 #### Spell for Summoning
-- Notes on cypher by [[Trapper]]
+- Notes on cypher by [[Penelope]]
 - Equipment, prep and procedure for summoning [[Archfey]]
 #### Full Cypher Guide (not with the rest)
 - Based on elder futhark, but adapted by generations of witches and thus changed. 

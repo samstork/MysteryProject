@@ -59,7 +59,7 @@
 		- Similar power of wearers
 	- Know basic information until they're asked about it.
 	- Why?
-		- Why is the [[Trapper]] doing this
+		- Why is the [[Penelope]] doing this
 			- Everyone had a bit of magic or an encounter with magic
 			- 
 	- How?
@@ -76,7 +76,7 @@
 	- Who did it?
 		- Someone's been putting people in necklaces and no-one knows why
 		- Cult
-		- [[Trapper]] part of the Web
+		- [[Penelope]] part of the Web
 	- Not all necklaces available from the start
 	- Real life people were offered the deal. 
 - Faeries 

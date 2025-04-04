@@ -39,7 +39,7 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-Dad of [[Lotte Reiner]], second of [[Trapper]]'s victims. They were a clerk at the [[Political council]], being just slightly better than average in terms of luck. 
+Dad of [[Lotte Rea Winter]], second of [[Penelope]]'s victims. They were a clerk at the [[Political council]], being just slightly better than average in terms of luck. 
 
 ### Touch
 His touch, elastic fate, lets them enact lesser miracles and similar 
@@ -53,13 +53,13 @@ His touch, elastic fate, lets them enact lesser miracles and similar
 
 ## Relationships
 ### Family
-[[Lotte Reiner]]
+[[Lotte Rea Winter]]
 - Daughter. Good relationship, if a bit distant since she moved away to go to university. 
 	- Convinced he has a touch but doesn't tell him
 	- Tells him to buy a lottery ticket
 [[EE Wife]]
 - 
 ## Clues and Information
-- [[Lotte Reiner]] thinks their dad has a touch 
+- [[Lotte Rea Winter]] thinks their dad has a touch 
 	- Always wins at Yahtzee 
 	- 

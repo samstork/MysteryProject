@@ -1,17 +1,17 @@
 ---
-aliases: 
+aliases: Vince, Larry 
 gender: 
 age: 26
 vitality: Alive
 profession: Student
 touch: None
 associated-group:
-  - "[[Band]]"
+  - "[[The Goodbyes]]"
   - "[[Book Club and Coven]]"
 archetype: Chill Dude
 desire: 
 fear: 
-strength: Multifaceted
+strength: 
 weakness: 
 tags: 
 icon: FasUserLarge
@@ -38,7 +38,7 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-A really chill person who does a bit of everything. Has a passion for music, and was a member of [[Band]]. Also a member of the [[Book Club and Coven]], though not a witch themselves. 
+A really chill person who does a bit of everything. Has a passion for music, and was a member of [[The Goodbyes]]. Also a member of the [[Book Club and Coven]], though not a witch themselves. 
 
 ### Important Facts
 - Possibly Aro/Ace, at least Demi.
@@ -46,12 +46,12 @@ A really chill person who does a bit of everything. Has a passion for music, and
 - Allergic to Cats
 
 ## History
-### Starting [[Band]]
-- Started [[Band]] alongside [[Mickey Gold]] a few years ago
-- Introduced [[Session Drummer]] to [[Band]] and [[Mickey Gold]]
+### Starting [[The Goodbyes]]
+- Started [[The Goodbyes]] alongside [[Mickey Gold]] a few years ago
+- Introduced [[Session Drummer]] to [[The Goodbyes]] and [[Mickey Gold]]
 
 ### Joining [[Book Club and Coven]]
-- Met [[Gwen Bridget]] at [[Nightclub]]
+- Met [[Gwen Bridget]] at [[Pollock]]
 	- Hit it off due to similar vibes and interests
 - Was introduced to [[Book Club and Coven]] since they also like fantasy books
 
@@ -64,10 +64,10 @@ A really chill person who does a bit of everything. Has a passion for music, and
 - Good friend
 - Met through college
 - Disappointed with them for not taking sides
-[[Nightclub Owner]]
+[[Ramses Porter]]
 - Doesn't know them very well
 - Resents them for attempting to "limit their artistic freedom"
-[[Trapper]]
+[[Penelope]]
 - Met them at one of their gigs when they were trying to get to [[Mickey Gold]] for their touch
 
 ## Clues and Information

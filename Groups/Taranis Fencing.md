@@ -28,14 +28,17 @@ A small sports association focusing on SPORT.
 
 ## History
 ### Founding
-- Founded in 1989
-### Second Lustrum
-- 
+- Founded in 1979
+### 1999 Lustrum
+[[Analise O'Brian]] and [[Dana Erickson]] have been in a romantic relationship for a while. 
+- [[Analise O'Brian]] wants to go public with it, or at least tell her parents
+- She's serious about it
+- [[Dana Erickson]] is worried about her public image
 
 ## Members
-[[First Victim]]
+[[Analise O'Brian]]
 
-[[Dangerous Touched]]
+[[Dana Erickson]]
 
 [[Coach]]
 

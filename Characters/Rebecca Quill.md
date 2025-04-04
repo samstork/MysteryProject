@@ -52,13 +52,13 @@ They have a knack for finding other touched people, and keep unknowingly writing
 - Studied journalism 
 - Started working at a local English newspaper ([[Local News]]) soon after upon graduating in 20
 
-### Confrontation with [[Trapper]]
+### Confrontation with [[Penelope]]
 - While investigating the disappearance of [[Mickey Gold]] and [[Session Drummer]], found out about [[Touch|fae touches]]. 
-- Put together that [[Trapper]] is behind it, found out about the one-night-stand 
-- Confronted [[Trapper]], but got locketed instead
+- Put together that [[Penelope]] is behind it, found out about the one-night-stand 
+- Confronted [[Penelope]], but got locketed instead
 
 ## Relationships
-[[Trapper]]
+[[Penelope]]
 - Knows them personally, but doesn't know they're the trapper 
 
 
@@ -66,4 +66,4 @@ They have a knack for finding other touched people, and keep unknowingly writing
 [[Band Article]]
 [[Political Campaign Article]]
 - Article about [[Book Club and Coven]]
-- Article about [[Equivalent Exchange Touched]]
+- Article about [[Elliott Winter]]

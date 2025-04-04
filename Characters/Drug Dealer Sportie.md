@@ -5,18 +5,15 @@ age: 23
 vitality: Alive
 profession: Student, Drug Dealer
 touch: None
-
-associated-group: 
-- "[[Sports Association]]"
-- "[[Crime Syndicate]]"
-
-archetype:
-desire:
-fear:
-strength:
-weakness:
-
-tags:
+associated-group:
+  - "[[Taranis Fencing]]"
+  - "[[Crime Syndicate]]"
+archetype: 
+desire: 
+fear: 
+strength: 
+weakness: 
+tags: 
 icon: FasUserLarge
 ---
 
@@ -41,7 +38,7 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-A grungy guy, member of the [[Sports Association]]. Really down on his luck, always needs money, and is selling drugs to kids at clubs. 
+A grungy guy, member of the [[Taranis Fencing]]. Really down on his luck, always needs money, and is selling drugs to kids at clubs. 
 
 ### Important Facts
 
@@ -49,7 +46,7 @@ A grungy guy, member of the [[Sports Association]]. Really down on his luck, alw
 ## History
 
 ## Relationships
-[[Alchemist]]
+[[Paul Aracelsus]]
 - Roommate, formerly
 - Did not get along well
 
@@ -60,20 +57,20 @@ A grungy guy, member of the [[Sports Association]]. Really down on his luck, alw
 - Really good friend
 
 ### [[Crime Syndicate]]
-[[Laid-back bassist]]
+[[Laurence Vincent Baker]]
 - Client, sold them drugs 
 
 [[Gwen Bridget]]
 - Client, used to sell them drugs (LSD)
 
-[[Nightclub Owner]]
+[[Ramses Porter]]
 - Manager
 - Keeps involvement secret
 
 [[Robert Jones]]
 - The Boss
 
-### [[Sports Association]]
+### [[Taranis Fencing]]
 [[Anthony Stinger]]
 - Get along very well
 - Friendly rivalry

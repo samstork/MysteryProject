@@ -1,14 +1,14 @@
 ---
 aliases: 
-gender: Female
-age: 
+gender: 
+age: 72
 vitality: Alive
-profession: 
+profession: Retired
 touch: None
 
-associated-group: 
+associated-group: "[[Book Club and Coven]]"
 
-archetype:
+archetype: Cat Lady
 desire:
 fear:
 strength:
@@ -39,7 +39,6 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-A member of [[Sports Association]], who was put into a comatose state by their partner, [[Dangerous Touched]], and later died. Kickstarted [[Trapper]]'s crusade. 
 
 ### Important Facts
 
@@ -47,5 +46,21 @@ A member of [[Sports Association]], who was put into a comatose state by their p
 ## History
 
 ## Relationships
+### [[Book Club and Coven]]
+[[Dorothea Holly]]
+- Really good friends
+- Mostly just goes to book club to hang out with them
+
+[[Gwen Bridget]]
+- Wish she understood them better
+
+[[Paul Aracelsus]]
+- Doesn't know them well at all
+
+[[Heath M. Laffee]]
+- Get along pretty well
+
+[[Laurence Vincent Baker]]
+- Grandson vibes
 
 ## Clues and Information

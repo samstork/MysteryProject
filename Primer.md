@@ -7,7 +7,7 @@ During the party, Cass will be presented with a mystery to solve in a style simi
 The main points are as follows:
 - Faeries and other such fantastical creatures are real
 - Certain people have been touched by the fae, giving them minor magical powers (a "[[Touch]]"). Often they are not aware of what their boon is. 
-- A mysterious figure known as the [[Trapper]] (name WIP) has been going around and tricking these people into giving up their souls, which are kept in [[Lockets]]
+- A mysterious figure known as the [[Penelope]] (name WIP) has been going around and tricking these people into giving up their souls, which are kept in [[Lockets]]
 - Lockets are actual props some people have
 	- Someone wearing a [[Lockets|Locket]] does not know they are wearing it, or if they do, they don't think anything of it. 
 	- The person in the locket can take over the wearer's body upon prompting 
@@ -19,7 +19,7 @@ The main points are as follows:
 		- Their memory resets when they cease controlling a body
 		- Their episodic memory is a little broken up. They need to be reminded of things with phrases, at which point they'll remember things
 		- They do not recognise each other and can't recognise photos of themselves
-- [[Trapper]] was collecting these to give themselves more [[Touch|fae touches]]. 
+- [[Penelope]] was collecting these to give themselves more [[Touch|fae touches]]. 
 	- We still have to come up with a grand reason for why they want it. Just "I wanna be more powerful" is a bit boring
 	- Secret identity of someone else involved in the mystery 
 	- Maybe it's their unique power to trap people like that
@@ -35,8 +35,8 @@ The main points are as follows:
 	- Or characters belonging to multiple
 	- Also allows for drama within the group
 - We have some specific character ideas 
-	- **[[Trapper]]**
-		- Currently, [[Trapper]] is just going to be a lore character 
+	- **[[Penelope]]**
+		- Currently, [[Penelope]] is just going to be a lore character 
 		- They should be a regular character. The reveal that they're trapper would therefore be a big deal
 	- A character that travelled back in time (it was their power to go back in time once)
 	- A Journalist who writes about fae-touched people
@@ -46,7 +46,7 @@ The main points are as follows:
 The main gameplay will involve poring over clues, evidence, and dialogue with cast members, leading to deductions. 
 #### Goal
 The main goal of the game is to 
-- Find out what's happening, who the [[Trapper]] is, why they're doing it, etc. 
+- Find out what's happening, who the [[Penelope]] is, why they're doing it, etc. 
 	- Still need to workshop the specifics of this. Probably easier once we have some characters and a timeline.
 - Assign a name, picture, and [[Touch]] to each [[Lockets|locket]]
 

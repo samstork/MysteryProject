@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasMagnifyingGlass",
+      "FasGuitar",
       "FasUserGroup",
       "FasUserLarge",
-      "FasScroll",
-      "FasBook",
-      "FasNewspaper"
+      "FasScroll"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -828,23 +828,11 @@
   "z-Templates/Character Template.md": {
     "iconName": "FasUserLarge"
   },
-  "Characters/Nightclub Owner.md": {
-    "iconName": "FasUserLarge"
-  },
   "z-Templates/Group Template.md": {
     "iconName": "FasUserGroup"
   },
   "z-Templates/Clue Template.md": {
     "iconName": "FasMagnifyingGlass"
-  },
-  "Groups/Band.md": {
-    "iconName": "FasGuitar"
-  },
-  "Characters/Laid-back bassist.md": {
-    "iconName": "FasUserLarge"
-  },
-  "Characters/Book club leader.md": {
-    "iconName": "FasUserLarge"
   },
   "Groups/Book Club and Coven.md": {
     "iconName": "FasBook"
@@ -858,23 +846,8 @@
   "Groups/D&D Party.md": {
     "iconName": "FasDiceD20"
   },
-  "Characters/Alchemist.md": {
-    "iconName": "FasUserLarge"
-  },
   "Groups/Political council.md": {
     "iconName": "FasUserGroup"
-  },
-  "Characters/Old book lady.md": {
-    "iconName": "FasUserLarge"
-  },
-  "Groups/Sports Association.md": {
-    "iconName": "FasUserGroup"
-  },
-  "Characters/Trapper.md": {
-    "iconName": "FasUserLarge"
-  },
-  "Characters/Old Witch.md": {
-    "iconName": "FasUserLarge"
   },
   "Characters/Drug Dealer Sportie.md": {
     "iconName": "FasUserLarge"
@@ -882,22 +855,13 @@
   "Clues/Band Article.md": {
     "iconName": "FasNewspaper"
   },
-  "Characters/Equivalent Exchange Touched.md": {
-    "iconName": "FasUserLarge"
-  },
   "Clues/Grimoire.md": {
     "iconName": "FasScroll"
   },
   "Clues/Political Campaign Article.md": {
     "iconName": "FasNewspaper"
   },
-  "Characters/First Victim.md": {
-    "iconName": "FasUserLarge"
-  },
   "Characters/Coach.md": {
-    "iconName": "FasUserLarge"
-  },
-  "Characters/Dangerous Touched.md": {
     "iconName": "FasUserLarge"
   },
   "Characters/Knowledgeable Professor.md": {
@@ -933,10 +897,49 @@
   "Characters/Ramona Jones.md": {
     "iconName": "FasUserLarge"
   },
-  "Characters/Lotte Reiner.md": {
+  "Characters/Gwen Bridget.md": {
     "iconName": "FasUserLarge"
   },
-  "Characters/Gwen Bridget.md": {
+  "Groups/The Goodbyes.md": {
+    "iconName": "FasGuitar"
+  },
+  "Characters/Dorothea Holly.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Paul Aracelsus.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Analise O'Brian.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Heath M. Laffee.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Evelyn Felidora.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Laurence Vincent Baker.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Ramses Porter.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Dana Erickson.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Clues/Caffe Reviews.md": {
+    "iconName": "FasMagnifyingGlass"
+  },
+  "Groups/Taranis Fencing.md": {
+    "iconName": "FasUserGroup"
+  },
+  "Characters/Lotte Rea Winter.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Elliott Winter.md": {
+    "iconName": "FasUserLarge"
+  },
+  "Characters/Penelope.md": {
     "iconName": "FasUserLarge"
   }
 }

@@ -1,5 +1,5 @@
 ---
-aliases: Trapper
+aliases: Trapper, 
 gender: 
 age: 26 (51)
 vitality: Alive
@@ -44,14 +44,14 @@ icon: FasUserLarge
 
 ## History
 ### 25 Years ago
-#### [[First Victim]]'s disappearance - September 1999
-- Witnessed how [[First Victim]] was (accidentally) killed by [[Dangerous Touched]] at a party. 
+#### [[Analise O'Brian]]'s disappearance - September 1999
+- Witnessed how [[Analise O'Brian]] was (accidentally) killed by [[Dana Erickson]] at a party. 
 #### Stealing grimoire - October 1999
-- Stole [[Old Witch]]'s [[grimoire]]
+- Stole [[Dorothea Holly]]'s [[grimoire]]
 	- Contact [[Archfey]]
 	- Faerie Gate
 	- Scry
-- Goes on the run, with support of [[Lotte Reiner]]
+- Goes on the run, with support of [[Lotte Rea Winter]]
 
 #### Deal with [[Faerie]] - November 1999
 - Made deal with [[Archfey]] to obtain locketing power
@@ -59,23 +59,23 @@ icon: FasUserLarge
 	- Can be called back to [[Archfey]]'s court at any time
 
 #### December
-- Hears about death of [[Lotte Reiner]]
+- Hears about death of [[Lotte Rea Winter]]
 - Developed belief that [[Touch|touches]] are dangerous and need to be locked away. 
 
 #### First Locketing - January 2000
-- Trapped [[Dangerous Touched]]
+- Trapped [[Dana Erickson]]
 	- Met them in parking lot outside of [[Hospital]]
-	- Tried to get them to confess about their involvement in [[First Victim]]'s coma
-- Starts making preparations for locking [[Equivalent Exchange Touched]]
+	- Tried to get them to confess about their involvement in [[Analise O'Brian]]'s coma
+- Starts making preparations for locking [[Elliott Winter]]
 
 #### Second Locketing - February 2000
-- Trapped [[Equivalent Exchange Touched]]
-- Did it messily, was found by [[Old Witch]]
+- Trapped [[Elliott Winter]]
+- Did it messily, was found by [[Dorothea Holly]]
 - Found out they can use locketed touches
 
-#### Confrontation with [[Old Witch]] - March 2000
-- [[Old Witch]] called on [[Archfey]]
-- Used power of [[Dangerous Touched]] to take away [[Old Witch]]'s memories of them
+#### Confrontation with [[Dorothea Holly]] - March 2000
+- [[Dorothea Holly]] called on [[Archfey]]
+- Used power of [[Dana Erickson]] to take away [[Dorothea Holly]]'s memories of them
 - Thrown into faerie, called by [[Archfey]]
 	- Remains there for 21 years, time passes differently, doesn't age.
 
@@ -91,13 +91,13 @@ icon: FasUserLarge
 
 
 ## Relationships
-[[Old Witch]]
+[[Dorothea Holly]]
 - Acquaintance 25 years ago 
-- Found out they're a witch through rumours spread by [[Dangerous Touched]]
+- Found out they're a witch through rumours spread by [[Dana Erickson]]
 - Stole one of their Grimoires
 
 [[Casey Raid]]
-- Became a regular of [[Book Cafe]] before locketing her 
+- Became a regular of [[The Coffee Nook]] before locketing her 
 
 [[Rebecca Quill]]
 - Met through some class they took together 
@@ -106,20 +106,20 @@ icon: FasUserLarge
 - Pretended to be a fan
 - One night stand
 
-[[Alchemist]]
+[[Paul Aracelsus]]
 - Knew them personally somehow, but not too well
 
 [[Chloe Hughes]]
 - Knew them well. 
 
 
-### [[Sports Association]]
-[[First Victim]]
+### [[Taranis Fencing]]
+[[Analise O'Brian]]
 - Friendly acquaintances, though had a slight crush on them
 
-[[Dangerous Touched]]
+[[Dana Erickson]]
 - Rivals in both love and sport
-- Became highly antagonistic when witnessing their confrontation, leading to coma of [[First Victim]]
+- Became highly antagonistic when witnessing their confrontation, leading to coma of [[Analise O'Brian]]
 
 [[Coach]]
 - Knew them in past, avoids them now

@@ -1,12 +1,12 @@
 ---
 aliases: 
-gender: 
+gender: Female
 age: 
 vitality: Alive
 profession: 
 touch: None
 
-associated-group: "[[Sports Association]]"
+associated-group: 
 
 archetype:
 desire:
@@ -39,6 +39,7 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
+A member of [[Taranis Fencing]], who was put into a comatose state by their partner, [[Dana Erickson]], and later died. Kickstarted [[Penelope]]'s crusade. 
 
 ### Important Facts
 
@@ -46,14 +47,5 @@ icon: FasUserLarge
 ## History
 
 ## Relationships
-[[Trapper]]
-- Really good friends
-- Helped her during her time off-grid
-- Believes her stuff about magic and such
-
-[[Equivalent Exchange Touched]]
-- Dad
-- Decent relationship, bit distant since moving away
-- Visits frequently
 
 ## Clues and Information

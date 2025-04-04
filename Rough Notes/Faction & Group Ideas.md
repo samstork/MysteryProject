@@ -6,7 +6,7 @@
 - Cast/crew of a [[TV Show]] 
 	- Filming in groningen
 	- one of them was locketed while here
-	- Could use music by [[Band]]
+	- Could use music by [[The Goodbyes]]
 	- Hits cass' actor brain vibes
 	- Can #Alissa and #Rachelle work on this? You guys know actor stuff very well, you can probably come up with better than I. 
 
@@ -18,7 +18,7 @@
 	- Some of them know about the secret other world
 	- Ties to a shady nightclub
 
-- [[Band]]
+- [[The Goodbyes]]
 	- Allows for fleetwood mac type drama
 	- One member was ambitious, one wasnt
 	- third member in relationship with others 

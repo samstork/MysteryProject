@@ -1,7 +1,7 @@
-- [[Dangerous Touched]]
-- [[Equivalent Exchange Touched]]
+- [[Dana Erickson]]
+- [[Elliott Winter]]
 
-- [[Alchemist]] #Jana
+- [[Paul Aracelsus]] #Jana
 - [[Mickey Gold]] #Leon
 - [[Casey Raid]] #Alissa
 - [[Anthony Stinger]] #Sam 

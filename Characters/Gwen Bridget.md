@@ -41,7 +41,7 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-The barkeep of [[Nightclub]], DM of [[D&D Party]], and member of the [[Book Club and Coven]] who only recently became a witch. Bit of a Cottage-Goth vibe going on. Has a fair amount of natural talent
+The barkeep of [[Pollock]], DM of [[D&D Party]], and member of the [[Book Club and Coven]] who only recently became a witch. Bit of a Cottage-Goth vibe going on. Has a fair amount of natural talent
 
 ### Important Facts
 - Dislikes her middle name. 
@@ -56,17 +56,17 @@ The barkeep of [[Nightclub]], DM of [[D&D Party]], and member of the [[Book Club
 
 ## Relationships
 ### [[Book Club and Coven]]
-[[Book club leader]]
+[[Heath M. Laffee]]
 - Scared of them a little, avoids them
 - Looks for their approval
 
-[[Old Witch]]
+[[Dorothea Holly]]
 - Looks up to them as a mentor/older sibling
 - Pesters them for spells
 
-[[Laid-back bassist]]
-- Friends, met at [[Nightclub]]
-	- Possibly romantically interested, but unlikely anything will come of it due to [[Laid-back bassist]]'s orientation (or lack thereof).
+[[Laurence Vincent Baker]]
+- Friends, met at [[Pollock]]
+	- Possibly romantically interested, but unlikely anything will come of it due to [[Laurence Vincent Baker]]'s orientation (or lack thereof).
 - Invited them to [[Book Club and Coven]]
 - Also invited them to [[D&D Party]], but they didn't join
 
@@ -74,10 +74,10 @@ The barkeep of [[Nightclub]], DM of [[D&D Party]], and member of the [[Book Club
 [[Ramona Jones]]
 - Player in D&D campaign
 - Doesn't know them super well
-- Surprised to learn [[Nightclub Owner]] is their aunt/uncle
+- Surprised to learn [[Ramses Porter]] is their aunt/uncle
 
 ### Other
-[[Nightclub Owner]]
+[[Ramses Porter]]
 - Employer
 - Working relationship
 - Wants raise from them

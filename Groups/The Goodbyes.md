@@ -32,40 +32,40 @@ An up-and coming band which was a local and social media phenomenon. Unfortunate
 - Hanging out
 ## History
 ### Beginnings
-- Formed by [[Mickey Gold]] and [[Laid-back bassist]] as a duo. 
+- Formed by [[Mickey Gold]] and [[Laurence Vincent Baker]] as a duo. 
 	- [[Mickey Gold]] 
 		- classically trained musician
 		- [[Touch]] allows them to charm people through music
 		- Guitarist and lead vocalist
-	- [[Laid-back bassist]] 
+	- [[Laurence Vincent Baker]] 
 		- natural talent
 		- Plays the bass
 		- Writes more of the songs
 - Brought in [[Session Drummer]] 
-	- Old friend of [[Laid-back bassist]]
-- Do gigs at [[Nightclub]]
+	- Old friend of [[Laurence Vincent Baker]]
+- Do gigs at [[Pollock]]
 - [[Session Drummer]] and [[Mickey Gold]] get involved  
 
 ### The Offer
-- Get offer from [[Nightclub Owner]] to sell out and possibly "make it big" in the music world, but with supervision over what they make
-- [[Mickey Gold]] wants to take it, [[Laid-back bassist]] does not. 
+- Get offer from [[Ramses Porter]] to sell out and possibly "make it big" in the music world, but with supervision over what they make
+- [[Mickey Gold]] wants to take it, [[Laurence Vincent Baker]] does not. 
 - [[Session Drummer]] is the deciding vote, but doesn't want to decide
-	- [[Laid-back bassist]] implies they would be swayed by their relationship anyway.
-- [[Laid-back bassist]] says they'll leave the band if they take the deal
+	- [[Laurence Vincent Baker]] implies they would be swayed by their relationship anyway.
+- [[Laurence Vincent Baker]] says they'll leave the band if they take the deal
 - [[Mickey Gold]] takes deal behind back
-	- [[Laid-back bassist|Laid-back bassist]] leaves band
+	- [[Laurence Vincent Baker|Laurence Vincent Baker]] leaves band
 
 ### The Fall
 - [[Mickey Gold]] and [[Session Drummer]] try solo act
 - Couples issues, [[Session Drummer]] suspects [[Mickey Gold]] of cheating (true)
-- [[Mickey Gold]] gets locketed by [[Trapper]], whom they had a one-night stand with.
+- [[Mickey Gold]] gets locketed by [[Penelope]], whom they had a one-night stand with.
 
 ## Members
 [[Mickey Gold]]
 - Wants to "rise up" in the music world
-- Good friends with [[Laid-back bassist]]
+- Good friends with [[Laurence Vincent Baker]]
 - Partner of [[Session Drummer]]
-[[Laid-back bassist]]
+[[Laurence Vincent Baker]]
 - Doing this out of love for music, doesn't care about success
 - Friends with [[Mickey Gold]] and [[Session Drummer]]
 [[Session Drummer]]
@@ -73,12 +73,12 @@ An up-and coming band which was a local and social media phenomenon. Unfortunate
 - Was brought in by the other two after they've already picked up traction. 
 
 ## Internal Politics
-- [[Mickey Gold]] and [[Laid-back bassist]] disagree about "selling out". Vote swings in favour of selling out due to [[Session Drummer]]. 
-- [[Laid-back bassist]] fights with the other two members, saying they'll leave the band if contract is signed
+- [[Mickey Gold]] and [[Laurence Vincent Baker]] disagree about "selling out". Vote swings in favour of selling out due to [[Session Drummer]]. 
+- [[Laurence Vincent Baker]] fights with the other two members, saying they'll leave the band if contract is signed
 - [[Mickey Gold]] 
 - [[Session Drummer]] suspects [[Mickey Gold]] of cheating on them (true)
 
 ## External Politics
-- Deal suggested with [[Nightclub Owner]] and [[Crime Syndicate]], financing their "rise" to fame
+- Deal suggested with [[Ramses Porter]] and [[Crime Syndicate]], financing their "rise" to fame
 
 ## Clues and Information

@@ -1,9 +1,9 @@
 ---
-aliases: 
+aliases: Michael Porter, Rammy
 gender: 
 age: 47
 vitality: Alive
-profession: Nightclub Ownder
+profession: Nightclub Owner
 touch: None
 
 associated-group: 
@@ -40,7 +40,7 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-Investor, and the owner of [[Nightclub]], and a big player in [[Crime Syndicate]] as sibling of [[Robert Jones]]. Wants money, knows of [[Mickey Gold]]'s Touch and wants to use it (unconvinced it's supernatural). 
+Investor, and the owner of [[Pollock]], and a big player in [[Crime Syndicate]] as sibling of [[Robert Jones]]. Wants money, knows of [[Mickey Gold]]'s Touch and wants to use it (unconvinced it's supernatural). 
 
 ## History
 
@@ -50,7 +50,7 @@ Investor, and the owner of [[Nightclub]], and a big player in [[Crime Syndicate]
 - Decent job
 - Will not give them a raise, "Compensation is fair for their position"
 
-### [[Band]]
+### [[The Goodbyes]]
 [[Mickey Gold]]
 - Has high hopes they will be useful
 - Does not see them as more than a tool
@@ -58,13 +58,20 @@ Investor, and the owner of [[Nightclub]], and a big player in [[Crime Syndicate]
 - Angry at their disappearance 
 	- Thinks they neglected contract duties
 
-[[Laid-back bassist]]
+[[Laurence Vincent Baker]]
 - Believes they're holding back [[Mickey Gold]]
 - Managed to drive wedge between them
 
 [[Session Drummer]]
 - Sees them as expendable
 - Possibly useful to control [[Mickey Gold]]
+
+### [[Crime Syndicate]]
+[[Robert Jones]]
+- Older Half-brother
+
+[[Annabel Porter]]
+- Mother
 
 ## Clues and Information
 
@@ -73,7 +80,7 @@ Investor, and the owner of [[Nightclub]], and a big player in [[Crime Syndicate]
 - Loves money
 - More an investor than an artist
 
-- Owner of [[Nightclub]]
+- Owner of [[Pollock]]
 - Ties with [[Crime Syndicate]]
-- Has working relationship with [[Band]]
+- Has working relationship with [[The Goodbyes]]
 	- Offered them a deal, which caused their full break-up

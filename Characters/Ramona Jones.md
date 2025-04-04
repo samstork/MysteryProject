@@ -39,7 +39,7 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-Child of the [[Robert Jones]], but doesn't know about their criminal activity. Otherwise just lives a pretty normal student life. Gets special treatment at [[Nightclub]] due to family relation.
+Child of the [[Robert Jones]], but doesn't know about their criminal activity. Otherwise just lives a pretty normal student life. Gets special treatment at [[Pollock]] due to family relation.
 Bit of an emo/party girl vibe going. 
 
 ### Important Facts

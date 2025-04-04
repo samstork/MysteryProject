@@ -24,7 +24,7 @@ icon: FasBook
 > TABLE age, gender WHERE contains(associated-group, [[]]) 
 >```
 ## Overview
-A book club that meets in [[Book Cafe]] run by [[Casey Raid]]. They discuss fantasy books. Most members are also part of a witch coven who know about the supernatural and faeries. Meet once a month. 
+A book club that meets in [[The Coffee Nook]] run by [[Casey Raid]]. They discuss fantasy books. Most members are also part of a witch coven who know about the supernatural and faeries. Meet once a month. 
 
 ### Activities
 - Discussing fantasy books
@@ -37,46 +37,46 @@ A book club that meets in [[Book Cafe]] run by [[Casey Raid]]. They discuss fant
 ## History
 
 ### Founding
-- Founded in response to [[Alchemist]] discovering Alchemy semi-independently
-	- [[Old Witch]] realised the veil between [[Faerie]] and Groningen is weakening
+- Founded in response to [[Paul Aracelsus]] discovering Alchemy semi-independently
+	- [[Dorothea Holly]] realised the veil between [[Faerie]] and Groningen is weakening
 	- needs a coven to retain Faerie secrecy
 - a pure coven by 
-	- [[Old Witch]]
-	- [[Book club leader]]
-	- [[Alchemist]]
-- [[Old Witch]] suggested book club as front, since she was getting into fantasy books lately
-	- [[Alchemist]] agreed only because it would help maintain secrecy
+	- [[Dorothea Holly]]
+	- [[Heath M. Laffee]]
+	- [[Paul Aracelsus]]
+- [[Dorothea Holly]] suggested book club as front, since she was getting into fantasy books lately
+	- [[Paul Aracelsus]] agreed only because it would help maintain secrecy
 
 ### Expansion
-- [[Old book lady]] brought in shortly after founding by [[Old Witch]]
-- [[Old book lady]] knows [[Casey Raid]], arranged for club to be hosted in private room at [[Book Cafe]]
-- [[Gwen Bridget]] joined because they hang out at the [[Book Cafe]]
+- [[Evelyn Felidora]] brought in shortly after founding by [[Dorothea Holly]]
+- [[Evelyn Felidora]] knows [[Casey Raid]], arranged for club to be hosted in private room at [[The Coffee Nook]]
+- [[Gwen Bridget]] joined because they hang out at the [[The Coffee Nook]]
 	- Quickly inducted into coven proper due to their stories of seeing faeries. 
 
-### [[Alchemist]] goes missing
+### [[Paul Aracelsus]] goes missing
 - Not noticed at first due to infrequent appearance
 - Eventually start looking for them
 - Scrying reveals nothing
 	- Theorise they're in [[Faerie]]
-- [[Old Witch]], as most experienced, goes into [[Faerie]] to search for [[Alchemist]]
+- [[Dorothea Holly]], as most experienced, goes into [[Faerie]] to search for [[Paul Aracelsus]]
 
 ## Members
-[[Book club leader]]
+[[Heath M. Laffee]]
 - Former politician in the [[Political council]], now the priest(ess) of the coven
 - Worked to save [[Local Faerie Area]] from being built over as it has ties to [[Faerie]]
 
-[[Laid-back bassist]]
+[[Laurence Vincent Baker]]
 - only here for the fantasy books
 - Unaware of the witchy stuff going on
 
-[[Old Witch]]
+[[Dorothea Holly]]
 - Looks much younger than they are because of magic
 
-[[Old book lady]]
-- Friend of [[Old Witch]]
+[[Evelyn Felidora]]
+- Friend of [[Dorothea Holly]]
 - Not a witch
 
-[[Alchemist]]
+[[Paul Aracelsus]]
 - Chemistry PHD student
 - Serious
 - Creating philosopher's stone
@@ -85,7 +85,7 @@ A book club that meets in [[Book Cafe]] run by [[Casey Raid]]. They discuss fant
 
 [[Gwen Bridget]]
 - Just introduced to witchcraft 
-- Introduced [[Laid-back bassist]] to book club
+- Introduced [[Laurence Vincent Baker]] to book club
 
 
 ## Internal Politics

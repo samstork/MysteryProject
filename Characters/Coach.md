@@ -1,20 +1,19 @@
 ---
 aliases: 
 gender: Male
-age: 
+age: 63
 vitality: Alive
-profession: 
+profession: Coach
 touch: None
-
-associated-group: 
-
-archetype:
-desire:
-fear:
-strength:
-weakness:
-
-tags:
+associated-group:
+  - "[[Taranis Fencing]]"
+  - "[[Hiking Club]]"
+archetype: 
+desire: 
+fear: 
+strength: 
+weakness: 
+tags: 
 icon: FasUserLarge
 ---
 

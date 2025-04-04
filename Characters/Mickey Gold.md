@@ -1,21 +1,18 @@
 ---
-aliases: Phil Chesterfield
+aliases: Phil Chesterfield, Mick
 gender: Male
 age: 24
 vitality: Locketed
 profession: Musician
 touch: Musical Charm
-
-associated-group: 
-- "[[Band]]"
-- "[[University Group]]"
-
+associated-group:
+  - "[[The Goodbyes]]"
+  - "[[University Group]]"
 archetype: Ambitious Promiscuous Musician
 desire: Recognition
 fear: Mediocrity
 strength: 
 weakness: Secretly insecure
-
 tags: locketed
 icon: FasUserLarge
 ---
@@ -41,13 +38,13 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-A young musician who wants to "make it big". Along with [[Laid-back bassist]] they started [[Band]], and got involved with [[Session Drummer]]. 
+A young musician who wants to "make it big". Along with [[Laurence Vincent Baker]] they started [[The Goodbyes]], and got involved with [[Session Drummer]]. 
 
 ### Touch 
 Allows them to move/charm people through their music, though it only works live. Additionally, they aren't a great songwriter, so it rarely works with things they made themselves.
 
 ### Important Facts
-- Plays guitar and sings in [[Band]]
+- Plays guitar and sings in [[The Goodbyes]]
 - Traditionally trained
 - Disowned from family
 
@@ -56,7 +53,7 @@ Allows them to move/charm people through their music, though it only works live.
 - Entered university
 - Decided to break it off during covid
 	- Lost contact with parents, who basically disowned them
-- Started [[Band]] with [[Laid-back bassist]]
+- Started [[The Goodbyes]] with [[Laurence Vincent Baker]]
 - Met [[Session Drummer]] through 
 
 ## Relationships
@@ -64,10 +61,10 @@ Parents
 - Distant, disowned
 - Wants to prove them wrong
 
-### [[Band]]
-[[Laid-back bassist]]
+### [[The Goodbyes]]
+[[Laurence Vincent Baker]]
 - Old friend from high school. 
-- Both love music, but `=this.file.name` needs external validation, while [[Laid-back bassist]] does not. 
+- Both love music, but `=this.file.name` needs external validation, while [[Laurence Vincent Baker]] does not. 
 - Thinks they don't take things seriously enough. 
 - Respects their talent for song writing and musical skills, a little envious thereof. 
 - Disagree about selling out. 
@@ -78,7 +75,7 @@ Parents
 - Walks over them to some degree
 - Cheats on them occasionally
 
-[[Trapper]]
+[[Penelope]]
 - Had a one-night stand with them at a gig and got trapped
 
 [[Gwen Bridget]]
@@ -89,7 +86,7 @@ Parents
 	- Very confused
 
 ### [[University Group]]
-[[Alchemist]]
+[[Paul Aracelsus]]
 - Knew each other in university
 - TA
 

@@ -1,7 +1,5 @@
 *Add any ideas for minor magic powers you have here*
 - Resistance to fire
-- Surprisingly good luck
-- Single use time travel
 - Short-range teleportation but only when you're asleep
 - No need to breathe to survive, but not breathing is painful
 - Communicate with trees, but everyone thinks you're crazy

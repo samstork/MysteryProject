@@ -21,12 +21,12 @@ An article covering [[preservation campaign]] of the [[Local Faerie Area]] near 
 [[Rebecca Quill]]
 ### [[Political council]]
 - [[Robert Jones]]
-- [[Book club leader]]
+- [[Heath M. Laffee]]
 - [[Casey Raid]]
 
 ## Information
 - [[Robert Jones]] tried to build something there 
-- [[Book club leader]] blocked it
+- [[Heath M. Laffee]] blocked it
 - Both seem to have vested interest in an otherwise unimportant bit of land. 
 	- There's a [[thinning]] there 
 - The land is still unbuilt upon. 

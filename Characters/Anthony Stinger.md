@@ -4,18 +4,15 @@ gender:
 age: 25
 vitality: locketed
 profession: Master's Student (Comp-Sci)
-touch: Allergy Absorbtion 
-
-associated-group: 
-- "[[Sports Association]]"
-- "[[D&D Party]]"
-
+touch: Allergy Absorbtion
+associated-group:
+  - "[[Taranis Fencing]]"
+  - "[[D&D Party]]"
 archetype: Jock but also Nerd
 desire: Personal Perfection
 fear: Disappointing friends
 strength: Min-Maxer
 weakness: Min-Maxer
-
 tags: locketed
 icon: FasUserLarge
 ---
@@ -55,7 +52,7 @@ Has had medical issues due to allergies. Had to cancel some tournaments because 
 - Invited by [[Ramona Jones]]
 - Plays gnome barbarian
 
-### Representing [[Sports Association]]
+### Representing [[Taranis Fencing]]
 - Represented sports association
 - [[Sports Article]] published by [[Rebecca Quill]] about it
 - Had to cancel it due to medical emergency
@@ -82,12 +79,12 @@ Has had medical issues due to allergies. Had to cancel some tournaments because 
 [[Chloe Hughes]]
 - 
 
-### [[Sports Association]]
+### [[Taranis Fencing]]
 [[Drug Dealer Sportie]]
 - Knows them very well, and gets along fine with them but don't hang out much
 - Was offered drugs, but didn't accept. 
 
-[[Trapper]]
+[[Penelope]]
 - Knows about them due to being part of the association
 	- Their disappearance is a bit of a legend. 
 
@@ -97,5 +94,5 @@ Has had medical issues due to allergies. Had to cancel some tournaments because 
 
 ## Clues and Information
 - Consistently has allergy issues when visiting [[Ramona Jones]] for D&D, but not otherwise.
-	- [[Laid-back bassist]] did *not* have any issues with the cat allergy while they played
-	- When [[Laid-back bassist]] left, cat allergy issues stopped as well
+	- [[Laurence Vincent Baker]] did *not* have any issues with the cat allergy while they played
+	- When [[Laurence Vincent Baker]] left, cat allergy issues stopped as well

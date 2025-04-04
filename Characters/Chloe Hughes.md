@@ -7,9 +7,11 @@ profession: Student (Bachelor)
 touch: None
 
 associated-group: 
+- "[[D&D Party]]"
+- "[[University Group]]"
 
-archetype:
-desire:
+archetype: Teacher's Pet
+desire: Recognition of her 
 fear:
 strength:
 weakness:
@@ -55,7 +57,7 @@ icon: FasUserLarge
 [[Drug Dealer Sportie]]
 - Roommates
 
-[[Alchemist]]
+[[Paul Aracelsus]]
 - Taught/TAed Synthesis and Analysis
 - Vibed surprisingly well 
 - Mutual interest in videogames

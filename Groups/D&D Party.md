@@ -36,7 +36,7 @@ A D&D campaign run by [[Ramona Jones]]
 - Invited by [[Ramona Jones]]
 
 [[Chloe Hughes]]
-- Plays a Aarakocra Wizard
+- Plays a Tabaxi Wizard
 - Invited by [[Anthony Stinger]]
 
 [[Anthony Stinger]]
