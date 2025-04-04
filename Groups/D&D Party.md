@@ -49,7 +49,12 @@ A D&D campaign run by [[Ramona Jones]]
 
 [[Laurence Vincent Baker|Vince]]
 - Played an Elf Rogue named Galindel 
-- 
+- Very sincere
+
+[[Penelope Mayer|Lucy Martin]]
+- Joined for one session as a guest
+- After [[Laurence Vincent Baker|Vince]] left
+- Played a 
 
 
 ## Internal Politics

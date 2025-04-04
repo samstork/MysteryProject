@@ -9,7 +9,7 @@ icon: FasMagnifyingGlass
 [[Sports Article]]
 [[Alchemist Article]]
 [[Mickey Gold Gone Article]]
-[[Article]]
+
 
 ## Text Messages
 ### Anthony

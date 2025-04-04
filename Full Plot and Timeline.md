@@ -237,10 +237,11 @@
 - [[Penelope Mayer]] notices correlation between [[Rebecca Quill]]'s articles and the touched, starts using her as a compass
 	- Decides not to locket her as she is useful. Touch might not work if she knows what she's doing
 - [[Penelope Mayer]] starts shadowing [[Casey Raid]] 
-	- Becomes a regular at [[The Coffee Nook]]
+	- Gets hired at [[The Coffee Nook]]
 	- Gets along well with [[Gwen Bridget Clooney]]
 
 ### March 
+- [[Sports Article]] published
 - [[Laurence Vincent Baker]] and [[Courtney Wilson]] go to [[Rebecca Quill]], who agrees to help them get the word out. 
 	- [[Mickey Gold Gone Article|Article]] on disappearance of [[Mickey Gold]] published
 
@@ -249,3 +250,8 @@
 	- 
 ### June
 - [[Anthony Stinger]] locketed
+### September
+- [[Rebecca Quill]] notices correlation between her articles and disappearances
+- 
+### October 
+- [[Rebecca Quill]] locketed 

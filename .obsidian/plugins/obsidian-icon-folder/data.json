@@ -965,5 +965,11 @@
   },
   "Clues/Chloe - Lucy Texts.md": {
     "iconName": "FasMessage"
+  },
+  "Clues/Mickey Gold Gone Article.md": {
+    "iconName": "FasNewspaper"
+  },
+  "Clues/Sports Article.md": {
+    "iconName": "FasNewspaper"
   }
 }
