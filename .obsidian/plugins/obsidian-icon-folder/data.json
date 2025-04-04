@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasMessage",
-      "FasT",
-      "FasM",
+      "FasAudioDescription",
+      "FasMagnifyingGlass",
       "FasNewspaper",
-      "FasMagnifyingGlass"
+      "FasVideo",
+      "FasCamera"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -969,7 +969,13 @@
   "Clues/Mickey Gold Gone Article.md": {
     "iconName": "FasNewspaper"
   },
+  "Clues/Viral Policeman Video.md": {
+    "iconName": "FasVideo"
+  },
   "Clues/Sports Article.md": {
     "iconName": "FasNewspaper"
+  },
+  "Clues/Jam Session Transcript.md": {
+    "iconName": "FasAudioDescription"
   }
 }

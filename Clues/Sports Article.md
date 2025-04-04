@@ -1,6 +1,6 @@
 ---
 type: News Article
-status:
+status: Complete
 
 icon: FasNewspaper
 ---
@@ -16,6 +16,9 @@ icon: FasNewspaper
 ## Overview
 
 ## Related Groups/Characters
+[[Anthony Stinger]]
+[[Rebecca Quill]]
+[[The Goodbyes]]
 
 ## Information
 
@@ -53,7 +56,7 @@ Yes, I am. And, yeah, it is a bit of a balancing act – but it is working well 
 
 **And when you are not studying or fencing, what do you like to do? Is there any time left?**
 
-Hm, I like a bunch of things – hanging out with friends, playing games, that sort of thing! I play Dungeons and Dragons, that's a lot of fun. I also enjoy going to concerts – The Goodbyes are really good. Their former bassist is a friend of mine, actually, so I got them live a few times, which was really cool.
+Hm, I like a bunch of things – hanging out with friends, playing games, that sort of thing! I am in a Dungeons and Dragons campaign run by a friend of mine, that's a lot of fun. I also enjoy going to concerts – The Goodbyes are really good. Their former bassist is also a friend of mine, actually, so I got them live a few times, which was really cool. They're very good live.
 
 **Well, that’s all we have time for now – I’ll let you get back to preparing for tomorrow. Best of luck, and have fun in Amsterdam!**
 

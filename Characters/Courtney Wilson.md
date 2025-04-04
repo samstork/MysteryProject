@@ -56,12 +56,12 @@ Just a hobbyist musician, doesn't take it too seriously. Loves [[Mickey Gold]], 
 - Goes well at first, but social media doesn't go well without [[Laurence Vincent Baker]]
 - Trouble in paradise: Suspects [[Mickey Gold]] is cheating on them 
 	- Secretive text messages
-	- Item forgotten by an ONS
 - Fight
-- Talked to [[Penelope Mayer]] at bar, and unthinkingly asked for [[Mickey Gold]] to disappear.
+- Talked to [[Penelope Mayer]] at bar
 ### Searching for [[Mickey Gold]]
 - The last thing they said to each other was very hurtful
 	- Didn't hang out after gig, which is when [[Mickey Gold]] slept with [[Penelope Mayer]] and got locketed
+- Eventually, felt terrible
 
 ### Fight with [[Penelope Mayer|Lucy Martin]]
 - Figured out [[Penelope Mayer|Lucy Martin]], slept with [[Mickey Gold]] from [[Julian Bullock]]
@@ -85,7 +85,7 @@ Just a hobbyist musician, doesn't take it too seriously. Loves [[Mickey Gold]], 
 - Holds grudge against them
 - A little envious of their apparent wealth
 
-[[Penelope Mayer]]
+[[Penelope Mayer|Lucy Martin]]
 - Acquaintance, do not know each other well, but have seen each other around. 
 
 ## Clues and Information
