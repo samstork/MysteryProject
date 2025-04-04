@@ -22,7 +22,7 @@ An article covering [[preservation campaign]] of the [[Local Faerie Area]] near 
 ### [[Political council]]
 - [[Robert Jones]]
 - [[Heath M. Laffee]]
-- [[Casey Raid]]
+- [[Casey Reid]]
 
 ## Information
 - [[Robert Jones]] tried to build something there 
@@ -30,7 +30,7 @@ An article covering [[preservation campaign]] of the [[Local Faerie Area]] near 
 - Both seem to have vested interest in an otherwise unimportant bit of land. 
 	- There's a [[thinning]] there 
 - The land is still unbuilt upon. 
-- [[Casey Raid]] is focused on, weirdly
+- [[Casey Reid]] is focused on, weirdly
 	- Hints towards them having a [[Touch]]
 
 ## Full Contents

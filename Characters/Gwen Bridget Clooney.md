@@ -81,7 +81,7 @@ The barkeep of [[Pollock]], DM of [[D&D Party]], and member of the [[Book Club a
 - Employer
 - Working relationship
 - Wants raise from them
-[[Casey Raid]]
+[[Casey Reid]]
 - Unlikely friends
 - Do crosswords together before book club
 

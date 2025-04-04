@@ -76,7 +76,7 @@
 ## 2007
 
 ## 2008
-- [[Casey Raid]] moves to Groningen
+- [[Casey Reid]] moves to Groningen
 
 ## 2009
 - [[The Coffee Nook]] opens
@@ -91,7 +91,7 @@
 
 ## 2017
 - [[Rebecca Quill]] starts working at [[Local News]]
-- [[Casey Raid]] joins [[Political council]], but not as a full employee
+- [[Casey Reid]] joins [[Political council]], but not as a full employee
 
 ## 2018
 - [[Heath M. Laffee]]'s political campaign in [[Political council|Local Politics]]
@@ -141,10 +141,10 @@
 - [[Courtney Wilson]] joins [[The Goodbyes]]
 ### May
 - [[Book Club and Coven]] start meeting at [[The Coffee Nook]]
-	- [[Casey Raid]], who runs the cafe is friends with [[Evelyn Felidora]]
+	- [[Casey Reid]], who runs the cafe is friends with [[Evelyn Felidora]]
 ### September 
 - [[Gwen Bridget Clooney]] joins [[Book Club and Coven]]
-	- They hang out at [[The Coffee Nook]] often due to their unlikely friendship with [[Casey Raid]]
+	- They hang out at [[The Coffee Nook]] often due to their unlikely friendship with [[Casey Reid]]
 	- Was around for the book club's discussion of [[fantasy book]], which they also enjoy
 ### October 
 - [[The Goodbyes]] lands live gig at [[Pollock]]
@@ -236,7 +236,7 @@
 			- S: "Sorry..."
 - [[Penelope Mayer]] notices correlation between [[Rebecca Quill]]'s articles and the touched, starts using her as a compass
 	- Decides not to locket her as she is useful. Touch might not work if she knows what she's doing
-- [[Penelope Mayer]] starts shadowing [[Casey Raid]] 
+- [[Penelope Mayer]] starts shadowing [[Casey Reid]] 
 	- Gets hired at [[The Coffee Nook]]
 	- Gets along well with [[Gwen Bridget Clooney]]
 
@@ -246,7 +246,7 @@
 	- [[Mickey Gold Gone Article|Article]] on disappearance of [[Mickey Gold]] published
 
 ### April 
-- [[Casey Raid]] is locketed
+- [[Casey Reid]] is locketed
 	- 
 ### June
 - [[Anthony Stinger]] locketed

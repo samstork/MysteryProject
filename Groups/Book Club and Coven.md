@@ -24,7 +24,7 @@ icon: FasBook
 > TABLE age, gender WHERE contains(associated-group, [[]]) 
 >```
 ## Overview
-A book club that meets in [[The Coffee Nook]] run by [[Casey Raid]]. They discuss fantasy books. Most members are also part of a witch coven who know about the supernatural and faeries. Meet once a month. 
+A book club that meets in [[The Coffee Nook]] run by [[Casey Reid]]. They discuss fantasy books. Most members are also part of a witch coven who know about the supernatural and faeries. Meet once a month. 
 
 ### Activities
 - Discussing fantasy books
@@ -49,7 +49,7 @@ A book club that meets in [[The Coffee Nook]] run by [[Casey Raid]]. They discus
 
 ### Expansion
 - [[Evelyn Felidora]] brought in shortly after founding by [[Dorothea Hawthorne]]
-- [[Evelyn Felidora]] knows [[Casey Raid]], arranged for club to be hosted in private room at [[The Coffee Nook]]
+- [[Evelyn Felidora]] knows [[Casey Reid]], arranged for club to be hosted in private room at [[The Coffee Nook]]
 - [[Gwen Bridget Clooney]] joined because they hang out at the [[The Coffee Nook]]
 	- Quickly inducted into coven proper due to their stories of seeing faeries. 
 

@@ -96,7 +96,7 @@ icon: FasUserLarge
 - Found out they're a witch through rumours spread by [[Dana Erickson]]
 - Stole one of their Grimoires
 
-[[Casey Raid]]
+[[Casey Reid]]
 - Became a regular of [[The Coffee Nook]] before locketing her 
 
 [[Rebecca Quill]]

@@ -41,7 +41,7 @@ icon: FasUserLarge
 > Desire | `=this.desire` |
 > Fear | `=this.fear` |
 ## Overview
-The matriarch of the [[Crime Syndicate]]. Mother of [[Robert Jones]] and [[Ramses Porter|Michael Porter]]. Knows a bit about magic but doesn't divulge it. Uses her connection to [[Casey Raid]] to get information on [[Dorothea Hawthorne]], whom she thinks is a thorn in her side. 
+The matriarch of the [[Crime Syndicate]]. Mother of [[Robert Jones]] and [[Ramses Porter|Michael Porter]]. Knows a bit about magic but doesn't divulge it. Uses her connection to [[Casey Reid]] to get information on [[Dorothea Hawthorne]], whom she thinks is a thorn in her side. 
 ### Important Facts
 
 
@@ -76,6 +76,6 @@ The matriarch of the [[Crime Syndicate]]. Mother of [[Robert Jones]] and [[Ramse
 - Does not respect him, thinks his ideas are "cute"
 
 ### [[Sunday Hikers]]
-Forms a group with [[Prof. Dean Gloucester]] and [[Casey Raid]]
+Forms a group with [[Prof. Dean Gloucester]] and [[Casey Reid]]
 
 ## Clues and Information

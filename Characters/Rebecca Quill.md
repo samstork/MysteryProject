@@ -1,20 +1,19 @@
 ---
-aliases: Becky
-gender: 
+aliases:
+  - Becky
+gender: Female
 age: 33
 vitality: Locketed
 profession: 
 touch: Finding other touched
-
 associated-group: 
-
-archetype:
-desire:
-fear:
-strength:
-weakness:
-
-tags: locketed
+archetype: 
+desire: 
+fear: 
+strength: 
+weakness: 
+tags:
+  - locketed
 icon: FasUserLarge
 ---
 
@@ -55,8 +54,8 @@ They have a knack for finding other touched people, and keep unknowingly writing
 ### Coverage of Political Campaign
 [[Political Campaign Article]]
 - For one of her first big stories with [[Local News]], she covers the strangely heated fight over the small green area near Palmslag ([[Local Faerie Area]])
-- She manages to get statements from [[Heath M. Laffee]] and [[Casey Raid]]
-	- [[Casey Raid]]: That land is private property. Building something on it would be perfectly lawful, no matter what Mr. Laffee and the residents say
+- She manages to get statements from [[Heath M. Laffee]] and [[Casey Reid]]
+	- [[Casey Reid]]: That land is private property. Building something on it would be perfectly lawful, no matter what Mr. Laffee and the residents say
 	- [[Heath M. Laffee]]: It's an important part of the neighbourhood etc.
 ### Rise in popularity 
 - Continues to work at [[Local News]], writing numerous articles
