@@ -32,29 +32,34 @@ A D&D campaign run by [[Ramona Jones]]
 - Dungeon Master
 
 [[Gwen Bridget Clooney]]
-- Plays a Human Fighter 
+- Plays a Human Fighter/Cleric
+- Named Lancy Lotter 
 - Invited by [[Ramona Jones]]
 
 [[Chloe Hughes]]
-- Plays a Tabaxi Wizard
+- Plays a Tabaxi Wizard 
+- Named Nyatalie Sylvermyoon
 - Invited by [[Anthony Stinger]]
 
 [[Anthony Stinger]]
-- Plays a Gnome Barbarian
+- Plays a Gnome Barbarian 
+- Named Gnorton the Gnoble
 - invited by [[Ramona Jones]]
 
 [[Aloysius Matje]]
-- Plays a Red Tiefling Warlock
-	- Old ones
+- Plays a Red Tiefling Warlock (old ones)
+- Named Xix Crimson Shadowsoul
+- [[Ramona Jones]]' roommate, got a seat by default
 
 [[Laurence Vincent Baker|Vince]]
-- Played an Elf Rogue named Galindel 
+- Played an Elf Druid
+- named Galindel Orendian
 - Very sincere
 
 [[Penelope Mayer|Lucy Martin]]
-- Joined for one session as a guest
-- After [[Laurence Vincent Baker|Vince]] left
-- Played a 
+- Joined for one session as a guest after [[Laurence Vincent Baker|Vince]] left
+- Played a Half-Elf Oath of vengeance paladin
+	- Named Pennel of Bryanus
 
 
 ## Internal Politics

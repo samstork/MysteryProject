@@ -27,14 +27,15 @@ icon: FasMagnifyingGlass
 [[The Coffee Nook]] poster
 [[Shared Crossword]]
 [[Casey Reid's Schedule]]
+[[Political poster]]
 
 
 ## D&D Materials
 [[Character Sheets]]
 
 ## Other Text
-[[Minutes of Book Club]]
 - [[Book cypher]]
 [[Courtney's notes]]
 [[Taranis Fencing Roster]]
 [[Jam Session Transcript]]
+[[Gwen's Diary]]

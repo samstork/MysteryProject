@@ -1,4 +1,4 @@
-## 1999
+,## 1999
 - [[Penelope Mayer]], [[Analise O'Brian]], and [[Dana Erickson]] are members of [[Taranis Fencing]]. 
 	- [[Analise O'Brian]] and [[Dana Erickson]] are secretly in a relationship. 
 	- [[Penelope Mayer]] is interested in [[Analise O'Brian]] as well. They and [[Dana Erickson]] are rivals. 
@@ -17,7 +17,7 @@
 ### October
 - [[Penelope Mayer]] finds out about magic
 	- Heard rumours [[Dorothea Hawthorne]] might know magic
-	- Stole [[Grimoire]] which contained a spell to contact an Archfey, [[Archfey]]. 
+	- Stole [[Grimoire]] which contained a spell to contact an Archfey, [[Carmanos]]. 
 - [[Chloe Hughes]] meets [[Penelope Mayer]], whom she knows the future version, [[Penelope Mayer|Lucy Martin]]. However, she does not recognise her. 
 - [[Penelope Mayer]] goes off-grid, afraid of [[Dorothea Hawthorne]]
 	- Relies on [[Lotte Rea Winter]], a good friend of theirs 
@@ -25,9 +25,9 @@
 	- [[Dorothea Hawthorne]] does not immediately find them with scrying spell, as the spell is in the [[Grimoire]]
 
 ### November
-- [[Penelope Mayer]] makes a deal with [[Archfey]] 
+- [[Penelope Mayer]] makes a deal with [[Carmanos]] 
 	- Trades their name for the power to locket people
-	- [[Archfey]] can call them to their court at any time
+	- [[Carmanos]] can call them to their court at any time
 - [[Penelope Mayer]] lockets [[Dana Erickson]]
 	- Meets them when they're visiting [[Analise O'Brian]]
 	- Scared, but firm
@@ -58,11 +58,11 @@
 	- Mercy kill, really
 ### March
 - [[Dorothea Hawthorne]] finds and confronts [[Penelope Mayer]]
-	- [[Dorothea Hawthorne]] understands trapper's weakness, calls on [[Archfey]] 
-	- Before [[Archfey]] can act, [[Penelope Mayer]] uses [[Dana Erickson]]'s touch from the locket to try to remove [[Dorothea Hawthorne]]'s memories
+	- [[Dorothea Hawthorne]] understands trapper's weakness, calls on [[Carmanos]] 
+	- Before [[Carmanos]] can act, [[Penelope Mayer]] uses [[Dana Erickson]]'s touch from the locket to try to remove [[Dorothea Hawthorne]]'s memories
 		- Doesn't fully work due to plastic wards on [[Dorothea Hawthorne]]
-		- [[Dorothea Hawthorne]] forgets all about [[Penelope Mayer]] and [[Archfey]]
-	- [[Archfey]] calls [[Penelope Mayer]] into their court
+		- [[Dorothea Hawthorne]] forgets all about [[Penelope Mayer]] and [[Carmanos]]
+	- [[Carmanos]] calls [[Penelope Mayer]] into their court
 ### April 
 - [[Chloe Hughes]] writes [[TT's Note]] to Cass in the future
 ### June 
@@ -126,8 +126,8 @@
 ### July
 - [[Gwen Bridget Clooney]] has a big drug trip
 	- Contacts [[Faerie]]
-- [[Penelope Mayer]] manages to escape [[Archfey]] and returns from [[Faerie]]
-	- [[Archfey]] is distracted by [[Gwen Bridget Clooney]]
+- [[Penelope Mayer]] manages to escape [[Carmanos]] and returns from [[Faerie]]
+	- [[Carmanos]] is distracted by [[Gwen Bridget Clooney]]
 	- Appears in fancy faerie dress in the middle of town 
 ### August
 - [[Evelyn Felidora]] joins [[Book Club and Coven]]

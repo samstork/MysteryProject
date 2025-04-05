@@ -25,7 +25,7 @@ The grimoire of [[Dorothea Hawthorne]], or at least some pages from it
 - Explanation of touches
 - [[Penelope Mayer]] stole grimoire
 - Cypher information
-- [[Penelope Mayer]] summoned [[Archfey]]
+- [[Penelope Mayer]] summoned [[Carmanos]]
 
 ## Full Contents
 ### Outline
@@ -40,7 +40,7 @@ The grimoire of [[Dorothea Hawthorne]], or at least some pages from it
 - Make them do your bidding. 
 #### Spell for Summoning
 - Notes on cypher by [[Penelope Mayer]]
-- Equipment, prep and procedure for summoning [[Archfey]]
+- Equipment, prep and procedure for summoning [[Carmanos]]
 #### Full Cypher Guide (not with the rest)
 - Based on elder futhark, but adapted by generations of witches and thus changed. 
 ### Explanation - Faerie

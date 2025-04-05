@@ -48,15 +48,15 @@ icon: FasUserLarge
 - Witnessed how [[Analise O'Brian]] was (accidentally) killed by [[Dana Erickson]] at a party. 
 #### Stealing grimoire - October 1999
 - Stole [[Dorothea Hawthorne]]'s [[grimoire]]
-	- Contact [[Archfey]]
+	- Contact [[Carmanos]]
 	- Faerie Gate
 	- Scry
 - Goes on the run, with support of [[Lotte Rea Winter]]
 
 #### Deal with [[Faerie]] - November 1999
-- Made deal with [[Archfey]] to obtain locketing power
+- Made deal with [[Carmanos]] to obtain locketing power
 	- Their name in exchange
-	- Can be called back to [[Archfey]]'s court at any time
+	- Can be called back to [[Carmanos]]'s court at any time
 
 #### December
 - Hears about death of [[Lotte Rea Winter]]
@@ -74,14 +74,14 @@ icon: FasUserLarge
 - Found out they can use locketed touches
 
 #### Confrontation with [[Dorothea Hawthorne]] - March 2000
-- [[Dorothea Hawthorne]] called on [[Archfey]]
+- [[Dorothea Hawthorne]] called on [[Carmanos]]
 - Used power of [[Dana Erickson]] to take away [[Dorothea Hawthorne]]'s memories of them
-- Thrown into faerie, called by [[Archfey]]
+- Thrown into faerie, called by [[Carmanos]]
 	- Remains there for 21 years, time passes differently, doesn't age.
 
 ### Recently
 #### Leaving [[Faerie]] - June 2021
-- Escaped from [[Archfey]] due to [[Gwen Bridget Clooney]] somehow releasing them
+- Escaped from [[Carmanos]] due to [[Gwen Bridget Clooney]] somehow releasing them
 - Returned from [[Faerie]] in the middle of the pandemic
 - Took that time to re-acquaint themselves with the 21 years they missed. 
 - Found job at 

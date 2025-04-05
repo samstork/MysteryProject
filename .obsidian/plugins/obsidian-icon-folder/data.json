@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasNoteSticky",
-      "FasTable",
-      "LiTable",
       "FasUserLarge",
-      "FasAudioDescription"
+      "FasBook",
+      "FasMagnifyingGlass",
+      "FasNoteSticky",
+      "FasTable"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -983,5 +983,20 @@
   },
   "Clues/Ramona's Session Notes.md": {
     "iconName": "FasNoteSticky"
+  },
+  "Clues/Gwen's Diary.md": {
+    "iconName": "FasBook"
+  },
+  "Clues/Political poster.md": {
+    "iconName": "FasMagnifyingGlass"
+  },
+  "Clues/Shared Crossword.md": {
+    "iconName": "FasMagnifyingGlass"
+  },
+  "Clues/Casey Reid's Schedule.md": {
+    "iconName": "FasTable"
+  },
+  "Characters/Carmanos.md": {
+    "iconName": "FasUserLarge"
   }
 }

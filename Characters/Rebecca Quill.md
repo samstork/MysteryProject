@@ -79,7 +79,7 @@ They have a knack for finding other touched people, and keep unknowingly writing
 ### Finding the truth
 - Trusted her touch to guide her, which took her to [[Elliott Winter]]
 - Found out that [[Penelope Mayer]] is [[Penelope Mayer|Lucy Martin]]
-- Put together that she was the one-night-stand [[Mickey Gold|Mick]] had the night he vanished.
+- Put together that she was the one-night-stand [[Mickey Gold|Mick]] had the night he vanished by talking to [[Ramses Porter]] and [[Julian Bullock]]
 
 ### Confrontation with [[Penelope Mayer]]
 - While investigating the disappearance of [[Mickey Gold]] and [[Courtney Wilson]], found out about [[Touch|fae touches]]. 
@@ -87,9 +87,8 @@ They have a knack for finding other touched people, and keep unknowingly writing
 
 ## Relationships
 [[Penelope Mayer|Lucy Martin]]
-- Knew them personally 
-- 
-
+- Knew them personally
+- Met them at some point, #
 
 ## Clues and Information
 [[Band Article]]

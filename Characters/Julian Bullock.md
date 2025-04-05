@@ -52,6 +52,7 @@ A grungy guy, member of the [[Taranis Fencing]]. Really down on his luck, always
 
 [[Chloe Hughes]]
 - New roommate
+- Recommended by [[Paul Aracelsus, PhD]]
 
 [[Courtney Wilson]]
 - Really good friend
