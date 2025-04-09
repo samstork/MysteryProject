@@ -169,7 +169,6 @@
 - [[Gwen Bridget Clooney]] hired by [[Ramses Porter]] to work at [[Pollock]]
 ### May
 - [[Gwen Bridget Clooney]] and [[Ramona Jones]] become friends
-- [[Laurence Vincent Baker]] joins 
 ### June
 - [[Ramses Porter]] extends offer to [[The Goodbyes]]
 - [[Paul Aracelsus, PhD]] gets locketed

@@ -40,6 +40,7 @@ Active member lists
 | 01109         | Taylor    | Alan T.    | M   |
 | 75627         | Taylor    | Barbara A. | F   |
 | 28398         | Winter    | Lotte R.   | F   |
+
 ### 2000
 
 | Member number | Last name   | First name  | Sex |
